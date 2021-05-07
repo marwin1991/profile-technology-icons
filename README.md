@@ -6,12 +6,14 @@ Fill free to contribute to this repository.
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ### List of Content:
-- [Communication](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#communication)
-- [Version Control](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#version-control)
-- [Java](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#java)
-- [Mobile Dev](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#java)
-- [Database](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#database)
-- [DevOps](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#devops)
+- [Communication](https://github.com/marwin1991/profile-technology-icons#communication)
+- [Version Control](https://github.com/marwin1991/profile-technology-icons#version-control)
+- [Java](https://github.com/marwin1991/profile-technology-icons#java)
+- [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
+- [Database](https://github.com/marwin1991/profile-technology-icons#database)
+- [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
+
+#### [How to use it?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
 # Communication
 Icon | URL 
@@ -19,7 +21,7 @@ Icon | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
 
-# Version Contro
+# Version Control
 Icon | URL 
 :-----:|-----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
@@ -37,7 +39,7 @@ Icon | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png"> | `https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png`
 
 
-# Mobile De
+# Mobile Dev
 Icon | URL
 :-----:|-----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
