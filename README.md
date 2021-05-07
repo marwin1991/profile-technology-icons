@@ -6,14 +6,51 @@ Fill free to contribute to this repository.
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ### List of Content:
+- [Communication](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#communication)
+- [Version Control](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#version-control)
 - [Java](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#java)
+- [Mobile Dev](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#java)
 - [Database](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#database)
 - [DevOps](https://github.com/marwin1991/profile-technology-icons/new/main?readme=1#devops)
 
+# Communication
+Icon | URL 
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
+
+# Version Contro
+Icon | URL 
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
+
 # Java
+Icon | URL 
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | `https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"> | `https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"> | `https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> | `https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"> | `https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png"> | `https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png`
+
+
+# Mobile De
+Icon | URL
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
 
 # Database
+Icon | URL
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> | `https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> | `https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png`
 
 # DevOps
+Icon | URL
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
 
 # How to use it?
