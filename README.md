@@ -13,7 +13,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 - [Database](https://github.com/marwin1991/profile-technology-icons#database)
 - [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
 
-#### [How to use it?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
+#### [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
 # Communication
 Icon | URL 
