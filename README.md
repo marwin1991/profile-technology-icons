@@ -8,6 +8,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 ### List of Content:
 - [Communication](https://github.com/marwin1991/profile-technology-icons#communication)
 - [Version Control](https://github.com/marwin1991/profile-technology-icons#version-control)
+- [Web Dev](https://github.com/marwin1991/profile-technology-icons#web-dev)
 - [Java](https://github.com/marwin1991/profile-technology-icons#java)
 - [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
 - [Database](https://github.com/marwin1991/profile-technology-icons#database)
@@ -28,6 +29,11 @@ Icon | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
 
+# Web Dev
+Icon | URL 
+:-----:|-----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png`
+
 # Java
 Icon | URL 
 :-----:|-----
@@ -37,6 +43,7 @@ Icon | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> | `https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"> | `https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png"> | `https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png"> | `https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png`
 
 
 # Mobile Dev
