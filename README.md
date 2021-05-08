@@ -55,8 +55,11 @@ Icon | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"> | `https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> | `https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"> | `https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png"> | `https://user-images.githubusercontent.com/25181517/117364274-fbb61c00-aebd-11eb-9667-d3c79a5fc0f4.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117534205-b6ded200-aff0-11eb-8ba8-35d4d4f49159.png"> | `https://user-images.githubusercontent.com/25181517/117534205-b6ded200-aff0-11eb-8ba8-35d4d4f49159.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png"> | `https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> | `https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png"> | `https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 
 
 
@@ -83,3 +86,4 @@ Icon | URL
 
 
 # How to use it?
+
