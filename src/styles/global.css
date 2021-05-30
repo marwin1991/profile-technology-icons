@@ -1,0 +1,18 @@
+html {
+    background-color: white;
+    font-family: -apple-system, Basier, sans-serif, serif;
+}
+
+h1 {
+    color: #26292d;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 120%;
+}
+
+h2.h2-as-paragraph {
+    color: #26292d;
+    font-size: 18px;
+    font-family: Roboto,sans-serif;
+    font-weight: 400;
+}

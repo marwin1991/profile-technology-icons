@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Profile Technology Icons",
-  "author": "Peter",
+  "author": "Peter Zmilczak",
   "keywords": [
     "gatsby"
   ],
@@ -16,9 +16,12 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/lab": "^4.0.0-alpha.58",
     "gatsby": "^3.4.1",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-linear-gradient-button": "^1.1.1"
   },
   "devDependencies": {
     "gh-pages": "^3.2.0"
