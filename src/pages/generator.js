@@ -58,7 +58,7 @@ export default function Generator(props) {
         id="free-solo-2-demo"
         disableClearable
         style={{width: "55%", margin: "auto"}}
-        options={this.props.data.map((option) => option.name)}
+        options={props.data.map((option) => option.name)}
         renderInput={(params) => (
           <TextField
             {...params}
@@ -71,7 +71,7 @@ export default function Generator(props) {
       />
 
         <List dense style={{width: "55%", margin: "auto"}}>
-      {this.props.data.map((tech) => {
+      {props.data.map((tech) => {
           console.log(tech)
         const labelId = `checkbox-list-secondary-label-${tech.name}`;
         return (
