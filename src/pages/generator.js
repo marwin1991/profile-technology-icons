@@ -37,7 +37,7 @@ const useStyles = makeStyles((theme) => ({
 export default function Generator(props) {
     const classes = useStyles();
     const [checked, setChecked] = React.useState([1]);
-  
+      
     const handleToggle = (value) => () => {
       const currentIndex = checked.indexOf(value);
       const newChecked = [...checked];
@@ -58,7 +58,7 @@ export default function Generator(props) {
         id="free-solo-2-demo"
         disableClearable
         style={{width: "55%", margin: "auto"}}
-        options={props.data.map((option) => option.name)}
+        options={this.props.data.map((option) => option.name)}
         renderInput={(params) => (
           <TextField
             {...params}
@@ -71,7 +71,7 @@ export default function Generator(props) {
       />
 
         <List dense style={{width: "55%", margin: "auto"}}>
-      {props.data.map((tech) => {
+      {this.props.data.map((tech) => {
           console.log(tech)
         const labelId = `checkbox-list-secondary-label-${tech.name}`;
         return (
