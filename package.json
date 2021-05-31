@@ -18,10 +18,15 @@
   "dependencies": {
     "@material-ui/core": "latest",
     "@material-ui/lab": "^4.0.0-alpha.58",
+    "babel-plugin-styled-components": "^1.12.0",
     "gatsby": "^3.4.1",
+    "gatsby-plugin-material-ui": "^3.0.1",
+    "gatsby-plugin-react-helmet": "^4.6.0",
+    "gatsby-plugin-styled-components": "^4.6.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-linear-gradient-button": "^1.1.1"
+    "react-helmet": "^6.1.0",
+    "styled-components": "^5.3.0"
   },
   "devDependencies": {
     "gh-pages": "^3.2.0"

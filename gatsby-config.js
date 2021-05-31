@@ -3,5 +3,21 @@ module.exports = {
   siteMetadata: {
     title: "Profile Technology Icons",
   },
-  plugins: []
+  plugins: [{
+    resolve: `gatsby-plugin-styled-components`,
+    options: {
+      displayName: false
+    }
+  },
+
+  {
+    resolve: 'gatsby-plugin-material-ui',
+    options: {
+      stylesProvider: {
+        injectFirst: true,
+      },
+    },
+  },
+  'gatsby-plugin-react-helmet',
+  ]
 };

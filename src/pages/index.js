@@ -1,6 +1,5 @@
 import * as React from "react";
 import ElevateAppBar from "./header"
-import GradientButton from 'react-linear-gradient-button';
 import Generator from "./generator"
 
 const titleContainerStyle = {
@@ -52,13 +51,8 @@ const IndexPage = () => {
         <h2 class={'h2-as-paragraph'} style={titleStyle}>icons preseting technologies that you work with.</h2>
         <h2 class={'h2-as-paragraph'} style={titleStyle}>It will beatify and make more noticeable to recruiters and the community.</h2>
       </div>
-      <GradientButton
-       gradient={['#c31432','#240b36']} 
-       style={startButton} 
-       borderRadius={10} 
-       borderWidth={3} 
-       fontSize={24} 
-       color={"#c31534"} >Start</GradientButton>
+
+
       <Generator style={generatorStyle} data={data}></Generator>
     </main>
   )
