@@ -20,19 +20,19 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 
 
 # Communication
-Icon | URL 
-:-----:|-----
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
+Icon | Name | URL 
+:-----:| :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
 
 
 
 # Version Control
-Icon | URL 
-:-----:|-----
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | Git | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | GitHub | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | GitLab | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
 
 
 
