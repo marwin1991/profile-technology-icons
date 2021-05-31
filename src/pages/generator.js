@@ -36,6 +36,8 @@ const useStyles = makeStyles((theme) => ({
 
 export default function Generator(props) {
     const classes = useStyles();
+    const [data, setData] = React.useState([]);
+    const [loading, setLoading] = React.useState(false);
     const [checked, setChecked] = React.useState([1]);
       
     const handleToggle = (value) => () => {
@@ -50,6 +52,16 @@ export default function Generator(props) {
   
       setChecked(newChecked);
     };
+    
+    React.useEffect(() => {
+        setLoading(true);
+        setData(props.data);
+        setLoading(false);
+    }, []);
+    
+    if (loading) {
+        return <p>Data is loading...</p>;
+    }
 
     return (
       <div style={props.style}>
@@ -58,7 +70,7 @@ export default function Generator(props) {
         id="free-solo-2-demo"
         disableClearable
         style={{width: "55%", margin: "auto"}}
-        options={props.data.map((option) => option.name)}
+        options={data.map((tech) => tech.name)}
         renderInput={(params) => (
           <TextField
             {...params}
@@ -71,7 +83,7 @@ export default function Generator(props) {
       />
 
         <List dense style={{width: "55%", margin: "auto"}}>
-      {props.data.map((tech) => {
+      {data.map((tech) => {
           console.log(tech)
         const labelId = `checkbox-list-secondary-label-${tech.name}`;
         return (
