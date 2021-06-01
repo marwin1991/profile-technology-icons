@@ -5,6 +5,7 @@ import Autocomplete from '@material-ui/lab/Autocomplete';
 
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
+import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
 import ListItemText from '@material-ui/core/ListItemText';
 import Checkbox from '@material-ui/core/Checkbox';
 
@@ -29,8 +30,15 @@ class Generator extends Component {
         super(props);
         this.state = {
             data: [],
+            checked: [],
         };
     }
+
+    handleToggle = (tech) => () => {
+        const currentIndex = this.state.data.indexOf(tech);
+        this.state.data[currentIndex].checked = !this.state.data[currentIndex].checked;
+        this.setState({data: this.state.data})
+    };
 
     componentDidMount() {
         fetch('https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md')
@@ -40,18 +48,20 @@ class Generator extends Component {
                 .map(t => {
                     let tech = t.split("|")
                         .map(a => a.replaceAll(" ", "").replaceAll("`", ""))
-                    if(Array.isArray(tech) && tech.length === 3){
+                    if (Array.isArray(tech) && tech.length === 3) {
                         return (
-                            {"name": tech[1], "link":tech[2]}
+                            {"name": tech[1], "link": tech[2], "checked": false}
                         )
                     }
                 })
                 .filter(t => t !== undefined))
-            .then(techs => this.setState({data: techs}))
+            .then(techs => {
+                this.setState({data: techs});
+            })
     }
 
     render() {
-        const { data } = this.state;
+        const {data} = this.state;
         return (
             <div style={this.props.style}>
                 <Autocomplete
@@ -73,10 +83,9 @@ class Generator extends Component {
 
                 <List dense style={{width: "55%", minWidth: 250, margin: "auto"}}>
                     {data.map((tech) => {
-                        console.log(tech)
                         const labelId = `checkbox-list-secondary-label-${tech.name}`;
                         return (
-                            <ListItem key={tech.name} button>
+                            <ListItem key={tech.name} onClick={this.handleToggle(tech)} button>
                                 <div style={{width: 100, textAlign: 'center'}}>
                                     <img
                                         style={{height: 50}}
@@ -85,10 +94,13 @@ class Generator extends Component {
                                     />
                                 </div>
                                 <ListItemText id={labelId} primary={tech.name}/>
-                                <GreenCheckbox
-                                    edge="end"
-                                    onChange={console.log(1)}
-                                />
+                                <ListItemSecondaryAction>
+                                    <GreenCheckbox
+                                        edge="end"
+                                        onChange={this.handleToggle(tech)}
+                                        checked={this.state.data[this.state.data.indexOf(tech)].checked}
+                                    />
+                                </ListItemSecondaryAction>
                             </ListItem>
                         );
                     })}
