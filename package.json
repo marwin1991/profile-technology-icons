@@ -11,6 +11,7 @@
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
+    "buildProd": "gatsby build --prefix-paths",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
