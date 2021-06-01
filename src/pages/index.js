@@ -17,10 +17,10 @@ const subTitleContainerStyle = {
   paddingBottom: 30
 }
 
-const startButton = {
-  width: 200,
-  margin: "auto"
-}
+// const startButton = {
+//   width: 200,
+//   margin: "auto"
+// }
 
 const generatorStyle = {
   margin: "auto",  

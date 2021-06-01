@@ -36,8 +36,9 @@ class Generator extends Component {
 
     handleToggle = (tech) => () => {
         const currentIndex = this.state.data.indexOf(tech);
-        this.state.data[currentIndex].checked = !this.state.data[currentIndex].checked;
-        this.setState({data: this.state.data})
+        let newData = [...this.state.data]
+        newData[currentIndex].checked = !newData[currentIndex].checked;
+        this.setState({data: newData})
     };
 
     componentDidMount() {
@@ -52,6 +53,8 @@ class Generator extends Component {
                         return (
                             {"name": tech[1], "link": tech[2], "checked": false}
                         )
+                    } else {
+                        return undefined;
                     }
                 })
                 .filter(t => t !== undefined))
