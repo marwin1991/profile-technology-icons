@@ -72,7 +72,15 @@ class Generator extends Component {
                     id="free-solo-2-demo"
                     disableClearable
                     style={{width: "55%", minWidth: 250, margin: "auto"}}
-                    options={data.map((tech) => tech.name)}
+                    options={data.map(tech => tech.name)}
+                    renderOption={(tech) => (
+                        <React.Fragment>
+                            <span>{tech}</span>
+                            <GreenCheckbox
+                                edge="end"
+                            />
+                        </React.Fragment>
+                    )}
                     renderInput={(params) => (
                         <TextField
                             {...params}
@@ -111,7 +119,6 @@ class Generator extends Component {
             </div>
         );
     }
-
 }
 
 export default Generator;
