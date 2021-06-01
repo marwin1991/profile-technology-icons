@@ -52,7 +52,6 @@ const IndexPage = () => {
         <h2 class={'h2-as-paragraph'} style={titleStyle}>It will beatify and make more noticeable to recruiters and the community.</h2>
       </div>
 
-
       <Generator style={generatorStyle} data={data}></Generator>
     </main>
   )
