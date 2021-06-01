@@ -1,109 +1,102 @@
-import React from 'react';
+import React, {Component} from 'react';
 
 import TextField from '@material-ui/core/TextField';
 import Autocomplete from '@material-ui/lab/Autocomplete';
 
-import { makeStyles } from '@material-ui/core/styles';
 import List from '@material-ui/core/List';
 import ListItem from '@material-ui/core/ListItem';
-import ListItemSecondaryAction from '@material-ui/core/ListItemSecondaryAction';
 import ListItemText from '@material-ui/core/ListItemText';
-import ListItemAvatar from '@material-ui/core/ListItemAvatar';
 import Checkbox from '@material-ui/core/Checkbox';
-import Avatar from '@material-ui/core/Avatar';
 
-import { withStyles } from '@material-ui/core/styles';
-import { green } from '@material-ui/core/colors';
+import {withStyles} from '@material-ui/core/styles';
+import {green} from '@material-ui/core/colors';
 
-const useStyles = makeStyles((theme) => ({
+
+const GreenCheckbox = withStyles({
     root: {
-      width: '100%',
-      maxWidth: 360,
-      backgroundColor: theme.palette.background.paper,
-    },
-  }));
-
-  const GreenCheckbox = withStyles({
-    root: {
-      color: green[400],
-      '&$checked': {
-        color: green[600],
-      },
+        color: green[400],
+        '&$checked': {
+            color: green[600],
+        },
     },
     checked: {},
-  })((props) => <Checkbox color="default" {...props} />);
-  
+})((props) => <Checkbox color="default" {...props} />);
 
-export default function Generator(props) {
-    const classes = useStyles();
-    const [data, setData] = React.useState([]);
-    const [loading, setLoading] = React.useState(false);
-    const [checked, setChecked] = React.useState([1]);
-      
-    const handleToggle = (value) => () => {
-      const currentIndex = checked.indexOf(value);
-      const newChecked = [...checked];
-  
-      if (currentIndex === -1) {
-        newChecked.push(value);
-      } else {
-        newChecked.splice(currentIndex, 1);
-      }
-  
-      setChecked(newChecked);
-    };
-    
-    React.useEffect(() => {
-        setLoading(true);
-        setData(props.data);
-        setLoading(false);
-    }, []);
-    
-    if (loading) {
-        return <p>Data is loading...</p>;
+
+class Generator extends Component {
+
+    constructor(props) {
+        super(props);
+        this.state = {
+            data: [],
+        };
     }
 
-    return (
-      <div style={props.style}>
-     <Autocomplete
-        freeSolo
-        id="free-solo-2-demo"
-        disableClearable
-        style={{width: "55%", margin: "auto"}}
-        options={data.map((tech) => tech.name)}
-        renderInput={(params) => (
-          <TextField
-            {...params}
-            label="Search input"
-            margin="normal"
-            variant="outlined"
-            InputProps={{ ...params.InputProps, type: 'search' }}
-          />
-        )}
-      />
+    componentDidMount() {
+        fetch('https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md')
+            .then(response => response.text())
+            .then(text => text.split("\n")
+                .filter(t => t.startsWith("<img"))
+                .map(t => {
+                    let tech = t.split("|")
+                        .map(a => a.replaceAll(" ", "").replaceAll("`", ""))
+                    if(Array.isArray(tech) && tech.length === 3){
+                        return (
+                            {"name": tech[1], "link":tech[2]}
+                        )
+                    }
+                })
+                .filter(t => t !== undefined))
+            .then(techs => this.setState({data: techs}))
+    }
 
-        <List dense style={{width: "55%", margin: "auto"}}>
-      {data.map((tech) => {
-          console.log(tech)
-        const labelId = `checkbox-list-secondary-label-${tech.name}`;
+    render() {
+        const { data } = this.state;
         return (
-          <ListItem key={tech.name} button>
-            <div style={{width: 200, textAlign: 'center' }} >
-              <img
-                style={{height: 50}}
-                alt={tech.name}
-                src={tech.link}
-              />
+            <div style={this.props.style}>
+                <Autocomplete
+                    freeSolo
+                    id="free-solo-2-demo"
+                    disableClearable
+                    style={{width: "55%", minWidth: 250, margin: "auto"}}
+                    options={data.map((tech) => tech.name)}
+                    renderInput={(params) => (
+                        <TextField
+                            {...params}
+                            label="Search input"
+                            margin="normal"
+                            variant="outlined"
+                            InputProps={{...params.InputProps, type: 'search'}}
+                        />
+                    )}
+                />
+
+                <List dense style={{width: "55%", minWidth: 250, margin: "auto"}}>
+                    {data.map((tech) => {
+                        console.log(tech)
+                        const labelId = `checkbox-list-secondary-label-${tech.name}`;
+                        return (
+                            <ListItem key={tech.name} button>
+                                <div style={{width: 100, textAlign: 'center'}}>
+                                    <img
+                                        style={{height: 50}}
+                                        alt={tech.name}
+                                        src={tech.link}
+                                    />
+                                </div>
+                                <ListItemText id={labelId} primary={tech.name}/>
+                                <GreenCheckbox
+                                    edge="end"
+                                    onChange={console.log(1)}
+                                />
+                            </ListItem>
+                        );
+                    })}
+                </List>
             </div>
-            <ListItemText id={labelId} primary={tech.name} />
-              <GreenCheckbox
-                edge="end"
-                onChange={handleToggle(1)}
-              />
-          </ListItem>
         );
-      })}
-    </List>
-      </div>
-    );
-  }
+    }
+
+}
+
+export default Generator;
