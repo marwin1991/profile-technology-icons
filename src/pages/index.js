@@ -10,7 +10,14 @@ import {
     Box
 } from "@material-ui/core";
 
-let theme = createMuiTheme();
+let theme = createMuiTheme({
+    palette: {
+        background: {
+            default: "#ffffff"
+        }
+    }
+});
+
 theme = responsiveFontSizes(theme);
 
 const titleContainerStyle = {
@@ -35,31 +42,34 @@ const generatorStyle = {
 const IndexPage = () => {
     return (
         <main className={"App"}>
-            <ElevateAppBar/>
-            <div style={titleContainerStyle}>
-                <MuiThemeProvider theme={theme}>
-                    <Typography variant="h3" fontWeight={600} gutterBottom>
+            <MuiThemeProvider theme={theme}>
+                <ElevateAppBar/>
+                <div style={titleContainerStyle}>
+                    <Typography variant="h3" fontWeight={600} gutterBottom style={{maxWidth: 850, margin: "auto"}}>
                         <Box fontWeight={600}>
-                            Make your GitHub Profile awesome!<br/>
+                            Make your GitHub Profile awesome!
                             Show what technology you know.
                         </Box>
                     </Typography>
-                    <Typography variant="subtitle1" gutterBottom>
-                        Add to README.md at your GitHub profile sections with <br/>
-                        icons presenting technologies that you work with. <br/>
+                    <Typography variant="subtitle1" gutterBottom style={{maxWidth: 600, margin: "auto", paddingTop: 25}}>
+                        <Box>
+                        Add to README.md at your GitHub profile sections with
+                        icons presenting technologies that you work with.
                         It will beatify and make more noticeable to recruiters
                         and the community.
+                        </Box>
                     </Typography>
-                </MuiThemeProvider>
-            </div>
-            <div style={startButtonStyle}>
-                <GradientButton
-                    style={{width: 200}}
-                    text={"Start"}
-                    fontFamily={"sans-serif"}
-                    gradientColor={{left: 200, mid: 250, right: 300}}/>
-            </div>
-            <Generator style={generatorStyle}/>
+
+                </div>
+                <div style={startButtonStyle}>
+                    <GradientButton
+                        style={{width: 200}}
+                        text={"Start"}
+                        fontFamily={"sans-serif"}
+                        gradientColor={{left: 200, mid: 250, right: 300}}/>
+                </div>
+                <Generator style={generatorStyle}/>
+            </MuiThemeProvider>
         </main>
     )
 }
