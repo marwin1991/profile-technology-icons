@@ -2,13 +2,7 @@ import * as React from "react";
 import ElevateAppBar from "./header"
 import Generator from "./generator"
 import GradientButton from "../components/GradientButton"
-import {
-    createMuiTheme,
-    responsiveFontSizes,
-    MuiThemeProvider,
-    Typography,
-    Box
-} from "@material-ui/core";
+import {Box, createMuiTheme, MuiThemeProvider, responsiveFontSizes, Typography} from "@material-ui/core";
 
 let theme = createMuiTheme({
     palette: {
@@ -33,7 +27,7 @@ const startButtonStyle = {
 const generatorStyle = {
     margin: "auto",
     width: "75%",
-    textAlign: "center",
+    minWidth: 350,
     paddingTop: 75
 }
 
