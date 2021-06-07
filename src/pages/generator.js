@@ -150,7 +150,6 @@ class Generator extends Component {
                         renderOption={(tech) => (
                             <React.Fragment>
                                 <GreenCheckbox
-                                    onChange={this.handleToggle(tech)}
                                     checked={this.state.data[this.state.data.indexOf(tech)].checked}
                                 />
                                 <div style={{width: 50, textAlign: 'center'}}>
