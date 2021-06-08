@@ -22,6 +22,9 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 # Communication
 Icon | Name | URL 
 :-----:| :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png"> | gRPC | `https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
 
