@@ -3,6 +3,14 @@ html {
     font-family: -apple-system, Basier, sans-serif, serif;
 }
 
+* {
+    -ms-overflow-style: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
 .App {
     color: #26292d;
     font-family: -apple-system, Basier, sans-serif, serif;

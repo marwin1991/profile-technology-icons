@@ -25,6 +25,7 @@
     "gatsby": "^3.4.1",
     "gatsby-plugin-material-ui": "^3.0.1",
     "gatsby-plugin-react-helmet": "^4.6.0",
+    "gatsby-plugin-smoothscroll": "^1.2.0",
     "gatsby-plugin-styled-components": "^4.6.0",
     "react": "^17.0.1",
     "react-codemirror2": "^7.2.1",

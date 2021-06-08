@@ -114,10 +114,6 @@ class Generator extends Component {
         this.setState({generatedText: text})
     }
 
-    copyToClipboard = () => {
-
-    }
-
     componentDidMount() {
         fetch('https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md')
             .then(response => response.text())
@@ -143,21 +139,14 @@ class Generator extends Component {
     render() {
         const {data} = this.state;
         return (
-            <div style={this.props.style}>
-                <Typography variant="h4" gutterBottom>
-                    <Box fontWeight={200}>
-                        Your technologies
+            <div style={this.props.style} id={"generator"}>
+                <Typography ref={this.scrollToRef} variant="h6" gutterBottom
+                            style={{width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                    <Box fontWeight={600}>
+                        Search your technologies and then generate markdown code snippet to your GitHub profile.
                     </Box>
                 </Typography>
-                <Box borderRadius={16} {...defaultProps} >
-                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"}/>
-                </Box>
-                {this.state.data.some(x => x.checked) &&
-                <Box fontSize={12} fontStyle="italic" style={{marginTop: 10}}>
-                    Drag to change the order
-                </Box>
-                }
-                <div style={{width: "55%", minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                <div style={{width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30}}>
                     <Autocomplete
                         multiple
                         openOnFocus={true}
@@ -183,18 +172,23 @@ class Generator extends Component {
                         )}
                         renderInput={(params) => (
                             <TextField {...params} variant="outlined" label="Your technologies"
-                                       placeholder="Your technologies"/>
+                                       placeholder="Search your technologies here"/>
                         )}
                     />
                 </div>
-
-                <FormGroup style={{width: "15%", minWidth: 220, margin: "auto"}}>
-                    <Typography variant="h6" gutterBottom>Options</Typography>
-
+                <Box borderRadius={16} {...defaultProps} >
+                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"}/>
+                </Box>
+                {this.state.data.some(x => x.checked) &&
+                <Box fontSize={12} fontStyle="italic" style={{marginTop: 10}}>
+                    Drag to change the order
+                </Box>
+                }
+                <FormGroup row style={{width: 280, margin: "auto", marginTop: 30}}>
                     <TextField
                         label="Icon size"
                         type={'number'}
-                        style={{marginTop: 5}}
+                        style={{marginRight: 10, width: 125}}
                         value={this.state.iconSize}
                         onChange={(event) => this.setState({iconSize: event.target.value})}
                         InputProps={{
@@ -206,44 +200,43 @@ class Generator extends Component {
                     />
 
                     <FormControlLabel
-                        style={{marginTop: 15}}
+                        style={{marginLeft: 5, width: 120}}
                         control={
                             <GreenCheckbox
                                 checked={this.state.includeCode}
                                 name="includeCodeCheckBox"/>}
                         onChange={() => this.setState({includeCode: !this.state.includeCode})}
-                        label="Include <code>"
+                        label="Add<code>"
                     />
-
-                    <FormGroup row style={{marginTop: 10, marginBottom: 25}}>
-                        <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({copied: true})}>
-                            <Button
-                                disabled={this.state.copyButtonDisabled}
-                                style={{
-                                    minWidth: 100,
-                                    marginRight: 10,
-                                    boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
-                                }}
-                                onClick={this.copyToClipboard}
-                            >
-                                <Box fontWeight={600}>
-                                    Copy
-                                </Box>
-                            </Button>
-                        </CopyToClipboard>
+                </FormGroup>
+                <FormGroup row style={{width: 280, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                    <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({copied: true})}>
                         <Button
+                            disabled={this.state.copyButtonDisabled}
                             style={{
-                                minWidth: 100,
-                                marginLeft: 10,
+                                width: 130,
+                                marginRight: 10,
                                 boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
                             }}
-                            onClick={this.generate}
+                            onClick={this.copyToClipboard}
                         >
                             <Box fontWeight={600}>
-                                Generate
+                                Copy
                             </Box>
                         </Button>
-                    </FormGroup>
+                    </CopyToClipboard>
+                    <Button
+                        style={{
+                            width: 130,
+                            marginLeft: 10,
+                            boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
+                        }}
+                        onClick={this.generate}
+                    >
+                        <Box fontWeight={600}>
+                            Generate
+                        </Box>
+                    </Button>
                 </FormGroup>
 
                 <div style={{
