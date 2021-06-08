@@ -26,7 +26,7 @@ const GreenCheckbox = withStyles({
 })((props) => <Checkbox color="default" {...props} />);
 
 const defaultProps = {
-    bgcolor: '#f1f3f6',
+    bgcolor: '#fdfdfd',
     style: {width: '60%', minWidth: 250, minHeight: 80},
     margin: "auto",
     boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
@@ -35,6 +35,7 @@ const defaultProps = {
 const SortableItem = SortableElement(({tech}) => <img
     draggable={true}
     style={{
+        background: '#ffffff',
         height: 50,
         boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)",
         borderRadius: 4,
@@ -71,6 +72,7 @@ class Generator extends Component {
             generatedText: "",
             copyButtonDisabled: true,
             includeCode: true,
+            includeDiv: true,
             iconSize: 50,
             copied: false
         };
@@ -104,12 +106,14 @@ class Generator extends Component {
 
     generate = () => {
         this.setState({copyButtonDisabled: false})
-        let text = "";
+        let text = (this.state.includeDiv ? "<div>\r\n" : "") + ""
         this.state.data.map((tech) => {
             if (tech.checked) {
-                text += (this.state.includeCode ? "<code>" : "") + "<img height=\"" + this.state.iconSize + "\" src=\"" + tech.link + "\">" + (this.state.includeCode ? "</code>" : "") + "\r\n"
+                text += (this.state.includeDiv ? "\t" : "") + (this.state.includeCode ? "<code>" : "") + "<img height=\"" + this.state.iconSize + "\" src=\"" + tech.link + "\" alt=\"" + tech.name + "\" title=\"" + tech.name + "\" />" + (this.state.includeCode ? "</code>" : "") + "\r\n"
             }
         })
+
+        text += (this.state.includeDiv ? "</div>\r\n" : "");
 
         this.setState({generatedText: text})
     }
@@ -184,11 +188,11 @@ class Generator extends Component {
                     Drag to change the order
                 </Box>
                 }
-                <FormGroup row style={{width: 280, margin: "auto", marginTop: 30}}>
+                <FormGroup row style={{width: 310, margin: "auto", marginTop: 30}}>
                     <TextField
                         label="Icon size"
                         type={'number'}
-                        style={{marginRight: 10, width: 125}}
+                        style={{marginRight: 15, width: 140}}
                         value={this.state.iconSize}
                         onChange={(event) => this.setState({iconSize: event.target.value})}
                         InputProps={{
@@ -199,23 +203,34 @@ class Generator extends Component {
                         }}
                     />
 
-                    <FormControlLabel
-                        style={{marginLeft: 5, width: 120}}
-                        control={
-                            <GreenCheckbox
-                                checked={this.state.includeCode}
-                                name="includeCodeCheckBox"/>}
-                        onChange={() => this.setState({includeCode: !this.state.includeCode})}
-                        label="Add<code>"
-                    />
+                    <FormGroup>
+                        <FormControlLabel
+                            style={{marginLeft: 5, width: 130}}
+                            control={
+                                <GreenCheckbox
+                                    checked={this.state.includeCode}
+                                    name="includeCodeCheckBox"/>}
+                            onChange={() => this.setState({includeCode: !this.state.includeCode})}
+                            label="Add <code>"
+                        />
+                        <FormControlLabel
+                            style={{marginLeft: 5, width: 130}}
+                            control={
+                                <GreenCheckbox
+                                    checked={this.state.includeDiv}
+                                    name="includeDivCheckBox"/>}
+                            onChange={() => this.setState({includeDiv: !this.state.includeDiv})}
+                            label="Add <div>"
+                        />
+                    </FormGroup>
                 </FormGroup>
-                <FormGroup row style={{width: 280, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                <FormGroup row style={{width: 310, margin: "auto", marginTop: 30, marginBottom: 30}}>
                     <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({copied: true})}>
                         <Button
                             disabled={this.state.copyButtonDisabled}
                             style={{
-                                width: 130,
-                                marginRight: 10,
+                                width: 140,
+                                marginRight: 15,
                                 boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
                             }}
                             onClick={this.copyToClipboard}
@@ -227,8 +242,8 @@ class Generator extends Component {
                     </CopyToClipboard>
                     <Button
                         style={{
-                            width: 130,
-                            marginLeft: 10,
+                            width: 140,
+                            marginLeft: 15,
                             boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
                         }}
                         onClick={this.generate}
