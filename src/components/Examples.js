@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Example from "./Example";
-import {withPrefix} from "../../.cache/commonjs/gatsby-browser-entry";
+import {withPrefix} from "gatsby-link";
+
 
 class Examples extends Component {
 
