@@ -37,8 +37,8 @@ Icon | Name | URL
 
 
 # Web Dev
-Icon | URL 
-:-----:|-----
+Icon | Name | URL 
+:-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"> | HTML | `https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png"> | CSS | `https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | JavaScript | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png`
@@ -50,8 +50,8 @@ Icon | URL
 
 
 # Java
-Icon | URL 
-:-----:|-----
+Icon | Name | URL 
+:-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | Java | `https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"> | Spring | `https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"> | Spring Boot | `https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png`
@@ -66,23 +66,23 @@ Icon | URL
 
 
 # Mobile Dev
-Icon | URL
-:-----:|-----
+Icon | Name | URL 
+:-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
 
 
 
 # Database
-Icon | URL
-:-----:|-----
+Icon | Name | URL 
+:-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> | PostgreSQL | `https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> | Oracle | `https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png`
 
 
 
 # DevOps
-Icon | URL
-:-----:|-----
+Icon | Name | URL 
+:-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
 
 
