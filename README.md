@@ -22,9 +22,6 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 # Communication
 Icon | Name | URL 
 :-----:| :-----: | -----
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png"> | gRPC | `https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
 
@@ -65,6 +62,9 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> | JUnit | `https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png"> | mocikto | `https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
+
+
 
 
 
