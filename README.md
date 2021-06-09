@@ -14,7 +14,8 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#tools)
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#web-dev)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#java)
-  - ➡️ 📱 [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
+  - ➡️ ☕ [C#](https://github.com/marwin1991/profile-technology-icons#java)
+  - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
 
@@ -90,7 +91,12 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
 
-
+## C#
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> | C# | `https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> | .NET Core | `https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png"> | dot-net | `https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png`
 
 
 
@@ -98,7 +104,8 @@ Icon | Name | URL
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png"> | iOS | `https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png"> | Swift | `https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png`
 
 
 ## Database
