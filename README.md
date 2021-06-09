@@ -14,7 +14,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#tools)
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#web-dev)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#java)
-  - ➡️ ☕ [C#](https://github.com/marwin1991/profile-technology-icons#java)
+  - ➡️ ☕ [C#](https://github.com/marwin1991/profile-technology-icons#c)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
