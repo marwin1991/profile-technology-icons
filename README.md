@@ -37,6 +37,8 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | Git | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | GitHub | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | GitLab | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png"> | GitLab | `https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png`
+
 
 # Tools
 Icon | Name | URL 
@@ -55,6 +57,12 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"> | React | `https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> | Vue.js | `https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png"> | TypeScript | `https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> | npm | `https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121401894-8f658700-c959-11eb-9b6a-ea075be637d6.png"> | yarn | `https://user-images.githubusercontent.com/25181517/121401894-8f658700-c959-11eb-9b6a-ea075be637d6.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"> | Bootstrap | `https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png`
+
+
+
 
 
 
