@@ -45,16 +45,16 @@ const IndexPage = () => {
                     <Typography variant="h3" fontWeight={600} gutterBottom style={{maxWidth: 850, margin: "auto"}}>
                         <Box fontWeight={600}>
                             Make your GitHub Profile awesome!
-                            Show what technology you know.
+                            Show what technologies you know.
                         </Box>
                     </Typography>
                     <Typography variant="subtitle1" gutterBottom
                                 style={{maxWidth: 600, margin: "auto", paddingTop: 25}}>
                         <Box>
-                            Add to README.md at your GitHub profile sections with
+                            Add to README.md at your GitHub profile section with
                             icons presenting technologies that you work with.
-                            It will beatify and make more noticeable to recruiters
-                            and the community.
+                            It will beautify your profile and will make it more 
+                            noticeable to recruiters and the community.
                         </Box>
                     </Typography>
 
