@@ -73,6 +73,7 @@ class Generator extends Component {
             copyButtonDisabled: true,
             includeCode: true,
             includeDiv: true,
+            includeCenter: true,
             iconSize: 50,
             copied: false
         };
@@ -106,7 +107,14 @@ class Generator extends Component {
 
     generate = () => {
         this.setState({copyButtonDisabled: false})
-        let text = (this.state.includeDiv ? "<div>\r\n" : "") + ""
+        let text = ""
+        if (this.state.includeCenter) {
+            text += "<div align=\"center\">\r\n"
+        } else {
+            if (this.state.includeDiv) {
+                text += "<div>\r\n";
+            }
+        }
         this.state.data.map((tech) => {
             if (tech.checked) {
                 text += (this.state.includeDiv ? "\t" : "") + (this.state.includeCode ? "<code>" : "") + "<img height=\"" + this.state.iconSize + "\" src=\"" + tech.link + "\" alt=\"" + tech.name + "\" title=\"" + tech.name + "\" />" + (this.state.includeCode ? "</code>" : "") + "\r\n"
@@ -184,9 +192,9 @@ class Generator extends Component {
                     <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"}/>
                 </Box>
                 {this.state.data.some(x => x.checked) &&
-                <Box fontSize={12} fontStyle="italic" style={{marginTop: 10}}>
-                    Drag to change the order
-                </Box>
+                    <Box fontSize={12} fontStyle="italic" style={{marginTop: 10}}>
+                        Drag to change the order
+                    </Box>
                 }
                 <FormGroup row style={{width: 310, margin: "auto", marginTop: 30}}>
                     <TextField
@@ -219,8 +227,27 @@ class Generator extends Component {
                                 <GreenCheckbox
                                     checked={this.state.includeDiv}
                                     name="includeDivCheckBox"/>}
-                            onChange={() => this.setState({includeDiv: !this.state.includeDiv})}
+                            onChange={() => {
+                                this.setState({includeDiv: !this.state.includeDiv})
+                                if (this.state.includeDiv) {
+                                    this.setState({includeCenter: false})
+                                }
+                            }}
                             label="Add <div>"
+                        />
+                        <FormControlLabel
+                            style={{marginLeft: 5, width: 130}}
+                            control={
+                                <GreenCheckbox
+                                    checked={this.state.includeCenter}
+                                    name="includeCenterCheckBox"/>}
+                            onChange={() => {
+                                this.setState({includeCenter: !this.state.includeCenter})
+                                if (!this.state.includeCenter) {
+                                    this.setState({includeDiv: true})
+                                }// set includeDiv to true
+                            }}
+                            label="Center"
                         />
                     </FormGroup>
                 </FormGroup>

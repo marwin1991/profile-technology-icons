@@ -5,7 +5,8 @@ import GradientButton from "../components/GradientButton"
 import {Box, createMuiTheme, MuiThemeProvider, responsiveFontSizes, Typography} from "@material-ui/core";
 import scrollTo from 'gatsby-plugin-smoothscroll';
 import Examples from "../components/Examples";
-
+import NormalButton from "../components/NormalButton";
+import {Link} from "gatsby";
 
 let theme = createMuiTheme({
     palette: {
@@ -24,7 +25,7 @@ const titleContainerStyle = {
 const startButtonStyle = {
     paddingTop: 30,
     margin: "auto",
-    width: 200
+    width: 400
 }
 
 const generatorStyle = {
@@ -36,7 +37,6 @@ const generatorStyle = {
 
 // markup
 const IndexPage = () => {
-
     return (
         <main className={"App"}>
             <MuiThemeProvider theme={theme}>
@@ -53,19 +53,29 @@ const IndexPage = () => {
                         <Box>
                             Add to README.md at your GitHub profile section with
                             icons presenting technologies that you work with.
-                            It will beautify your profile and will make it more 
+                            It will beautify your profile and will make it more
                             noticeable to recruiters and the community.
                         </Box>
                     </Typography>
 
                 </div>
-                <div style={startButtonStyle} onClick={() => scrollTo('#generator')}>
-                    <GradientButton
-                        style={{width: 200}}
-                        text={"Start"}
-                        fontFamily={"sans-serif"}
-                        gradientColor={{left: 200, mid: 250, right: 300}}
-                    />
+                <div style={startButtonStyle}>
+                    <Link style={{display: "inline-block"}} to={'/learn_more'}>
+                        <NormalButton
+                            style={{width: 190, marginRight: 10}}
+                            text={"Learn more"}
+                            fontFamily={"sans-serif"}
+                            gradientColor={{left: 200, mid: 250, right: 300}}
+                        />
+                    </Link>
+                    <div style={{display: "inline-block"}} onClick={() => scrollTo('#generator')}>
+                        <GradientButton
+                            style={{width: 190, marginLeft: 10}}
+                            text={"Start"}
+                            fontFamily={"sans-serif"}
+                            gradientColor={{left: 200, mid: 250, right: 300}}
+                        />
+                    </div>
                 </div>
                 <Examples/>
                 <Generator style={generatorStyle}/>
