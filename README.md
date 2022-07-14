@@ -120,6 +120,8 @@ Icon | Name | URL
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png"> | CI/CD | `https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> | Jenkins | `https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png`
 
 
 
