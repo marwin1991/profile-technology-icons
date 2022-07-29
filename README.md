@@ -18,11 +18,11 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
-  - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#-cloud)
+  - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#%EF%B8%8F-cloud)
 
-- ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
+- ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#-how-to-use-it)
 
-- ➡️ 🚶 [Contribution](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
+- ➡️ 🚶 [Contribution](https://github.com/marwin1991/profile-technology-icons#-contribution)
 
 
 # 🖨️ Technoogies Icons
