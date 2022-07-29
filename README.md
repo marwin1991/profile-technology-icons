@@ -91,6 +91,8 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png"> | mocikto | `https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png"> | Groovy | `https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png`
+
 
 ### 🪒 C#
 Icon | Name | URL 
