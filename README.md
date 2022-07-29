@@ -8,17 +8,17 @@ Fill free to contribute to this repository.
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ### 📋 List of Content:
-- ➡️ 🖨️ [Technoogies Icons](https://github.com/marwin1991/profile-technology-icons#technoogies-icons)
-  - ➡️ 🚍 [Communication](https://github.com/marwin1991/profile-technology-icons#communication)
-  - ➡️ 🧰 [Version Control](https://github.com/marwin1991/profile-technology-icons#version-control)
-  - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#tools)
-  - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#web-dev)
-  - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#java)
-  - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#c)
-  - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
-  - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#database)
-  - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
-  - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#cloud)
+- ➡️ 🖨️ [Technoogies Icons](https://github.com/marwin1991/profile-technology-icons#-technoogies-icons)
+  - ➡️ 🚍 [Communication](https://github.com/marwin1991/profile-technology-icons#-communication)
+  - ➡️ 🧰 [Version Control](https://github.com/marwin1991/profile-technology-icons#-version-control)
+  - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#-tools)
+  - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#-web-dev)
+  - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#-java)
+  - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
+  - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
+  - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
+  - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
+  - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#-cloud)
 
 - ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
