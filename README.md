@@ -18,6 +18,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
+  - ➡️ 🤿 [Cloud](https://github.com/marwin1991/profile-technology-icons#cloud)
 
 - ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
@@ -122,6 +123,15 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png"> | CI/CD | `https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> | Jenkins | `https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png`
+
+
+## Cloud
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png"> | AWS (Amazon Web Services) | `https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png"> | GCP (Google Cloud Platform) | `https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png`
+
 
 
 
