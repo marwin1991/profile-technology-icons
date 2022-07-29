@@ -131,6 +131,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png"> | AWS (Amazon Web Services) | `https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png"> | GCP (Google Cloud Platform) | `https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png"> | IBM Cloud | `https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png`
 
 
 
