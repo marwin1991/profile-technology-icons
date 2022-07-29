@@ -1,4 +1,4 @@
-# Welcome! profile-technology-icons for README.md
+# 👋 Welcome! profile-technology-icons for README.md
 
 Visit here to generate: ➡️➡️➡️ https://marwin1991.github.io/profile-technology-icons/ ⬅️⬅️⬅️
 
@@ -7,31 +7,31 @@ Fill free to contribute to this repository.
 
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
-### List of Content:
+### 📋 List of Content:
 - ➡️ 🖨️ [Technoogies Icons](https://github.com/marwin1991/profile-technology-icons#technoogies-icons)
   - ➡️ 🚍 [Communication](https://github.com/marwin1991/profile-technology-icons#communication)
   - ➡️ 🧰 [Version Control](https://github.com/marwin1991/profile-technology-icons#version-control)
   - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#tools)
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#web-dev)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#java)
-  - ➡️ ☕ [C#](https://github.com/marwin1991/profile-technology-icons#c)
+  - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#c)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#devops)
-  - ➡️ 🤿 [Cloud](https://github.com/marwin1991/profile-technology-icons#cloud)
+  - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#cloud)
 
 - ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
 - ➡️ 🚶 [Contribution](https://github.com/marwin1991/profile-technology-icons#how-to-use-it)
 
 
-# Technoogies Icons
+# 🖨️ Technoogies Icons
 
 
 *All product names, logos, and brandsare property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*
 
 
-## Communication
+### 🚍 Communication
 Icon | Name | URL 
 :-----:| :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png`
@@ -42,7 +42,7 @@ Icon | Name | URL
 
 
 
-## Version Control
+### 🧰 Version Control
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | Git | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
@@ -51,14 +51,14 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png"> | Bitbucket | `https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png`
 
 
-## Tools
+### 🔨 Tools
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png"> | InteliJ | `https://user-images.githubusercontent.com/25181517/121302773-7aa5d680-c8fa-11eb-98aa-e016fdb2de32.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png"> | Postman | `https://user-images.githubusercontent.com/25181517/121302453-01a67f00-c8fa-11eb-8c86-2ee00734c9a8.png`
 
 
-## Web Dev
+### 🌐 Web Dev
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"> | HTML | `https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png`
@@ -77,7 +77,7 @@ Icon | Name | URL
 
 
 
-## Java
+### ☕ Java
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | Java | `https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png`
@@ -92,7 +92,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
 
-## C#
+### 🪒 C#
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> | C# | `https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png`
@@ -101,7 +101,7 @@ Icon | Name | URL
 
 
 
-## Mobile Dev
+### 📱 Mobile Dev
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
@@ -109,7 +109,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png"> | Swift | `https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png`
 
 
-## Database
+### 💾 Database
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> | PostgreSQL | `https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png`
@@ -117,7 +117,7 @@ Icon | Name | URL
 
 
 
-## DevOps
+### 🤿 DevOps
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
@@ -125,7 +125,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> | Jenkins | `https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png`
 
 
-## Cloud
+### ☁️ Cloud
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png"> | AWS (Amazon Web Services) | `https://user-images.githubusercontent.com/25181517/181717120-3e4236e0-8138-4fe3-810a-5bee03cebe9f.png`
@@ -135,11 +135,11 @@ Icon | Name | URL
 
 
 
-## How to use it?
+# 🍼 How to use it?
 You can visit https://marwin1991.github.io/profile-technology-icons/ and generate code that after adding to your GitHub profile README.md will
 show others what technology you know and use.
 
-# Contribution
+# 🚶 Contribution
 
 ### Adding new icons
 - You can just add issue and ask to add new icons.
