@@ -123,8 +123,12 @@ Icon | Name | URL
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"> | Kubernetes | `https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png"> | CI/CD | `https://user-images.githubusercontent.com/25181517/179089554-10485d86-4ab4-42df-b76c-b2e889d4d796.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> | Jenkins | `https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"> | Grafana | `https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"> | Prometheus | `https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png`
+
 
 
 ### ☁️ Cloud
@@ -134,7 +138,6 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png"> | GCP (Google Cloud Platform) | `https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png"> | IBM Cloud | `https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png`
-
 
 
 
