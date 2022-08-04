@@ -119,6 +119,12 @@ Icon | Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> | PostgreSQL | `https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> | Oracle | `https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182883980-92ae49c5-09c2-41f2-85ae-6e64221ad45f.png"> | MySQL | `https://user-images.githubusercontent.com/25181517/182883980-92ae49c5-09c2-41f2-85ae-6e64221ad45f.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"> | redis | `https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png"> | neo4j | `https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182884168-01f1acb0-90f0-461f-9b87-e4bc361ced68.png"> | Cassandra | `https://user-images.githubusercontent.com/25181517/182884168-01f1acb0-90f0-461f-9b87-e4bc361ced68.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> | mongoDB | `https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png`
+
 
 
 
