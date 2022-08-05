@@ -95,6 +95,13 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png"> | Groovy | `https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png"> | Quarkus | `https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png"> | Micronaut | `https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png"> | Tomcat | `https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183015312-acfafaec-f74c-4a95-94ab-affed28a6679.png"> | jetty | `https://user-images.githubusercontent.com/25181517/183015312-acfafaec-f74c-4a95-94ab-affed28a6679.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183016211-b8901515-3bc8-481c-978b-6133edf88680.png"> | GraalVM | `https://user-images.githubusercontent.com/25181517/183016211-b8901515-3bc8-481c-978b-6133edf88680.png`
+
+
 
 
 ### 🪒 C#
