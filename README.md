@@ -39,6 +39,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183048906-ab41741c-ac5e-4ef6-93e3-4f2c436a3d72.png"> | kafka | `https://user-images.githubusercontent.com/25181517/183048906-ab41741c-ac5e-4ef6-93e3-4f2c436a3d72.png`
 
 
 
