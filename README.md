@@ -98,8 +98,8 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png"> | Quarkus | `https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png"> | Micronaut | `https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png"> | Tomcat | `https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183015312-acfafaec-f74c-4a95-94ab-affed28a6679.png"> | jetty | `https://user-images.githubusercontent.com/25181517/183015312-acfafaec-f74c-4a95-94ab-affed28a6679.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183016211-b8901515-3bc8-481c-978b-6133edf88680.png"> | GraalVM | `https://user-images.githubusercontent.com/25181517/183016211-b8901515-3bc8-481c-978b-6133edf88680.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png"> | jetty | `https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png"> | GraalVM | `https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png`
 
 
 
