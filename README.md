@@ -15,6 +15,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#-web-dev)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#-java)
   - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
+  - ➡️ 🐍 [Python](https://github.com/marwin1991/profile-technology-icons#-python)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
@@ -111,6 +112,15 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> | C# | `https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> | .NET Core | `https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png"> | dot-net | `https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png`
+
+
+### 🐍 Python
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | Python | `https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> | Flask | `https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png`
+
+
 
 
 
