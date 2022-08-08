@@ -77,6 +77,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> | npm | `https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"> | yarn | `https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"> | Bootstrap | `https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg"> | Wordpress | `https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg`
 
 
 
@@ -144,7 +145,9 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png"> | Jenkins | `https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png"> | Grafana | `https://user-images.githubusercontent.com/25181517/182534075-4962068b-4407-46c2-ac67-ddcb86af30cc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"> | Prometheus | `https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png`
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"> | Terraform | `https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png"> | Vault | `https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"> | Nginx | `https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png`
 
 
 ### ☁️ Cloud
