@@ -13,13 +13,16 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🧰 [Version Control](https://github.com/marwin1991/profile-technology-icons#-version-control)
   - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#-tools)
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#-web-dev)
+  - ➡️ 📜 [JavaScript](https://github.com/marwin1991/profile-technology-icons#-javascript)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#-java)
   - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
   - ➡️ 🐍 [Python](https://github.com/marwin1991/profile-technology-icons#-python)
+  - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
   - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#%EF%B8%8F-cloud)
+  - ➡️ 🔬 [Analytics](https://github.com/marwin1991/profile-technology-icons#-analytics)
 
 - ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#-how-to-use-it)
 
@@ -81,6 +84,13 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg"> | Wordpress | `https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg`
 
 
+### 📜 JavaScript
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | Node.js | `https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png`
+
+
+
 
 ### ☕ Java
 Icon | Name | URL 
@@ -121,7 +131,10 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> | Flask | `https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png`
 
 
-
+### 🐘 php
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
 
 
 ### 📱 Mobile Dev
@@ -168,6 +181,11 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png"> | IBM Cloud | `https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png`
 
+
+### 🔬 Analytics
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"> | Elasticsearch | `https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png`
 
 
 # 🍼 How to use it?
