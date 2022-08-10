@@ -67,8 +67,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png"> | Visual Studio | `https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183577745-799bb814-d819-4886-903c-a680bfcd5714.png"> | eclipse | `https://user-images.githubusercontent.com/25181517/183577745-799bb814-d819-4886-903c-a680bfcd5714.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png"> | Postman | `https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png`
-
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"> | Jira | `https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png`
 
 
 ### 🌐 Web Dev
