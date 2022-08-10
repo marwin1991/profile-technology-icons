@@ -52,8 +52,9 @@ Icon | Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png"> | Git | `https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png"> | GitHub | `https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png"> | GitLab | `https://user-images.githubusercontent.com/25181517/117364279-fce74900-aebd-11eb-8b79-75984359d043.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png"> | Bitbucket | `https://user-images.githubusercontent.com/25181517/121401477-0e0df480-c959-11eb-8ec7-ef8d06584380.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183889532-8bdf36de-c3fe-4800-ae29-c2d160ed5025.png"> | GitLab | `https://user-images.githubusercontent.com/25181517/183889532-8bdf36de-c3fe-4800-ae29-c2d160ed5025.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183889089-559b7dbf-0497-4dea-996b-f9b48f8afea4.png"> | Bitbucket | `https://user-images.githubusercontent.com/25181517/183889089-559b7dbf-0497-4dea-996b-f9b48f8afea4.png`
+
 
 
 ### 🔨 Tools
