@@ -77,21 +77,22 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"> | HTML | `https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png"> | CSS | `https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png"> | Sass | `https://user-images.githubusercontent.com/25181517/183577242-5081ea3b-7a3c-419b-9b81-014bf32e2e69.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | JavaScript | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117447798-3c557a00-af3e-11eb-9097-15de64b078de.png"> | Angular | `https://user-images.githubusercontent.com/25181517/117447798-3c557a00-af3e-11eb-9097-15de64b078de.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"> | React | `https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> | Vue.js | `https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png"> | TypeScript | `https://user-images.githubusercontent.com/25181517/117448384-f9e06d00-af3e-11eb-9e02-a05bead103cf.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> | npm | `https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"> | yarn | `https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png"> | Bootstrap | `https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg"> | Wordpress | `https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg`
+
 
 
 
 ### 📜 JavaScript
 Icon | Name | URL 
 :-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | JavaScript | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> | Angular | `https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png"> | React | `https://user-images.githubusercontent.com/25181517/117448085-96eed600-af3e-11eb-9492-83a3a0fcbfb1.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png"> | Vue.js | `https://user-images.githubusercontent.com/25181517/117448124-a2da9800-af3e-11eb-85d2-bd1b69b65603.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"> | TypeScript | `https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png"> | npm | `https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png"> | yarn | `https://user-images.githubusercontent.com/25181517/183049794-a3dfaddd-22ee-4ffe-b0b4-549ccd4879f9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | Node.js | `https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> | Express | `https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png`
 
