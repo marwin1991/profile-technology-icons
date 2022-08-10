@@ -104,17 +104,17 @@ Icon | Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | Java | `https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"> | Spring | `https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png"> | Spring Boot | `https://user-images.githubusercontent.com/25181517/117207026-c9d88300-adf3-11eb-9aad-6a875ab0f628.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png"> | Spring Boot | `https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> | Maven | `https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png"> | Hibernate | `https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117534205-b6ded200-aff0-11eb-8ba8-35d4d4f49159.png"> | Liquibase | `https://user-images.githubusercontent.com/25181517/117534205-b6ded200-aff0-11eb-8ba8-35d4d4f49159.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png"> | Liquibase | `https://user-images.githubusercontent.com/25181517/183891673-32824908-bc5d-44f8-8f72-f0415822404a.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png"> | Struts | `https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> | JUnit | `https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png"> | mocikto | `https://user-images.githubusercontent.com/25181517/117533874-48e5db00-afef-11eb-869b-58c79865f048.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png"> | mocikto | `https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png"> | Spock | `https://user-images.githubusercontent.com/25181517/117534049-15f01700-aff0-11eb-964b-2fe19ecbd26e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png"> | Vaadin | `https://user-images.githubusercontent.com/25181517/121259141-047c8200-c8b0-11eb-9fdf-a9484c59f8d7.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png"> | Groovy | `https://user-images.githubusercontent.com/25181517/181777750-eca226e5-b12a-4650-903a-26266ff3e909.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png"> | Quarkus | `https://user-images.githubusercontent.com/25181517/183015267-95fa54c0-978f-49b4-84da-804d3f00b171.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png"> | Groovy | `https://user-images.githubusercontent.com/25181517/183892787-bca94a0e-ffcb-4eeb-8137-e0fc4e446c25.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png"> | Quarkus | `https://user-images.githubusercontent.com/25181517/183892781-61ed6416-4a2c-4061-8240-e6a23e1d7b09.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png"> | Micronaut | `https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png"> | Tomcat | `https://user-images.githubusercontent.com/25181517/183015763-a0bd3394-a498-4c4d-b026-c8ca7d9b5041.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png"> | jetty | `https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png`
@@ -128,7 +128,6 @@ Icon | Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> | C# | `https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> | .NET Core | `https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png"> | dot-net | `https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png`
 
 
 ### 🐍 Python
