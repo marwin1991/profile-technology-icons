@@ -183,9 +183,10 @@ Icon | Name | URL
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"> | AWS | `https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png"> | GCP | `https://user-images.githubusercontent.com/25181517/181717604-da05e2ed-5064-46ce-8aaa-565ac163b23a.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/181718437-35219eb8-5448-4dfc-9c80-67cadac8688b.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png"> | IBM Cloud | `https://user-images.githubusercontent.com/25181517/181776572-9d1ce4fa-8a8a-4152-8b42-da8e674fa88d.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> | GCP | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> | IBM Cloud | `https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png`
+
 
 
 ### 🔬 Analytics
