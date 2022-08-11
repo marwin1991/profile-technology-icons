@@ -23,7 +23,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
   - ➡️ ☁️ [Cloud](https://github.com/marwin1991/profile-technology-icons#%EF%B8%8F-cloud)
   - ➡️ 🔬 [Analytics](https://github.com/marwin1991/profile-technology-icons#-analytics)
-
+  - ➡️ 🧪 [Testing](https://github.com/marwin1991/profile-technology-icons#-testing)
 - ➡️ 🍼 [How to use this icons?](https://github.com/marwin1991/profile-technology-icons#-how-to-use-it)
 
 - ➡️ 🚶 [Contribution](https://github.com/marwin1991/profile-technology-icons#-contribution)
@@ -194,6 +194,12 @@ Icon | Name | URL
 Icon | Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"> | Elasticsearch | `https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png`
+
+
+### 🧪 Testing
+Icon | Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png"> | Selenium | `https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png`
 
 
 
