@@ -165,6 +165,8 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png"> | neo4j | `https://user-images.githubusercontent.com/25181517/182884027-02cf00e4-6ac5-49a8-816d-3287a26bc5b4.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"> | Cassandra | `https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> | mongoDB | `https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png"> | Hazelcast | `https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png`
+
 
 
 
