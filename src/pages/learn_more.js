@@ -40,6 +40,7 @@ const LearnMore = () => {
                 we couldn’t find what you were looking for.
                 <br/>
                 <Link to="/">⬅️{" "} Go back</Link>
+                <h3> CICD is super </h3>
             </p>
         </main>
     )
