@@ -122,6 +122,12 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png"> | Tomcat | `https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png"> | jetty | `https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png"> | GraalVM | `https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png"> | Scala | `https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png"> | sbt | `https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png"> | Play Framework | `https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"> | Kotlin | `https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png`
+
+
 
 
 
