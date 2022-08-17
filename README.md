@@ -126,8 +126,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png"> | sbt | `https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png"> | Play Framework | `https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"> | Kotlin | `https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png`
-
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png"> | Micrometer | `https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png`
 
 
 
