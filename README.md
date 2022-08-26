@@ -226,7 +226,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> | Windows | `https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> | macOS | `https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"> | Ubuntu | `https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/186884155-08c8e430-d7ea-4063-8350-bce83f91c361.png"> | fedora | `https://user-images.githubusercontent.com/25181517/186884155-08c8e430-d7ea-4063-8350-bce83f91c361.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/186885514-184f1347-c2b1-4615-9d02-1a33e4debbb6.png"> | fedora | `https://user-images.githubusercontent.com/25181517/186885514-184f1347-c2b1-4615-9d02-1a33e4debbb6.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"> | Arch Linux | `https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> | Linux Mint | `https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png`
 
