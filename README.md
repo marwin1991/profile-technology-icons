@@ -40,6 +40,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 Icon | Name | URL 
 :-----:| :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> | websocket | `https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png"> | gRPC | `https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
