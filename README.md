@@ -231,7 +231,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png"> | fedora | `https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"> | Arch Linux | `https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> | Linux Mint | `https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png`
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png"> | elementary OS | `https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png`
 
 
 
