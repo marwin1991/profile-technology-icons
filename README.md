@@ -244,6 +244,7 @@ show others what technology you know and use.
 # 🚶 Contribution
 
 ### Adding new icons
+- Icon must be 400x400px.
 - You can just add issue and ask to add new icons.
 - You can just click "edit" sign or click here [here](https://github.com/marwin1991/profile-technology-icons/edit/main/README.md).
 - You can make fork and edit this file by adding new icon and make Pull Request.
