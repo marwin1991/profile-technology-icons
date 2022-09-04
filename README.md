@@ -87,8 +87,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg"> | Wordpress | `https://user-images.githubusercontent.com/25181517/183345419-fe3e8e5a-9bbb-4c34-9121-463721cd9bfe.jpg`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> | Swagger | `https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png"> | Browsersync | `https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png`
-
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png"> | WebAssembly | `https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png`
 
 
 ### 📜 JavaScript
@@ -181,7 +180,7 @@ Icon | Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png"> | Cassandra | `https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> | mongoDB | `https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png"> | Hazelcast | `https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png`
-
+<img height="50" src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png"> | CouchDB | `https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png`
 
 
 
