@@ -13,6 +13,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🧰 [Version Control](https://github.com/marwin1991/profile-technology-icons#-version-control)
   - ➡️ 🔨 [Tools](https://github.com/marwin1991/profile-technology-icons#-tools)
   - ➡️ 🌐 [Web Dev](https://github.com/marwin1991/profile-technology-icons#-web-dev)
+  - ➡️ ✨ [UI/UX](https://github.com/marwin1991/profile-technology-icons#-uiux)
   - ➡️ 📜 [JavaScript](https://github.com/marwin1991/profile-technology-icons#-javascript)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#-java)
   - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
@@ -77,6 +78,7 @@ Icon | Technoogy Name | URL
 
 
 
+
 ### 🌐 Web Dev
 Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
@@ -88,6 +90,17 @@ Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png"> | Swagger | `https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png"> | Browsersync | `https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png"> | WebAssembly | `https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"> | Firebase | `https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png`
+
+
+
+### ✨ UI/UX
+Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> | Figma | `https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"> | Material Design | `https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"> | Material UI | `https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png`
+
 
 
 ### 📜 JavaScript
@@ -105,6 +118,7 @@ Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> | Redux | `https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"> | Jest | `https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> | webpack | `https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png`
+
 
 
 
