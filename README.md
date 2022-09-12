@@ -1,6 +1,6 @@
 # 👋 Welcome! profile-technology-icons for README.md
 
-Visit here to generate: ➡️➡️➡️ https://marwin1991.github.io/profile-technology-icons/ ⬅️⬅️⬅️
+Visit here to generate: ➡️➡️➡️ **https://marwin1991.github.io/profile-technology-icons/** ⬅️⬅️⬅️
 
 A list of icons that can be used during GitHub profile creation to show what technology, languges are known.
 Fill free to contribute to this repository.
