@@ -144,7 +144,7 @@ class Generator extends Component {
                     if (Array.isArray(tech) && tech.length >= 3) {
                         return (
                             {
-                                "name": tech[1],
+                                "name": tech[1].trim(),
                                 "link": tech[2].replaceAll(" ", "").replaceAll("`", ""),
                                 "checked": false
                             }
