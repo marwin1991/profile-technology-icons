@@ -9,9 +9,12 @@ import { green } from '@mui/material/colors';
 import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
 
 import { SortableContainer, SortableElement } from 'react-sortable-hoc';
-import arrayMove from 'array-move';
+import { arrayMoveImmutable } from 'array-move';
 
-import { UnControlled as CodeMirror } from 'react-codemirror2'
+import CodeMirror from '@uiw/react-codemirror';
+import { darcula } from '@uiw/codemirror-theme-darcula';
+import { html } from '@codemirror/lang-html';
+
 import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
 
@@ -80,7 +83,6 @@ class Generator extends Component {
     }
 
     handleToggle = (tech) => () => {
-        console.log(tech);
         const currentIndex = this.state.data.indexOf(tech);
         let newData = [...this.state.data]
         newData[currentIndex].checked = !newData[currentIndex].checked;
@@ -100,13 +102,12 @@ class Generator extends Component {
             newData[currentIndex].checked = !newData[currentIndex].checked;
         }
 
-        console.log(newData)
         this.setState({ data: newData })
     };
 
     onSortEnd = ({ oldIndex, newIndex }) => {
         this.setState(({ data }) => ({
-            data: arrayMove(data, oldIndex, newIndex),
+            data: arrayMoveImmutable(data, oldIndex, newIndex),
         }));
     };
 
@@ -154,7 +155,6 @@ class Generator extends Component {
                 })
                 .filter(t => t !== undefined))
             .then(techs => {
-                console.log(techs)
                 this.setState({ data: techs });
             })
     }
@@ -295,14 +295,12 @@ class Generator extends Component {
                 <div style={{
                     textAlign: "left"
                 }}>
+
                     <CodeMirror
                         value={this.state.generatedText}
-                        options={{
-                            mode: 'md',
-                            theme: 'material',
-                            lineNumbers: true
-                        }}
-                    />
+                        theme={darcula}
+                        extensions={[html()]} 
+                        minHeight={'150px'}/>
                 </div>
             </div>
         );
