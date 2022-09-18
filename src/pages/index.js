@@ -89,6 +89,6 @@ export default IndexPage
 
 export function Head() {
     return (
-      <title>📋😄 Profile Technology Icons</title>
+      <title>😄 Profile Technology Icons</title>
     )
   }

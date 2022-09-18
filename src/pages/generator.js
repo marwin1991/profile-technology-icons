@@ -1,18 +1,18 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import Checkbox from '@mui/material/Checkbox';
 
-import {withStyles} from '@mui/styles';
-import {green} from '@mui/material/colors';
-import {Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography} from "@mui/material";
+import { withStyles } from '@mui/styles';
+import { green } from '@mui/material/colors';
+import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
 
-import {SortableContainer, SortableElement} from 'react-sortable-hoc';
+import { SortableContainer, SortableElement } from 'react-sortable-hoc';
 import arrayMove from 'array-move';
 
-import {UnControlled as CodeMirror} from 'react-codemirror2'
-import {CopyToClipboard} from "react-copy-to-clipboard/lib/Component";
+import { UnControlled as CodeMirror } from 'react-codemirror2'
+import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
 
 const GreenCheckbox = withStyles({
@@ -27,12 +27,12 @@ const GreenCheckbox = withStyles({
 
 const defaultProps = {
     bgcolor: '#fdfdfd',
-    style: {width: '60%', minWidth: 250, minHeight: 80},
+    style: { width: '60%', minWidth: 250, minHeight: 80 },
     margin: "auto",
     boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
 };
 
-const SortableItem = SortableElement(({tech}) => <img
+const SortableItem = SortableElement(({ tech }) => <img
     draggable={true}
     style={{
         background: '#ffffff',
@@ -45,13 +45,13 @@ const SortableItem = SortableElement(({tech}) => <img
     src={tech.link}
 />);
 
-const SortableList = SortableContainer(({data}) => {
+const SortableList = SortableContainer(({ data }) => {
     return (
         <div>
             {data && data.map((tech, index) => {
                 if (data[data.indexOf(tech)].checked) {
                     return (
-                        <SortableItem key={`item-${tech.name}`} index={index} tech={tech}/>
+                        <SortableItem key={`item-${tech.name}`} index={index} tech={tech} />
                     );
                 } else {
                     return undefined;
@@ -84,7 +84,7 @@ class Generator extends Component {
         const currentIndex = this.state.data.indexOf(tech);
         let newData = [...this.state.data]
         newData[currentIndex].checked = !newData[currentIndex].checked;
-        this.setState({data: newData})
+        this.setState({ data: newData })
     };
 
     handleChose = (techs) => {
@@ -100,17 +100,18 @@ class Generator extends Component {
             newData[currentIndex].checked = !newData[currentIndex].checked;
         }
 
-        this.setState({data: newData})
+        console.log(newData)
+        this.setState({ data: newData })
     };
 
-    onSortEnd = ({oldIndex, newIndex}) => {
-        this.setState(({data}) => ({
+    onSortEnd = ({ oldIndex, newIndex }) => {
+        this.setState(({ data }) => ({
             data: arrayMove(data, oldIndex, newIndex),
         }));
     };
 
     generate = () => {
-        this.setState({copyButtonDisabled: false})
+        this.setState({ copyButtonDisabled: false })
         let text = ""
         if (this.state.includeCenter) {
             text += "<div align=\"center\">\r\n"
@@ -129,7 +130,7 @@ class Generator extends Component {
 
         text += (this.state.includeDiv ? "</div>\r\n" : "");
 
-        this.setState({generatedText: text})
+        this.setState({ generatedText: text })
     }
 
     componentDidMount() {
@@ -142,9 +143,10 @@ class Generator extends Component {
                     if (Array.isArray(tech) && tech.length >= 3) {
                         return (
                             {
-                                "name": tech[1], 
-                                "link": tech[2].replaceAll(" ", "").replaceAll("`", ""), 
-                                "checked": false}
+                                "name": tech[1],
+                                "link": tech[2].replaceAll(" ", "").replaceAll("`", ""),
+                                "checked": false
+                            }
                         )
                     } else {
                         return undefined;
@@ -152,65 +154,66 @@ class Generator extends Component {
                 })
                 .filter(t => t !== undefined))
             .then(techs => {
-                this.setState({data: techs});
+                console.log(techs)
+                this.setState({ data: techs });
             })
     }
 
     render() {
-        const {data} = this.state;
+        const { data } = this.state;
         return (
             <div style={this.props.style} id={"generator"}>
                 <Typography ref={this.scrollToRef} variant="h6" gutterBottom
-                            style={{width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                    style={{ width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <Box fontWeight={600}>
                         Search your technologies and then generate markdown code snippet to your GitHub profile.
                     </Box>
                 </Typography>
-                <div style={{width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30}}>
+                <div style={{ width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <Autocomplete
                         multiple
                         openOnFocus={true}
                         disablePortal={true}
                         disableCloseOnSelect={true}
-                        options={this.state.data}
+                        options={data}
                         getOptionLabel={(tech) => tech.name}
                         onChange={(event, techs) => this.handleChose(techs)}
-                        renderOption={(tech) => (
-                            <React.Fragment>
+                        renderOption={(props, tech) => (
+                            <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
                                 <GreenCheckbox
-                                    checked={this.state.data[this.state.data.indexOf(tech)].checked}
+                                    checked={data[data.indexOf(tech)].checked}
                                 />
-                                <div style={{width: 50, textAlign: 'center'}}>
+                                <div style={{ width: 50, textAlign: 'center' }}>
                                     <img
-                                        style={{height: 25}}
+                                        style={{ height: 25 }}
                                         alt={tech.name}
                                         src={tech.link}
                                     />
                                 </div>
                                 <span>{tech.name}</span>
-                            </React.Fragment>
+                            </Box>
                         )}
                         renderInput={(params) => (
                             <TextField {...params} variant="outlined" label="Your technologies"
-                                       placeholder="Search your technologies here"/>
+                                placeholder="Search your technologies here" />
                         )}
                     />
                 </div>
                 <Box borderRadius={16} {...defaultProps} >
-                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"}/>
+                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"} />
                 </Box>
                 {this.state.data.some(x => x.checked) &&
-                    <Box fontSize={12} fontStyle="italic" style={{marginTop: 10}}>
+                    <Box fontSize={12} fontStyle="italic" style={{ marginTop: 10 }}>
                         Drag to change the order
                     </Box>
                 }
-                <FormGroup row style={{width: 310, margin: "auto", marginTop: 30}}>
+                <FormGroup row style={{ width: 310, margin: "auto", marginTop: 30 }}>
                     <TextField
                         label="Icon size"
                         type={'number'}
-                        style={{marginRight: 15, width: 140}}
+                        style={{ marginRight: 15, width: 140 }}
                         value={this.state.iconSize}
-                        onChange={(event) => this.setState({iconSize: event.target.value})}
+                        onChange={(event) => this.setState({ iconSize: event.target.value })}
                         InputProps={{
                             inputProps: {
                                 max: 1000, min: 1
@@ -221,46 +224,46 @@ class Generator extends Component {
 
                     <FormGroup>
                         <FormControlLabel
-                            style={{marginLeft: 5, width: 130}}
+                            style={{ marginLeft: 5, width: 130 }}
                             control={
                                 <GreenCheckbox
                                     checked={this.state.includeCode}
-                                    name="includeCodeCheckBox"/>}
-                            onChange={() => this.setState({includeCode: !this.state.includeCode})}
+                                    name="includeCodeCheckBox" />}
+                            onChange={() => this.setState({ includeCode: !this.state.includeCode })}
                             label="Add <code>"
                         />
                         <FormControlLabel
-                            style={{marginLeft: 5, width: 130}}
+                            style={{ marginLeft: 5, width: 130 }}
                             control={
                                 <GreenCheckbox
                                     checked={this.state.includeDiv}
-                                    name="includeDivCheckBox"/>}
+                                    name="includeDivCheckBox" />}
                             onChange={() => {
-                                this.setState({includeDiv: !this.state.includeDiv})
+                                this.setState({ includeDiv: !this.state.includeDiv })
                                 if (this.state.includeDiv) {
-                                    this.setState({includeCenter: false})
+                                    this.setState({ includeCenter: false })
                                 }
                             }}
                             label="Add <div>"
                         />
                         <FormControlLabel
-                            style={{marginLeft: 5, width: 130}}
+                            style={{ marginLeft: 5, width: 130 }}
                             control={
                                 <GreenCheckbox
                                     checked={this.state.includeCenter}
-                                    name="includeCenterCheckBox"/>}
+                                    name="includeCenterCheckBox" />}
                             onChange={() => {
-                                this.setState({includeCenter: !this.state.includeCenter})
+                                this.setState({ includeCenter: !this.state.includeCenter })
                                 if (!this.state.includeCenter) {
-                                    this.setState({includeDiv: true})
+                                    this.setState({ includeDiv: true })
                                 }// set includeDiv to true
                             }}
                             label="Center"
                         />
                     </FormGroup>
                 </FormGroup>
-                <FormGroup row style={{width: 310, margin: "auto", marginTop: 30, marginBottom: 30}}>
-                    <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({copied: true})}>
+                <FormGroup row style={{ width: 310, margin: "auto", marginTop: 30, marginBottom: 30 }}>
+                    <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({ copied: true })}>
                         <Button
                             disabled={this.state.copyButtonDisabled}
                             style={{
