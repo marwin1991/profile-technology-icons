@@ -2,12 +2,11 @@ import * as React from "react";
 import ElevateAppBar from "./header"
 import Generator from "./generator"
 import GradientButton from "../components/GradientButton"
-import {Box, createTheme, MuiThemeProvider, responsiveFontSizes, Typography} from "@material-ui/core";
+import {Box, createTheme, ThemeProvider, responsiveFontSizes, Typography} from "@mui/material";
 import scrollTo from 'gatsby-plugin-smoothscroll';
 import Examples from "../components/Examples";
 import NormalButton from "../components/NormalButton";
 import {Link} from "gatsby";
-import { Helmet } from 'react-helmet';
 
 
 let theme = createTheme({
@@ -41,12 +40,7 @@ const generatorStyle = {
 const IndexPage = () => {
     return (
         <main className={"App"}>
-            <Helmet>
-                <title>
-                    📋😄 Profile Technology Icons
-                </title>
-            </Helmet>
-            <MuiThemeProvider theme={theme}>
+            <ThemeProvider theme={theme}>
                 <ElevateAppBar/>
                 <div style={titleContainerStyle}>
                     <Typography variant="h3" fontWeight={600} gutterBottom style={{maxWidth: 850, margin: "auto"}}>
@@ -86,9 +80,15 @@ const IndexPage = () => {
                 </div>
                 <Examples/>
                 <Generator style={generatorStyle}/>
-            </MuiThemeProvider>
+            </ThemeProvider>
         </main>
     )
 }
 
 export default IndexPage
+
+export function Head() {
+    return (
+      <title>😄 Profile Technology Icons</title>
+    )
+  }

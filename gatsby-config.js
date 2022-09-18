@@ -13,9 +13,6 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-material-ui',
             options: {
-                stylesProvider: {
-                    injectFirst: true,
-                },
             },
         },
         {
@@ -24,7 +21,6 @@ module.exports = {
               icon: 'src/assets/images/icon.png',
             },
         },
-        'gatsby-plugin-react-helmet',
-        `gatsby-plugin-smoothscroll`,
+        'gatsby-plugin-smoothscroll'
     ]
 };
