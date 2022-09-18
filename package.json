@@ -41,6 +41,6 @@
     "styled-components": "5.3.5"
   },
   "devDependencies": {
-    "gh-pages": "3.2.3"
+    "gh-pages": "4.0.0"
   }
 }
