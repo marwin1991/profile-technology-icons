@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
-import TextField from '@material-ui/core/TextField';
-import Autocomplete from '@material-ui/lab/Autocomplete';
-import Checkbox from '@material-ui/core/Checkbox';
+import TextField from '@mui/material/TextField';
+import Autocomplete from '@mui/material/Autocomplete';
+import Checkbox from '@mui/material/Checkbox';
 
-import {withStyles} from '@material-ui/core/styles';
-import {green} from '@material-ui/core/colors';
-import {Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography} from "@material-ui/core";
+import {withStyles} from '@mui/styles';
+import {green} from '@mui/material/colors';
+import {Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography} from "@mui/material";
 
 import {SortableContainer, SortableElement} from 'react-sortable-hoc';
 import arrayMove from 'array-move';
