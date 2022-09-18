@@ -89,13 +89,17 @@ class Generator extends Component {
 
     handleChose = (techs) => {
         let newData = [...this.state.data]
+
         for (let i = 0; i < newData.length; i++) {
             newData[i].checked = false;
         }
-        techs.map((tech) => {
+
+        for (let i = 0; i < techs.length; i++) {
+            let tech = techs[i]
             const currentIndex = this.state.data.indexOf(tech);
             newData[currentIndex].checked = !newData[currentIndex].checked;
-        })
+        }
+
         this.setState({data: newData})
     };
 
@@ -115,11 +119,13 @@ class Generator extends Component {
                 text += "<div>\r\n";
             }
         }
-        this.state.data.map((tech) => {
+
+        for (let i = 0; i < this.state.data.length; i++) {
+            let tech = this.state.data[i]
             if (tech.checked) {
                 text += (this.state.includeDiv ? "\t" : "") + (this.state.includeCode ? "<code>" : "") + "<img height=\"" + this.state.iconSize + "\" src=\"" + tech.link + "\" alt=\"" + tech.name + "\" title=\"" + tech.name + "\" />" + (this.state.includeCode ? "</code>" : "") + "\r\n"
             }
-        })
+        }
 
         text += (this.state.includeDiv ? "</div>\r\n" : "");
 
@@ -133,10 +139,12 @@ class Generator extends Component {
                 .filter(t => t.startsWith("<img"))
                 .map(t => {
                     let tech = t.split("|")
-                        .map(a => a.replaceAll(" ", "").replaceAll("`", ""))
-                    if (Array.isArray(tech) && tech.length === 3) {
+                    if (Array.isArray(tech) && tech.length >= 3) {
                         return (
-                            {"name": tech[1], "link": tech[2], "checked": false}
+                            {
+                                "name": tech[1], 
+                                "link": tech[2].replaceAll(" ", "").replaceAll("`", ""), 
+                                "checked": false}
                         )
                     } else {
                         return undefined;

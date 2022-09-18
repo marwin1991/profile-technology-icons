@@ -7,6 +7,8 @@ import scrollTo from 'gatsby-plugin-smoothscroll';
 import Examples from "../components/Examples";
 import NormalButton from "../components/NormalButton";
 import {Link} from "gatsby";
+import { Helmet } from 'react-helmet';
+
 
 let theme = createMuiTheme({
     palette: {
@@ -39,6 +41,11 @@ const generatorStyle = {
 const IndexPage = () => {
     return (
         <main className={"App"}>
+            <Helmet>
+                <title>
+                    📋😄 Profile Technology Icons
+                </title>
+            </Helmet>
             <MuiThemeProvider theme={theme}>
                 <ElevateAppBar/>
                 <div style={titleContainerStyle}>

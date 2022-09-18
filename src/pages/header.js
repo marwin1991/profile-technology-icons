@@ -10,7 +10,10 @@ export default function ElevateAppBar(props) {
         <React.Fragment>
             <AppBar style={{background: "#ffffff"}}>
                 <Toolbar>
-                    <Typography variant="h6" style={{color: "#26292d"}}>Profile Technology Icons</Typography>
+                    <Typography variant="h6" style={{color: "#26292d"}}>
+                        <span role="img" aria-label="Clipboard">📋 </span>
+                        <span role="img" aria-label="Grinning Face with Smiling Eyes">😄 </span>
+                        Profile Technology Icons</Typography>
                     <div style={{marginLeft: 15, marginRight: 15}}>
                         <iframe
                             src="https://ghbtns.com/github-btn.html?user=marwin1991&repo=profile-technology-icons&type=star&count=true&size=large"
