@@ -2,7 +2,7 @@ import * as React from "react";
 import ElevateAppBar from "./header"
 import Generator from "./generator"
 import GradientButton from "../components/GradientButton"
-import {Box, createMuiTheme, MuiThemeProvider, responsiveFontSizes, Typography} from "@material-ui/core";
+import {Box, createTheme, MuiThemeProvider, responsiveFontSizes, Typography} from "@material-ui/core";
 import scrollTo from 'gatsby-plugin-smoothscroll';
 import Examples from "../components/Examples";
 import NormalButton from "../components/NormalButton";
@@ -10,7 +10,7 @@ import {Link} from "gatsby";
 import { Helmet } from 'react-helmet';
 
 
-let theme = createMuiTheme({
+let theme = createTheme({
     palette: {
         background: {
             default: "#ffffff"
