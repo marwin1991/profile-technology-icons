@@ -4,8 +4,6 @@ import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
 import Checkbox from '@mui/material/Checkbox';
 
-import { withStyles } from '@mui/styles';
-import { green } from '@mui/material/colors';
 import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
 
 import { SortableContainer, SortableElement } from 'react-sortable-hoc';
@@ -17,16 +15,6 @@ import { html } from '@codemirror/lang-html';
 
 import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
-
-const GreenCheckbox = withStyles({
-    root: {
-        color: green[400],
-        '&$checked': {
-            color: green[600],
-        },
-    },
-    checked: {},
-})((props) => <Checkbox color="default" {...props} />);
 
 const defaultProps = {
     bgcolor: '#fdfdfd',
@@ -180,9 +168,10 @@ class Generator extends Component {
                         onChange={(event, techs) => this.handleChose(techs)}
                         renderOption={(props, tech) => (
                             <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
-                                <GreenCheckbox
+                                <Checkbox
                                     checked={data[data.indexOf(tech)].checked}
-                                />
+                                    color="default"
+                                     />
                                 <div style={{ width: 50, textAlign: 'center' }}>
                                     <img
                                         style={{ height: 25 }}
@@ -226,18 +215,20 @@ class Generator extends Component {
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <GreenCheckbox
+                                <Checkbox
                                     checked={this.state.includeCode}
-                                    name="includeCodeCheckBox" />}
+                                    name="includeCodeCheckBox"
+                                    color="default" />}
                             onChange={() => this.setState({ includeCode: !this.state.includeCode })}
                             label="Add <code>"
                         />
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <GreenCheckbox
+                                <Checkbox
                                     checked={this.state.includeDiv}
-                                    name="includeDivCheckBox" />}
+                                    name="includeDivCheckBox"
+                                    color="default" />}
                             onChange={() => {
                                 this.setState({ includeDiv: !this.state.includeDiv })
                                 if (this.state.includeDiv) {
@@ -249,9 +240,11 @@ class Generator extends Component {
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <GreenCheckbox
+                                <Checkbox
                                     checked={this.state.includeCenter}
-                                    name="includeCenterCheckBox" />}
+                                    name="includeCenterCheckBox"
+                                    color="default"
+                                     />}
                             onChange={() => {
                                 this.setState({ includeCenter: !this.state.includeCenter })
                                 if (!this.state.includeCenter) {

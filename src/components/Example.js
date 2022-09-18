@@ -1,5 +1,5 @@
 import React from 'react';
-import {makeStyles} from '@mui/styles';
+import { styled } from '@mui/material/styles';
 import Card from '@mui/material/Card';
 import CardActionArea from '@mui/material/CardActionArea';
 import CardActions from '@mui/material/CardActions';
@@ -10,17 +10,24 @@ import Typography from '@mui/material/Typography';
 import {Box} from "@mui/material";
 import {navigate} from 'gatsby';
 
-const useStyles = makeStyles({
-    root: {
+const PREFIX = 'Example';
+
+const classes = {
+    root: `${PREFIX}-root`,
+    media: `${PREFIX}-media`
+};
+
+const StyledCard = styled(Card)({
+    [`&.${classes.root}`]: {
         maxWidth: 345,
     },
-    media: {
+    [`& .${classes.media}`]: {
         height: 140,
     },
 });
 
 export default function Example(props) {
-    const classes = useStyles();
+
 
     function editPage() {
         navigate(props.url);
@@ -28,7 +35,7 @@ export default function Example(props) {
 
 
     return (
-        <Card className={classes.root}
+        <StyledCard className={classes.root}
               style={{
                   boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)",
                   marginLeft: 15,
@@ -59,6 +66,6 @@ export default function Example(props) {
                     </Button>
                 </Box>
             </CardActions>
-        </Card>
+        </StyledCard>
     );
 }

@@ -5,7 +5,14 @@
   "description": "Profile Technology Icons",
   "author": "Peter Zmilczak",
   "keywords": [
-    "cv", "icons", "readme", "profile", "resume", "github", "technology", "technologies"
+    "cv",
+    "icons",
+    "readme",
+    "profile",
+    "resume",
+    "github",
+    "technology",
+    "technologies"
   ],
   "scripts": {
     "develop": "gatsby develop",
@@ -22,7 +29,6 @@
     "@emotion/styled": "11.10.4",
     "@mui/icons-material": "5.10.3",
     "@mui/material": "5.10.5",
-    "@mui/styles": "5.10.3",
     "@uiw/codemirror-theme-darcula": "4.12.3",
     "@uiw/react-codemirror": "4.12.3",
     "array-move": "4.0.0",
