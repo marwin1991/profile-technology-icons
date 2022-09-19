@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
 
-import TextField from '@mui/material/TextField';
-import Autocomplete from '@mui/material/Autocomplete';
-import Checkbox from '@mui/material/Checkbox';
-
-import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
-
-import { SortableContainer, SortableElement } from 'react-sortable-hoc';
-import { arrayMoveImmutable } from 'array-move';
+import {
+    Box,
+    Button,
+    FormControlLabel,
+    FormGroup,
+    InputAdornment,
+    Typography,
+    Autocomplete,
+    TextField
+} from "@mui/material";
 
 import CodeMirror from '@uiw/react-codemirror';
 import { darcula } from '@uiw/codemirror-theme-darcula';
@@ -15,42 +17,11 @@ import { html } from '@codemirror/lang-html';
 
 import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
+import { SortableList } from '../components/SortableList'
 
-const defaultProps = {
-    bgcolor: '#fdfdfd',
-    style: { width: '60%', minWidth: 250, minHeight: 80 },
-    margin: "auto",
-    boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
-};
+import { BlueCheckbox } from '../components/BlueCheckbox'
+import { BlueHeart } from '../components/BlueHeart'
 
-const SortableItem = SortableElement(({ tech }) => <img
-    draggable={true}
-    style={{
-        background: '#ffffff',
-        height: 50,
-        boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)",
-        borderRadius: 4,
-        margin: 15
-    }}
-    alt={tech.name}
-    src={tech.link}
-/>);
-
-const SortableList = SortableContainer(({ data }) => {
-    return (
-        <div>
-            {data && data.map((tech, index) => {
-                if (data[data.indexOf(tech)].checked) {
-                    return (
-                        <SortableItem key={`item-${tech.name}`} index={index} tech={tech} />
-                    );
-                } else {
-                    return undefined;
-                }
-            })}
-        </div>
-    );
-});
 
 
 class Generator extends Component {
@@ -93,11 +64,10 @@ class Generator extends Component {
         this.setState({ data: newData })
     };
 
-    onSortEnd = ({ oldIndex, newIndex }) => {
-        this.setState(({ data }) => ({
-            data: arrayMoveImmutable(data, oldIndex, newIndex),
-        }));
-    };
+    updateTechs = (updatedTechs) => {
+        console.log("updateTechs")
+        this.setState({ data: updatedTechs })
+    }
 
     generate = () => {
         this.setState({ copyButtonDisabled: false })
@@ -168,10 +138,10 @@ class Generator extends Component {
                         onChange={(event, techs) => this.handleChose(techs)}
                         renderOption={(props, tech) => (
                             <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
-                                <Checkbox
+                                <BlueHeart
                                     checked={data[data.indexOf(tech)].checked}
                                     color="default"
-                                     />
+                                />
                                 <div style={{ width: 50, textAlign: 'center' }}>
                                     <img
                                         style={{ height: 25 }}
@@ -188,9 +158,9 @@ class Generator extends Component {
                         )}
                     />
                 </div>
-                <Box borderRadius={16} {...defaultProps} >
-                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"} />
-                </Box>
+
+                <SortableList techs={data} update={this.updateTechs} />
+
                 {this.state.data.some(x => x.checked) &&
                     <Box fontSize={12} fontStyle="italic" style={{ marginTop: 10 }}>
                         Drag to change the order
@@ -215,7 +185,7 @@ class Generator extends Component {
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <Checkbox
+                                <BlueCheckbox
                                     checked={this.state.includeCode}
                                     name="includeCodeCheckBox"
                                     color="default" />}
@@ -225,7 +195,7 @@ class Generator extends Component {
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <Checkbox
+                                <BlueCheckbox
                                     checked={this.state.includeDiv}
                                     name="includeDivCheckBox"
                                     color="default" />}
@@ -240,11 +210,11 @@ class Generator extends Component {
                         <FormControlLabel
                             style={{ marginLeft: 5, width: 130 }}
                             control={
-                                <Checkbox
+                                <BlueCheckbox
                                     checked={this.state.includeCenter}
                                     name="includeCenterCheckBox"
                                     color="default"
-                                     />}
+                                />}
                             onChange={() => {
                                 this.setState({ includeCenter: !this.state.includeCenter })
                                 if (!this.state.includeCenter) {
@@ -292,8 +262,8 @@ class Generator extends Component {
                     <CodeMirror
                         value={this.state.generatedText}
                         theme={darcula}
-                        extensions={[html()]} 
-                        minHeight={'150px'}/>
+                        extensions={[html()]}
+                        minHeight={'150px'} />
                 </div>
             </div>
         );
