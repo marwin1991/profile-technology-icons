@@ -1,12 +1,17 @@
 import React, { Component } from 'react';
 
-import TextField from '@mui/material/TextField';
-import Autocomplete from '@mui/material/Autocomplete';
-import Checkbox from '@mui/material/Checkbox';
+import {
+    Box,
+    Button,
+    FormControlLabel,
+    FormGroup,
+    InputAdornment,
+    Typography,
+    Checkbox,
+    Autocomplete,
+    TextField
+} from "@mui/material";
 
-import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
-
-// import { SortableContainer, SortableElement } from 'react-sortable-hoc';
 import { arrayMoveImmutable } from 'array-move';
 
 import CodeMirror from '@uiw/react-codemirror';
@@ -15,31 +20,7 @@ import { html } from '@codemirror/lang-html';
 
 import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
-import {SortableList} from '../components/SortableList'
-
-const defaultProps = {
-    bgcolor: '#fdfdfd',
-    style: { width: '60%', minWidth: 250, minHeight: 80 },
-    margin: "auto",
-    boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
-};
-
-
-// const SortableList = SortableContext(({ data }) => {
-//     return (
-//         <div>
-//             {data && data.map((tech, index) => {
-//                 if (data[data.indexOf(tech)].checked) {
-//                     return (
-//                         <SortableItem key={`item-${tech.name}`} index={index} tech={tech} />
-//                     );
-//                 } else {
-//                     return undefined;
-//                 }
-//             })}
-//         </div>
-//     );
-// });
+import { SortableList } from '../components/SortableList'
 
 
 class Generator extends Component {
@@ -81,25 +62,6 @@ class Generator extends Component {
 
         this.setState({ data: newData })
     };
-
-    onSortEnd = ({ oldIndex, newIndex }) => {
-        this.setState(({ data }) => ({
-            data: arrayMoveImmutable(data, oldIndex, newIndex),
-        }));
-    };
-
-    handleDragEnd = (event) => {
-        const { active, over } = event;
-
-        if (active.id !== over.id) {
-            const oldIndex = this.state.data.indexOf(active.id);
-            const newIndex = this.state.data.indexOf(over.id);
-
-            this.setState(({ data }) => ({
-                data: arrayMoveImmutable(data, oldIndex, newIndex),
-            }));
-        }
-    }
 
     generate = () => {
         this.setState({ copyButtonDisabled: false })
@@ -190,9 +152,9 @@ class Generator extends Component {
                         )}
                     />
                 </div>
-                {/* <Box borderRadius={16} {...defaultProps} > */}
-                    <SortableList techs={data}  />
-                {/* </Box> */}
+
+                <SortableList techs={data} />
+
                 {this.state.data.some(x => x.checked) &&
                     <Box fontSize={12} fontStyle="italic" style={{ marginTop: 10 }}>
                         Drag to change the order
