@@ -11,8 +11,6 @@ import {
     TextField
 } from "@mui/material";
 
-import { arrayMoveImmutable } from 'array-move';
-
 import CodeMirror from '@uiw/react-codemirror';
 import { darcula } from '@uiw/codemirror-theme-darcula';
 import { html } from '@codemirror/lang-html';
