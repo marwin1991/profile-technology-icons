@@ -6,7 +6,7 @@ import Checkbox from '@mui/material/Checkbox';
 
 import { Box, Button, FormControlLabel, FormGroup, InputAdornment, Typography } from "@mui/material";
 
-import { SortableContainer, SortableElement } from 'react-sortable-hoc';
+// import { SortableContainer, SortableElement } from 'react-sortable-hoc';
 import { arrayMoveImmutable } from 'array-move';
 
 import CodeMirror from '@uiw/react-codemirror';
@@ -15,6 +15,7 @@ import { html } from '@codemirror/lang-html';
 
 import { CopyToClipboard } from "react-copy-to-clipboard/lib/Component";
 
+import {SortableList} from '../components/SortableList'
 
 const defaultProps = {
     bgcolor: '#fdfdfd',
@@ -23,34 +24,22 @@ const defaultProps = {
     boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
 };
 
-const SortableItem = SortableElement(({ tech }) => <img
-    draggable={true}
-    style={{
-        background: '#ffffff',
-        height: 50,
-        boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)",
-        borderRadius: 4,
-        margin: 15
-    }}
-    alt={tech.name}
-    src={tech.link}
-/>);
 
-const SortableList = SortableContainer(({ data }) => {
-    return (
-        <div>
-            {data && data.map((tech, index) => {
-                if (data[data.indexOf(tech)].checked) {
-                    return (
-                        <SortableItem key={`item-${tech.name}`} index={index} tech={tech} />
-                    );
-                } else {
-                    return undefined;
-                }
-            })}
-        </div>
-    );
-});
+// const SortableList = SortableContext(({ data }) => {
+//     return (
+//         <div>
+//             {data && data.map((tech, index) => {
+//                 if (data[data.indexOf(tech)].checked) {
+//                     return (
+//                         <SortableItem key={`item-${tech.name}`} index={index} tech={tech} />
+//                     );
+//                 } else {
+//                     return undefined;
+//                 }
+//             })}
+//         </div>
+//     );
+// });
 
 
 class Generator extends Component {
@@ -98,6 +87,19 @@ class Generator extends Component {
             data: arrayMoveImmutable(data, oldIndex, newIndex),
         }));
     };
+
+    handleDragEnd = (event) => {
+        const { active, over } = event;
+
+        if (active.id !== over.id) {
+            const oldIndex = this.state.data.indexOf(active.id);
+            const newIndex = this.state.data.indexOf(over.id);
+
+            this.setState(({ data }) => ({
+                data: arrayMoveImmutable(data, oldIndex, newIndex),
+            }));
+        }
+    }
 
     generate = () => {
         this.setState({ copyButtonDisabled: false })
@@ -171,7 +173,7 @@ class Generator extends Component {
                                 <Checkbox
                                     checked={data[data.indexOf(tech)].checked}
                                     color="default"
-                                     />
+                                />
                                 <div style={{ width: 50, textAlign: 'center' }}>
                                     <img
                                         style={{ height: 25 }}
@@ -188,9 +190,9 @@ class Generator extends Component {
                         )}
                     />
                 </div>
-                <Box borderRadius={16} {...defaultProps} >
-                    <SortableList data={data} onSortEnd={this.onSortEnd} axis={"xy"} />
-                </Box>
+                {/* <Box borderRadius={16} {...defaultProps} > */}
+                    <SortableList techs={data}  />
+                {/* </Box> */}
                 {this.state.data.some(x => x.checked) &&
                     <Box fontSize={12} fontStyle="italic" style={{ marginTop: 10 }}>
                         Drag to change the order
@@ -244,7 +246,7 @@ class Generator extends Component {
                                     checked={this.state.includeCenter}
                                     name="includeCenterCheckBox"
                                     color="default"
-                                     />}
+                                />}
                             onChange={() => {
                                 this.setState({ includeCenter: !this.state.includeCenter })
                                 if (!this.state.includeCenter) {
@@ -292,8 +294,8 @@ class Generator extends Component {
                     <CodeMirror
                         value={this.state.generatedText}
                         theme={darcula}
-                        extensions={[html()]} 
-                        minHeight={'150px'}/>
+                        extensions={[html()]}
+                        minHeight={'150px'} />
                 </div>
             </div>
         );
