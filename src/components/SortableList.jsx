@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import {
     closestCenter,
     DndContext,
-    DragOverlay,
     KeyboardSensor,
     PointerSensor,
     useSensor,
@@ -12,7 +11,6 @@ import {
     arrayMove,
     SortableContext,
     sortableKeyboardCoordinates,
-    verticalListSortingStrategy,
 } from '@dnd-kit/sortable';
 
 import { SortableItem } from './SortableItem';
