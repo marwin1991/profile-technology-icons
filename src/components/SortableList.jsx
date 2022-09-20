@@ -18,7 +18,7 @@ import { SortableItem } from './SortableItem';
 
 const containerProps = {
     bgcolor: '#fdfdfd',
-    style: { width: '60%', minWidth: 250, minHeight: 80 },
+    style: { width: '60%', minWidth: 350, minHeight: 80 },
     margin: "auto",
     boxShadow: "6px 6px 8px 0 rgba(0, 0, 0, 0.25), -4px -4px 6px 0 rgba(255, 255, 255, 0.3)"
 };

@@ -127,7 +127,7 @@ class Generator extends Component {
                         Search your technologies and then generate markdown code snippet to your GitHub profile.
                     </Box>
                 </Typography>
-                <div style={{ width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30 }}>
+                <div style={{ width: '60%', minWidth: 350, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <Autocomplete
                         multiple
                         openOnFocus={true}
@@ -166,11 +166,11 @@ class Generator extends Component {
                         Drag to change the order
                     </Box>
                 }
-                <FormGroup row style={{ width: 310, margin: "auto", marginTop: 30 }}>
+                <FormGroup row style={{ width: 350, margin: "auto", marginTop: 30 }}>
                     <TextField
                         label="Icon size"
                         type={'number'}
-                        style={{ marginRight: 15, width: 140 }}
+                        style={{ marginRight: 10, width: 165 }}
                         value={this.state.iconSize}
                         onChange={(event) => this.setState({ iconSize: event.target.value })}
                         InputProps={{
@@ -183,7 +183,7 @@ class Generator extends Component {
 
                     <FormGroup>
                         <FormControlLabel
-                            style={{ marginLeft: 5, width: 130 }}
+                            style={{ marginLeft: 10, width: 149 }}
                             control={
                                 <BlueCheckbox
                                     checked={this.state.includeCode}
@@ -193,7 +193,7 @@ class Generator extends Component {
                             label="Add <code>"
                         />
                         <FormControlLabel
-                            style={{ marginLeft: 5, width: 130 }}
+                            style={{ marginLeft: 10, width: 149 }}
                             control={
                                 <BlueCheckbox
                                     checked={this.state.includeDiv}
@@ -208,7 +208,7 @@ class Generator extends Component {
                             label="Add <div>"
                         />
                         <FormControlLabel
-                            style={{ marginLeft: 5, width: 130 }}
+                            style={{ marginLeft: 10, width: 149 }}
                             control={
                                 <BlueCheckbox
                                     checked={this.state.includeCenter}
@@ -225,13 +225,13 @@ class Generator extends Component {
                         />
                     </FormGroup>
                 </FormGroup>
-                <FormGroup row style={{ width: 310, margin: "auto", marginTop: 30, marginBottom: 30 }}>
+                <FormGroup row style={{ width: 320, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <CopyToClipboard text={this.state.generatedText} onCopy={() => this.setState({ copied: true })}>
                         <Button
                             disabled={this.state.copyButtonDisabled}
                             style={{
-                                width: 140,
-                                marginRight: 15,
+                                width: 150,
+                                marginRight: 10,
                                 boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
                             }}
                             onClick={this.copyToClipboard}
@@ -243,8 +243,8 @@ class Generator extends Component {
                     </CopyToClipboard>
                     <Button
                         style={{
-                            width: 140,
-                            marginLeft: 15,
+                            width: 150,
+                            marginLeft: 10,
                             boxShadow: "6px 6px 12px 0 rgba(0, 0, 0, 0.2), -6px -6px 12px 0 rgba(255, 255, 255, 0.5)"
                         }}
                         onClick={this.generate}
