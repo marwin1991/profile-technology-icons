@@ -20,6 +20,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
   - ➡️ 🐍 [Python](https://github.com/marwin1991/profile-technology-icons#-python)
   - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
+  - ➡️ 🧮 [Fortran](https://github.com/marwin1991/profile-technology-icons#-fortran)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
@@ -187,6 +188,12 @@ Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
 
 
+### 🧮 Fortran
+Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"> | Fortran | `https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png`
+
+
 ### 📱 Mobile Dev
 Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
@@ -245,6 +252,9 @@ Icon | Technoogy Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"> | Elasticsearch | `https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> | Apache Spark | `https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png"> | MATLAB | `https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png`
+
+
 
 
 ### 🧪 Testing
