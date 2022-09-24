@@ -42,16 +42,13 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 ### 🚍 Communication
 Icon | Technoogy Name | URL 
 :-----:| :-----: | -----
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/183869554-ae3ce73a-b756-4cea-bb96-eadc96506102.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> | websocket | `https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png"> | gRPC | `https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/121258455-33debf00-c8af-11eb-8baa-abdd6d0d8c71.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"> | REST | `https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png`
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/117208507-7ebf6f80-adf5-11eb-864d-43546ac7c8a2.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png"> | gRPC | `https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"> | GraphQL | `https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> | REST | `https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png"> | SOAP | `https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> | kafka | `https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png`
-
-
-
 
 
 ### 🧰 Version Control
