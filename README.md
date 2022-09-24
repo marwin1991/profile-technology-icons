@@ -16,6 +16,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ ✨ [UI/UX](https://github.com/marwin1991/profile-technology-icons#-uiux)
   - ➡️ 📜 [JavaScript](https://github.com/marwin1991/profile-technology-icons#-javascript)
   - ➡️ ☕ [Java](https://github.com/marwin1991/profile-technology-icons#-java)
+  - ➡️ ©️ [C/C++](https://github.com/marwin1991/profile-technology-icons#-java) 
   - ➡️ 🪒 [C#](https://github.com/marwin1991/profile-technology-icons#-c)
   - ➡️ 🐍 [Python](https://github.com/marwin1991/profile-technology-icons#-python)
   - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
@@ -155,6 +156,12 @@ Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png"> | Play Framework | `https://user-images.githubusercontent.com/25181517/185062812-8138c46e-b0a4-43d2-bb17-32e071b0a088.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"> | Kotlin | `https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png"> | Micrometer | `https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png`
+
+### ©️ C/C++
+Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> | C | `https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"> | C++ | `https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png`
 
 
 
