@@ -242,6 +242,7 @@ Icon | Technoogy Name | URL
 ### 🤿 DevOps
 Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> | bash | `https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png"> | Kubernetes | `https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png"> | CI/CD | `https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png`
@@ -254,6 +255,7 @@ Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png"> | Vault | `https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"> | Nginx | `https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png"> | Consul | `https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png`
+
 
 
 
