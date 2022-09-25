@@ -28,7 +28,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
   - ➡️ 🧮 [Fortran](https://github.com/marwin1991/profile-technology-icons#-fortran)
   - ➡️ 🐿️ [Go](https://github.com/marwin1991/profile-technology-icons#-go)
-  - ➡️ ☎️ [Erlang/Elixir](https://github.com/marwin1991/profile-technology-icons#-go) 
+  - ➡️ ☎️ [Erlang/Elixir](https://github.com/marwin1991/profile-technology-icons#%EF%B8%8F-erlangelixir) 
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
