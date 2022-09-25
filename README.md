@@ -28,6 +28,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
   - ➡️ 🧮 [Fortran](https://github.com/marwin1991/profile-technology-icons#-fortran)
   - ➡️ 🐿️ [Go](https://github.com/marwin1991/profile-technology-icons#-go)
+  - ➡️ ☎️ [Erlang/Elixir](https://github.com/marwin1991/profile-technology-icons#-go) 
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
@@ -204,6 +205,12 @@ Icon | Technoogy Name | URL
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"> | Go | `https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png`
 
+
+### ☎️ Erlang/Elixir
+Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png"> | Erlang | `https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png"> | Elixir | `https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png`
 
 
 
