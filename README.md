@@ -1,9 +1,15 @@
 # 👋 Welcome! profile-technology-icons for README.md
 
-Visit here to generate: ➡️➡️➡️ **https://marwin1991.github.io/profile-technology-icons/** ⬅️⬅️⬅️
-
 A list of icons that can be used during GitHub profile creation to show what technology, languges are known.
 Fill free to contribute to this repository.
+
+### ➡️ Visit here to generate: **https://marwin1991.github.io/profile-technology-icons/**
+
+<div align="center">
+  <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" />
+</div>
+
+### 💼 Related Work
 
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
