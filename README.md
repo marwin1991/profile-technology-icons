@@ -21,6 +21,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🐍 [Python](https://github.com/marwin1991/profile-technology-icons#-python)
   - ➡️ 🐘 [php](https://github.com/marwin1991/profile-technology-icons#-php)
   - ➡️ 🧮 [Fortran](https://github.com/marwin1991/profile-technology-icons#-fortran)
+  - ➡️ 🐿️ [Go](https://github.com/marwin1991/profile-technology-icons#-go)
   - ➡️ 📱  [Mobile Dev](https://github.com/marwin1991/profile-technology-icons#-mobile-dev)
   - ➡️ 💾 [Database](https://github.com/marwin1991/profile-technology-icons#-database)
   - ➡️ 🤿 [DevOps](https://github.com/marwin1991/profile-technology-icons#-devops)
@@ -190,6 +191,14 @@ Icon | Technoogy Name | URL
 Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"> | Fortran | `https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png`
+
+
+### 🐿️ Go
+Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"> | Go | `https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png`
+
+
 
 
 ### 📱 Mobile Dev
