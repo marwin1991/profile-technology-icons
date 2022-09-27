@@ -26,6 +26,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🪒 [C#](#-c)
   - ➡️ 🐍 [Python](#-python)
   - ➡️ 🐘 [php](#-php)
+  - ➡️ 💎 [Ruby](#-ruby)
   - ➡️ 🦾 [Rust](#-rust)
   - ➡️ 🧮 [Fortran](#-fortran)
   - ➡️ 🐿️ [Go](#-go)
@@ -192,6 +193,15 @@ Technoogy Icon | Technoogy Name | URL
 Technoogy Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
+
+
+### 💎 Ruby
+Technoogy Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png"> | Ruby | `https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png"> | Ruby on Rails | `https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192603750-4142ae75-10fa-4b61-a773-8b2052834357.png"> | RubyGems | `https://user-images.githubusercontent.com/25181517/192603750-4142ae75-10fa-4b61-a773-8b2052834357.png`
+
 
 
 ### 🦾 Rust
