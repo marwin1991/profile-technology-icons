@@ -26,6 +26,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🪒 [C#](#-c)
   - ➡️ 🐍 [Python](#-python)
   - ➡️ 🐘 [php](#-php)
+  - ➡️ 🦾 [Rust](#-rust)
   - ➡️ 🧮 [Fortran](#-fortran)
   - ➡️ 🐿️ [Go](#-go)
   - ➡️ ☎️ [Erlang/Elixir](#%EF%B8%8F-erlangelixir) 
@@ -191,6 +192,13 @@ Technoogy Icon | Technoogy Name | URL
 Technoogy Icon | Technoogy Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
+
+
+### 🦾 Rust
+Technoogy Icon | Technoogy Name | URL 
+:-----:|  :-----: | -----
+<img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png"> | Rust | `https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png`
+
 
 
 ### 🧮 Fortran
