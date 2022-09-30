@@ -31,6 +31,7 @@ class Generator extends Component {
         this.state = {
             data: [],
             checked: [],
+            inputText: '',
             generatedText: "",
             copyButtonDisabled: true,
             includeCode: true,
@@ -65,7 +66,6 @@ class Generator extends Component {
     };
 
     updateTechs = (updatedTechs) => {
-        console.log("updateTechs")
         this.setState({ data: updatedTechs })
     }
 
@@ -130,12 +130,21 @@ class Generator extends Component {
                 <div style={{ width: '60%', minWidth: 350, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <Autocomplete
                         multiple
-                        openOnFocus={true}
-                        disablePortal={true}
-                        disableCloseOnSelect={true}
+                        openOnFocus
+                        disablePortal
+                        disableCloseOnSelect
                         options={data}
                         getOptionLabel={(tech) => tech.name}
                         onChange={(event, techs) => this.handleChose(techs)}
+                    
+                        inputValue={this.state.inputText}
+                        onInputChange={(event, value, reason) => {
+                            if ( event && event.type === 'blur' ) {
+                                this.setState({inputText: ''});          
+                              }else if (reason !== "reset") {
+                                this.setState({inputText: value});                              
+                            }
+                        }}
                         renderOption={(props, tech) => (
                             <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
                                 <BlueHeart
