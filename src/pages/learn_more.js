@@ -34,13 +34,15 @@ const LearnMore = () => {
         <main style={pageStyles}>
             <title>Learn More</title>
             <h2 style={headingStyles}>Learn more</h2>
-            <Link to="/" style={goBackStyles}>⬅️{" "} Go back</Link>
+            
             <p style={paragraphStyles}>
-                Sorry{" "}<span role="img" aria-label="Pensive emoji">😔</span>{" "}
-                we couldn’t find what you were looking for.
+                <span role="img" aria-label="Television">📺</span> See this simple GIF to learn how to use it.
                 <br/>
-                <Link to="/">⬅️{" "} Go back</Link>
-                <h3> CICD is super </h3>
+                <br/>
+                <div align="center">
+                    <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" />
+                </div>
+                <Link to="/" style={goBackStyles}>⬅️{" "} Go back</Link>
             </p>
         </main>
     )
