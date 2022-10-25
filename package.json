@@ -30,7 +30,7 @@
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
     "@mui/icons-material": "5.10.9",
-    "@mui/material": "5.10.9",
+    "@mui/material": "5.10.11",
     "@uiw/codemirror-theme-darcula": "4.12.4",
     "@uiw/react-codemirror": "4.12.4",
     "gatsby": "4.24.4",
