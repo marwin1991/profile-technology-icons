@@ -14,7 +14,7 @@ Fill free to contribute to this repository.
 If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ### 📋 List of Content:
-- ➡️ 🖨️ [Technoogies Icons](#-technoogies-icons)
+- ➡️ 🖨️ [Technologies Icons](#-technoogies-icons)
   - ➡️ 🚍 [Communication](#-communication)
   - ➡️ 🧰 [Version Control](#-version-control)
   - ➡️ 🔨 [Tools](#-tools)
@@ -44,14 +44,14 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 - ➡️ 🚶 [Contribution](#-contribution)
 
 
-# 🖨️ Technoogies Icons
+# 🖨️ Technologies Icons
 
 
 *All product names, logos, and brandsare property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, logos, and brands does not imply endorsement.*
 
 
 ### 🚍 Communication
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:| :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png"> | HTTP | `https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png"> | websocket | `https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png`
@@ -63,7 +63,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🧰 Version Control
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> | Git | `https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> | GitHub | `https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png`
@@ -74,7 +74,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🔨 Tools
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> | Vim | `https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> | InteliJ | `https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png`
@@ -95,7 +95,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🌐 Web Dev
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> | HTML | `https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> | CSS | `https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png`
@@ -109,7 +109,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### ✨ UI/UX
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"> | Figma | `https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png"> | Material Design | `https://user-images.githubusercontent.com/25181517/189716058-71f74b6f-5936-40b5-92e3-00381e35ccb9.png`
@@ -120,7 +120,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 📜 JavaScript
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> | JavaScript | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png"> | Angular | `https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png`
@@ -139,7 +139,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### ☕ Java
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | Java | `https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png"> | Spring | `https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png`
@@ -167,7 +167,7 @@ Technoogy Icon | Technoogy Name | URL
 <img height="50" src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png"> | Micrometer | `https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png`
 
 ### ©️ C/C++
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> | C | `https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"> | C++ | `https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png`
@@ -175,14 +175,14 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🪒 C#
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png"> | C# | `https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png"> | .NET Core | `https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png`
 
 
 ### 🐍 Python
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> | Python | `https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png"> | Flask | `https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png`
@@ -191,13 +191,13 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🐘 php
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> | php | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png`
 
 
 ### 💎 Ruby
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png"> | Ruby | `https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png"> | Ruby on Rails | `https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png`
@@ -206,26 +206,26 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🦾 Rust
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png"> | Rust | `https://user-images.githubusercontent.com/25181517/192599922-3a8ceb1c-ff1d-40bc-b73c-99ea1182d8ad.png`
 
 
 
 ### 🧮 Fortran
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png"> | Fortran | `https://user-images.githubusercontent.com/25181517/192106356-07c248b7-9c7c-40bd-a202-f7caf5d0b1bc.png`
 
 
 ### 🐿️ Go
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png"> | Go | `https://user-images.githubusercontent.com/25181517/192149581-88194d20-1a37-4be8-8801-5dc0017ffbbe.png`
 
 
 ### ☎️ Erlang/Elixir
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png"> | Erlang | `https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png"> | Elixir | `https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png`
@@ -233,7 +233,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 📱 Mobile Dev
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png"> | iOS | `https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png`
@@ -243,7 +243,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 💾 Database
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"> | PostgreSQL | `https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png"> | Oracle | `https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png`
@@ -258,7 +258,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🤿 DevOps
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png"> | bash | `https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"> | Docker | `https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png`
@@ -278,7 +278,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### ☁️ Cloud
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png"> | AWS | `https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> | GCP | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png`
@@ -288,7 +288,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🔬 Analytics
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png"> | Elasticsearch | `https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png"> | Apache Spark | `https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png`
@@ -298,14 +298,14 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🧪 Testing
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png"> | Selenium | `https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png"> | Cucumber | `https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png`
 
 
 ### 🎮 Game Development
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"> | Unity | `https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"> | Godot | `https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png`
@@ -314,7 +314,7 @@ Technoogy Icon | Technoogy Name | URL
 
 
 ### 🖥️ Operating system
-Technoogy Icon | Technoogy Name | URL 
+Technology Icon | Technology Name | URL 
 :-----:|  :-----: | -----
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> | Windows | `https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png`
 <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> | macOS | `https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png`
