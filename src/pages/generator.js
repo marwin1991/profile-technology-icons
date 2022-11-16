@@ -96,14 +96,15 @@ class Generator extends Component {
         fetch('https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md')
             .then(response => response.text())
             .then(text => text.split("\n")
-                .filter(t => t.startsWith("<img"))
+                .filter(t => t.includes("<img"))
                 .map(t => {
                     let tech = t.split("|")
+                    console.log(tech)
                     if (Array.isArray(tech) && tech.length >= 3) {
                         return (
                             {
-                                "name": tech[1].trim(),
-                                "link": tech[2].replaceAll(" ", "").replaceAll("`", ""),
+                                "name": tech[2].trim(),
+                                "link": tech[3].replaceAll(" ", "").replaceAll("`", ""),
                                 "checked": false
                             }
                         )
