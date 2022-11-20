@@ -22,6 +22,6 @@ export function SortableItem(props) {
   };
   
   return (
-    <img ref={setNodeRef} style={style} {...attributes} {...listeners} src={props.link} />
+    <img alt={props.id} ref={setNodeRef} style={style} {...attributes} {...listeners} src={props.link} />
   );
 }

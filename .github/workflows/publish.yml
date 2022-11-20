@@ -25,7 +25,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-node-
 
-      - run: npm ci
+      - run: npm ci --legacy-peer-deps
       - run: npm run test
       - run: npm run buildProd
 

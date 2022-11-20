@@ -21,13 +21,13 @@ const goBackStyles = {
     fontWeight: "bold",
 
 }
-const codeStyles = {
-    color: "#8A6534",
-    padding: 4,
-    backgroundColor: "#FFF4DB",
-    fontSize: "1.25rem",
-    borderRadius: 4,
-}
+// const codeStyles = {
+//     color: "#8A6534",
+//     padding: 4,
+//     backgroundColor: "#FFF4DB",
+//     fontSize: "1.25rem",
+//     borderRadius: 4,
+// }
 
 const LearnMore = () => {
     return (
@@ -40,7 +40,7 @@ const LearnMore = () => {
                 <br/>
                 <br/>
                 <div align="center">
-                    <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" />
+                    <img alt="demo" src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" />
                 </div>
                 <Link to="/" style={goBackStyles}>⬅️{" "} Go back</Link>
             </p>
