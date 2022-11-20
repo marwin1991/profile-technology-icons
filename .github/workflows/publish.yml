@@ -26,7 +26,6 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci --legacy-peer-deps
-      - run: npm run test
       - run: npm run buildProd
 
       - name: Deploy
