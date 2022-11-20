@@ -3,7 +3,7 @@ image:
   
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
-  - init: npm install && npm run build
+  - init: npm install --legacy-peer-deps && npm run build
     command: npm start
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/

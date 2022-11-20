@@ -125,7 +125,8 @@ class Generator extends Component {
                 <Typography ref={this.scrollToRef} variant="h6" gutterBottom
                     style={{ width: '60%', minWidth: 250, margin: "auto", marginTop: 30, marginBottom: 30 }}>
                     <Box fontWeight={600}>
-                        Search your technologies and then generate markdown code snippet to your GitHub profile.
+                    <span role="img" aria-label="Magnifying Glass Tilted Right">🔎</span> Search your technologies and then generate markdown code snippet to your GitHub profile.
+                    Choose from { this.state.data.length } icons! <span role="img" aria-label="Input Numbers">🔢</span>
                     </Box>
                 </Typography>
                 <div style={{ width: '60%', minWidth: 350, margin: "auto", marginTop: 30, marginBottom: 30 }}>
