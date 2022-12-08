@@ -131,6 +131,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> |      Redux      | `https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"> |      Jest       | `https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> |     webpack     | `https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png` |
+| <img height="50" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1670293836/icons/gatsby-plain_ragmxp.svg"> |      Gatsby       | `https://res.cloudinary.com/codelikeagirl29/image/upload/v1670293836/icons/gatsby-plain_ragmxp.svg` |
+| <img height="50" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1670294228/icons/nextjs-original_rc8vr4.svg"> |      Nextjs       | `https://res.cloudinary.com/codelikeagirl29/image/upload/v1670294228/icons/nextjs-original_rc8vr4.svg` |
 
 ### ☕ Java
 
@@ -231,6 +233,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png"> |      Swift      | `https://user-images.githubusercontent.com/25181517/121406389-6267a300-c95e-11eb-8d67-f1e22afe8aea.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png"> |      Dart       | `https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png"> |     Flutter     | `https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png` |
+| <img height="50" src="https://res.cloudinary.com/codelikeagirl29/image/upload/v1670294078/icons/expo_1_d7mijf.svg"> |     Expo     | 
+`https://res.cloudinary.com/codelikeagirl29/image/upload/v1670294078/icons/expo_1_d7mijf.svg` |
 
 ### 💾 Database
 
