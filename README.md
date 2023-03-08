@@ -36,7 +36,8 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 📱 [Mobile Dev](#-mobile-dev)
   - ➡️ 💾 [Database](#-database)
   - ➡️ 🤿 [DevOps](#-devops)
-  - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud)
+  - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud) 
+  - ➡️ 🤖 [AI](#-ai)
   - ➡️ 🔬 [Analytics](#-analytics)
   - ➡️ 🧪 [Testing](#-testing)
   - ➡️ 🎮 [Game Development](#-game-development)
@@ -272,6 +273,15 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | `https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png` |
+
+
+### 🤖 AI
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png"> |   TensorFlow    | `https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png` |
+
+
 
 ### 🔬 Analytics
 
