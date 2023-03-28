@@ -24,7 +24,7 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
-    "@codemirror/lang-html": "6.4.2",
+    "@codemirror/lang-html": "6.4.3",
     "@dnd-kit/core": "6.0.8",
     "@dnd-kit/sortable": "7.0.2",
     "@emotion/react": "11.10.6",
