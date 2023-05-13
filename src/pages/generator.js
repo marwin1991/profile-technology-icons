@@ -103,6 +103,22 @@ class Generator extends Component {
     this.setState({ generatedText: text });
   };
 
+  generateUpdated() {
+    this.setState({ copyButtonDisabled: false });
+    const { includeCenter, includeCode, includeDiv, includeTable, iconSize } =
+      this.state;
+    let selectedTech = this.state.data.filter((tech) => tech.checked);
+    //1. Generate Tech blocks
+    selectedTech = selectedTech.map((tech) => {
+      const techBlock = `<img height="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
+      if (includeCode) return `<code>${techBlock}</code>`;
+      return techBlock;
+    });
+    //2. if table create table
+
+    //3. if div preppend <div>\r\n, replace all \n with \n\t , append \r\n</div>
+  }
+
   componentDidMount() {
     fetch(
       "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md"
