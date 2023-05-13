@@ -67,65 +67,40 @@ class Generator extends Component {
     this.setState({ data: updatedTechs });
   };
 
-  generateOld = () => {
-    this.setState({ copyButtonDisabled: false });
-    let text = "";
-    if (this.state.includeCenter) {
-      text += '<div align="center">\r\n';
-    } else {
-      if (this.state.includeDiv) {
-        text += "<div>\r\n";
-      }
-    }
-
-    for (let i = 0; i < this.state.data.length; i++) {
-      let tech = this.state.data[i];
-      if (tech.checked) {
-        text +=
-          (this.state.includeDiv ? "\t" : "") +
-          (this.state.includeCode ? "<code>" : "") +
-          '<img height="' +
-          this.state.iconSize +
-          '" src="' +
-          tech.link +
-          '" alt="' +
-          tech.name +
-          '" title="' +
-          tech.name +
-          '" />' +
-          (this.state.includeCode ? "</code>" : "") +
-          "\r\n";
-      }
-    }
-
-    text += this.state.includeDiv ? "</div>\r\n" : "";
-
-    this.setState({ generatedText: text });
-  };
-
   generate = () => {
     this.setState({ copyButtonDisabled: false });
     const { includeCenter, includeCode, includeDiv, includeTable, iconSize } =
       this.state;
     let selectedTech = this.state.data.filter((tech) => tech.checked);
     let text = "";
+
     //1. Generate Tech blocks
     selectedTech = selectedTech.map((tech) => {
       const techBlock = `<img height="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
       if (includeCode) return `<code>${techBlock}</code>`;
       return techBlock;
     });
+
     //2. if table create table
     if (includeTable) {
       //2.1 Create Rows
       const columns = selectedTech.length < 8 ? selectedTech.length : 8;
       let rows = "";
+
       selectedTech.forEach((tech, index) => {
-        if (index % columns === 0) rows += "<tr>\r\n";
+        if (index % columns === 0) {
+          rows += "<tr>\r\n";
+        }
+
         rows += `\t<td>${tech}</td>\r\n`;
-        if (index + 1 === selectedTech.length) rows += "</tr>";
-        else if ((index + 1) % columns === 0) rows += "</tr>\r\n";
+
+        if (index + 1 === selectedTech.length) {
+          rows += "</tr>";
+        } else if ((index + 1) % columns === 0) {
+          rows += "</tr>\r\n";
+        }
       });
+
       //2.2 prepend <table>\r\n, replace all \n with \n\t and append \r\n</table>
       text = `<table>\r\n${rows}`.replaceAll("\n", "\n\t");
       text += "\r\n</table>";
@@ -269,8 +244,9 @@ class Generator extends Component {
             }
             InputProps={{
               inputProps: {
-                max: 1000,
-                min: 1,
+                max: this.state.includeTable ? 50 : 1000,
+                min: 10,
+                // Max size set to 50px incase table is selected. Images tend to squish beyond that when used inside table.
               },
               endAdornment: <InputAdornment position="end">px</InputAdornment>,
             }}
@@ -336,6 +312,10 @@ class Generator extends Component {
               }
               onChange={() => {
                 this.setState({ includeTable: !this.state.includeTable });
+                if (!this.state.includeTable && this.state.iconSize > 50) {
+                  this.setState({ iconSize: 50 });
+                  //Reset icon size to 50 incase it was more than 50px.
+                }
               }}
               label="Table"
             />
