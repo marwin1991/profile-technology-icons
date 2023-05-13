@@ -67,7 +67,7 @@ class Generator extends Component {
     this.setState({ data: updatedTechs });
   };
 
-  generate = () => {
+  generateOld = () => {
     this.setState({ copyButtonDisabled: false });
     let text = "";
     if (this.state.includeCenter) {
@@ -103,11 +103,12 @@ class Generator extends Component {
     this.setState({ generatedText: text });
   };
 
-  generateUpdated() {
+  generate = () => {
     this.setState({ copyButtonDisabled: false });
     const { includeCenter, includeCode, includeDiv, includeTable, iconSize } =
       this.state;
     let selectedTech = this.state.data.filter((tech) => tech.checked);
+    let text = "";
     //1. Generate Tech blocks
     selectedTech = selectedTech.map((tech) => {
       const techBlock = `<img height="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
@@ -115,9 +116,32 @@ class Generator extends Component {
       return techBlock;
     });
     //2. if table create table
+    if (includeTable) {
+      //2.1 Create Rows
+      const columns = selectedTech.length < 8 ? selectedTech.length : 8;
+      let rows = "";
+      selectedTech.forEach((tech, index) => {
+        if (index % columns === 0) rows += "<tr>\r\n";
+        rows += `\t<td>${tech}</td>\r\n`;
+        if (index + 1 === selectedTech.length) rows += "</tr>";
+        else if ((index + 1) % columns === 0) rows += "</tr>\r\n";
+      });
+      //2.2 prepend <table>\r\n, replace all \n with \n\t and append \r\n</table>
+      text = `<table>\r\n${rows}`.replaceAll("\n", "\n\t");
+      text += "\r\n</table>";
+    } else {
+      text = selectedTech.join("\r\n");
+    }
 
     //3. if div preppend <div>\r\n, replace all \n with \n\t , append \r\n</div>
-  }
+    if (includeDiv) {
+      const div = `<div ${includeCenter ? 'align="center"' : ""}>`;
+      text = `${div}\r\n${text}`.replaceAll("\n", "\n\t");
+      text += "\r\n</div>";
+    }
+
+    this.setState({ generatedText: text });
+  };
 
   componentDidMount() {
     fetch(
