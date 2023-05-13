@@ -129,7 +129,6 @@ class Generator extends Component {
           .filter((t) => t.includes("<img"))
           .map((t) => {
             let tech = t.split("|");
-            console.log(tech);
             if (Array.isArray(tech) && tech.length >= 3) {
               return {
                 name: tech[2].trim(),
