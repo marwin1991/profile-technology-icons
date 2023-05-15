@@ -34,7 +34,7 @@ class Generator extends Component {
       includeCode: true,
       includeDiv: true,
       includeCenter: true,
-      includeTable: true,
+      includeTable: false,
       iconSize: 50,
       copied: false,
     };
