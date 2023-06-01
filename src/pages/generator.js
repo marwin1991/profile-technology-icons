@@ -76,7 +76,7 @@ class Generator extends Component {
 
     //1. Generate Tech blocks
     selectedTech = selectedTech.map((tech) => {
-      const techBlock = `<img height="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
+      const techBlock = `<img width="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
       if (includeCode) return `<code>${techBlock}</code>`;
       return techBlock;
     });
