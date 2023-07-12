@@ -331,12 +331,20 @@ show others what technology you know and use.
 
 # 🚶 Contribution
 
+If you are willing to make the project better, you are free to contribute in one of those ways.
+
 ### Adding new icons
 
-- Icon must be 400x400px.
-- You can just add issue and ask to add new icons.
-- You can just click "edit" sign or click here [here](https://github.com/marwin1991/profile-technology-icons/edit/main/README.md).
-- You can make fork and edit this file by adding new icon and make Pull Request.
+- Icon size must be 400x400px.
+- You can make fork and edit this file in browser by adding new icon and make Pull Request.
+- Just click "edit" sign or click [here](https://github.com/marwin1991/profile-technology-icons/edit/main/README.md).
+- To add a new icon, copy a boilerplate code from any other single icon, drag&drop the new icon right to the editor and change the path of the old icon to the new one.
+- Before commit changes, please, make sure that you changed both paths (in src-attribute and in the right column) and technology name.
+
+### Adding issues
+
+- If you have any suggestions about the project, you are welcome to open a new issue and describe them.
+- If you have any ideas about new icons you can also open new issue and ask to add new icons.
 
 ### Improving web generator
 
