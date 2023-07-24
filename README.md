@@ -329,6 +329,12 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> |   Linux Mint    | `https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png"> |  elementary OS  | `https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png` |
 
+### :electric_plug: Microcontrollers 
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |     Arduino      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627` |
+
 # 🍼 How to use it?
 
 You can visit https://marwin1991.github.io/profile-technology-icons/ and generate code that after adding to your GitHub profile README.md will
