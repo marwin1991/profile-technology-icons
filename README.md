@@ -252,6 +252,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |     mongoDB     | `https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png"> |    Hazelcast    | `https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png"> |     CouchDB     | `https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca"> |     Realm     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca` |
 
 ### 🤿 DevOps
 
