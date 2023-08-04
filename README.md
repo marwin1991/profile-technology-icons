@@ -90,6 +90,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png"> |        Jira        | `https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png"> |  Jupyter Notebook  | `https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png"> |     SonarQube      | `https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37"> |     Neovim      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/b113a23c-5c04-45aa-819c-bd04e8ac2a37` |
 
 ### 🌐 Web Dev
 
