@@ -256,6 +256,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png"> |     CouchDB     | `https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca"> |     Realm     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"> |     SQLite     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634"> |     MariaDB     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634` |
 
 ### 🤿 DevOps
 
