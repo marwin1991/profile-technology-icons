@@ -257,6 +257,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca"> |     Realm     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/79868fa1-41b8-411f-bd00-cda9ba6723ca` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17"> |     SQLite     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634"> |     MariaDB     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/4a7b5089-5015-4cdc-bc48-1d913446e1ca"> |     CockroachDB     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/4a7b5089-5015-4cdc-bc48-1d913446e1ca` |
 
 ### 🤿 DevOps
 
