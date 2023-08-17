@@ -177,6 +177,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> |        C        | `https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"> |       C++       | `https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b"> |       Qt       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/11e7dfe7-c1f6-483c-9d92-276f1fa9363b` |
 
 ### 🪒 C\#
 
