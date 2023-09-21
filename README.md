@@ -244,6 +244,13 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png"> |     Erlang      | `https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png"> |     Elixir      | `https://user-images.githubusercontent.com/25181517/192158304-db78a94b-ceb3-4b03-a352-b25760e5e63c.png` |
 
+### 🧊 Apache
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0"> |     Solr      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0` |
+
+
 ### 📱 Mobile Dev
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
