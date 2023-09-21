@@ -33,6 +33,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🧮 [Fortran](#-fortran)
   - ➡️ 🐿️ [Go](#-go)
   - ➡️ ☎️ [Erlang/Elixir](#%EF%B8%8F-erlangelixir)
+  - ➡️ 🧊 [Apache](#-apache)
   - ➡️ 📱 [Mobile Dev](#-mobile-dev)
   - ➡️ 💾 [Database](#-database)
   - ➡️ 🤿 [DevOps](#-devops)
