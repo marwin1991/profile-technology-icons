@@ -213,7 +213,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> |       php       | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png` |
-| <img height="50" src="https://laravel.com/img/logomark.min.svg"> |       Laravel       | `https://laravel.com/img/logomark.min.svg` |
+| <img height="50" src="https://i.postimg.cc/SxZKFqWs/Laravel-Logo.png"> |       Laravel       | `https://i.postimg.cc/SxZKFqWs/Laravel-Logo.png` |
 
 ### 💎 Ruby
 
