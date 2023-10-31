@@ -1,6 +1,6 @@
 # 👋 Welcome! profile-technology-icons for README.md
 
-A list of icons that can be used during GitHub profile creation to show what technology, languges are known.
+A list of icons that can be used during GitHub profile creation to show what technology, languages are known.
 Fill free to contribute to this repository.
 
 ### ➡️ Visit here to generate: **https://marwin1991.github.io/profile-technology-icons/**
@@ -284,6 +284,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634"> |     MariaDB     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/4a7b5089-5015-4cdc-bc48-1d913446e1ca"> |     CockroachDB     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/4a7b5089-5015-4cdc-bc48-1d913446e1ca` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e"> |     Hive     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a"> |     MSSQL     | `https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a` |
 
 ### 🤿 DevOps
 
