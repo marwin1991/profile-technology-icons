@@ -109,6 +109,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"> |    Firebase     | `https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9"> |    Materialize     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603"> |    Bulma     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b"> |    Strapi     | `https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b` |
 
 ### ✨ UI/UX
 
@@ -152,6 +153,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba"> |     Pug    | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/85880a3a-e65b-4e4b-a102-6c3f225b9aba` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"> |     Vite    | `https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b"> |     Babel    | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/ecd443af-ebba-4af8-a46e-1bf64d863b5b` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc"> |     Astro    | `https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc` |
 
 ### ☕ Java
 
