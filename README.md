@@ -124,6 +124,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 ### 📜 JavaScript
 
+
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> |   JavaScript    | `https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png` |
@@ -141,7 +142,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"> |      Jest       | `https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> |     webpack     | `https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed"> |     Gulp     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed` |
-| <img height="50" src="https://github.com/ArslanAmeer/profile-technology-icons/assets/34485088/d46a2186-1112-4d54-9a10-2f3ff74468e8"> |     Grunt     | `https://github.com/ArslanAmeer/profile-technology-icons/assets/34485088/d46a2186-1112-4d54-9a10-2f3ff74468e8` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/642ba9d4-6f10-4e33-919f-e9929598ea5e"> |     Grunt     | `https://github.com/marwin1991/profile-technology-icons/assets/25181517/642ba9d4-6f10-4e33-919f-e9929598ea5e` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a"> |     Gatsby     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/2bd495ca-29d8-4415-8e8c-a1979721816a` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"> |     Next.js     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5"> |     Svelte     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/e56b5093-2f58-40cc-b194-5bdde41077b5` |
