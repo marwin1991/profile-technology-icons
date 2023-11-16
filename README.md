@@ -216,8 +216,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png"> |       php       | `https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf"> |       php (elephpant)       | `https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a"> |       Laravel       | `https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a` |
-
 
 ### 💎 Ruby
 
@@ -354,6 +354,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png"> |      Unity      | `https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png"> |      Godot      | `https://user-images.githubusercontent.com/25181517/193427942-3abc320a-1c9e-4316-bac0-cb8b280b669f.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00"> |  Unreal Engine  | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/8470f340-0495-47c2-a95c-3c873e329c00` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/f34c5312-b759-46d2-b9cc-a62a9f901600"> |  RPG Maker  | `https://github.com/marwin1991/profile-technology-icons/assets/76662862/f34c5312-b759-46d2-b9cc-a62a9f901600` |
 
 ### 🖥️ Operating system
 
@@ -361,6 +362,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png"> |     Windows     | `https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png"> |      macOS      | `https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa"> |      Linux      | `https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png"> |     Ubuntu      | `https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png"> |     fedora      | `https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"> |   Arch Linux    | `https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png` |
