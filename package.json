@@ -33,7 +33,7 @@
     "@mui/material": "5.14.18",
     "@uiw/codemirror-theme-darcula": "4.21.20",
     "@uiw/react-codemirror": "4.21.20",
-    "gatsby": "5.12.9",
+    "gatsby": "5.12.10",
     "gatsby-link": "5.12.1",
     "gatsby-plugin-manifest": "5.12.3",
     "gatsby-plugin-material-ui": "4.1.0",
