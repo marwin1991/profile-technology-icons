@@ -3,7 +3,17 @@
 A list of icons that can be used during GitHub profile creation to show what technology, languages are known.
 Fill free to contribute to this repository.
 
-### ➡️ Visit here to generate: **https://marwin1991.github.io/profile-technology-icons/**
+<div align="center">
+  <a href="https://marwin1991.github.io/profile-technology-icons/">
+    ➡️Visit online geenrator!⬅️
+  </a>
+</div>
+
+
+### ➡️ Visit here to generate: **https://marwin1991.github.io/profile-technology-icons/** ⬅️
+
+
+### 🎥 Simple demo
 
 <div align="center">
   <img src="https://github.com/marwin1991/profile-technology-icons/raw/main/static/demo.gif" />
