@@ -10,7 +10,7 @@ Fill free to contribute to this repository.
 </div>
 
 
-### ➡️ Visit here to generate: **https://marwin1991.github.io/profile-technology-icons/** ⬅️
+### ➡️ Visit to generate: **https://marwin1991.github.io/profile-technology-icons/** ⬅️
 
 
 ### 🎥 Simple demo
