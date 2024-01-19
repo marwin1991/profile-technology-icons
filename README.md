@@ -5,7 +5,7 @@ Fill free to contribute to this repository.
 
 <div align="center">
   <a href="https://marwin1991.github.io/profile-technology-icons/">
-    ➡️Visit online geenrator!⬅️
+    ➡️Visit online generator!⬅️
   </a>
 </div>
 
