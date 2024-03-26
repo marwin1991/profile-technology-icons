@@ -123,6 +123,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9"> |    Materialize     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603"> |    Bulma     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b"> |    Strapi     | `https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b` |
+| <img height="50" src="https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png"> |    Auth0     | `https://cdn.brighttalk.com/ams/california/images/channel/19357/image_840418.png` |
 
 ### ✨ UI/UX
 
