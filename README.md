@@ -325,6 +325,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"> |      Nginx      | `https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png"> |     Consul      | `https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/fc5b4ec9-233f-430c-87cb-cce74febd507"> |     OpenResty      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/fc5b4ec9-233f-430c-87cb-cce74febd507` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/bc1584ce-df5b-4bc1-939f-7b3c464602ce"> |     Puppet      | `https://github.com/marwin1991/profile-technology-icons/assets/25181517/bc1584ce-df5b-4bc1-939f-7b3c464602ce` |
+
 
 ### ☁️ Cloud
 
