@@ -398,6 +398,24 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |     Arduino      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627` |
 
+### 🛜 MQTT technologies
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://raw.githubusercontent.com/mqtt/mqtt.org/master/assets/img/mqtt-logo.svg"> |     MQTT     | `https://raw.githubusercontent.com/mqtt/mqtt.org/master/assets/img/mqtt-logo.svg` |
+| <img height="50" src="https://raw.githubusercontent.com/emqx/emqx-dashboard/master/priv/www/static/emq.ico"> |       EMQX       | `https://raw.githubusercontent.com/emqx/emqx-dashboard/master/priv/www/static/emq.ico` |
+| <img height="50" src="https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-text-side.svg"> |      Mosquitto      | `https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-text-side.svg` |
+| <img height="50" src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-management/master/priv/www/favicon.ico"> |      RabbitMQ       | `https://raw.githubusercontent.com/rabbitmq/rabbitmq-management/master/priv/www/favicon.ico` |
+| <img height="50" src="https://raw.githubusercontent.com/mqttjs/MQTT.js/137ee0e3940c1f01049a30248c70f24dc6e6f829/MQTT.js.png"> |     MQTT.js     | `https://raw.githubusercontent.com/mqttjs/MQTT.js/137ee0e3940c1f01049a30248c70f24dc6e6f829/MQTT.js.png` |
+
+
+
+
+
+
+
+
+
 # 🍼 How to use it?
 
 You can visit https://marwin1991.github.io/profile-technology-icons/ and generate code that after adding to your GitHub profile README.md will
