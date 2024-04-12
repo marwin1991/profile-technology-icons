@@ -403,9 +403,9 @@ _All product names, logos, and brandsare property of their respective owners. Al
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/mqtt/mqtt.org/master/assets/img/mqtt-logo.svg"> |     MQTT     | `https://raw.githubusercontent.com/mqtt/mqtt.org/master/assets/img/mqtt-logo.svg` |
-| <img height="50" src="https://raw.githubusercontent.com/emqx/emqx-dashboard/master/priv/www/static/emq.ico"> |       EMQX       | `https://raw.githubusercontent.com/emqx/emqx-dashboard/master/priv/www/static/emq.ico` |
-| <img height="50" src="https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-text-side.svg"> |      Mosquitto      | `https://raw.githubusercontent.com/eclipse/mosquitto/master/logo/mosquitto-text-side.svg` |
-| <img height="50" src="https://raw.githubusercontent.com/rabbitmq/rabbitmq-management/master/priv/www/favicon.ico"> |      RabbitMQ       | `https://raw.githubusercontent.com/rabbitmq/rabbitmq-management/master/priv/www/favicon.ico` |
+| <img height="50" src="https://static-00.iconduck.com/assets.00/emqx-icon-445x512-ppg1us1o.png"> |       EMQX       | `https://static-00.iconduck.com/assets.00/emqx-icon-445x512-ppg1us1o.png` |
+| <img height="50" src="https://developer.community.boschrexroth.com/t5/image/serverpage/image-id/13467i19FDFA6E5DC7C260?v=v2"> |      Mosquitto      | `https://repository-images.githubusercontent.com/53614190/b11dd480-90b3-11eb-903d-8c48f62e3172` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
 | <img height="50" src="https://raw.githubusercontent.com/mqttjs/MQTT.js/137ee0e3940c1f01049a30248c70f24dc6e6f829/MQTT.js.png"> |     MQTT.js     | `https://raw.githubusercontent.com/mqttjs/MQTT.js/137ee0e3940c1f01049a30248c70f24dc6e6f829/MQTT.js.png` |
 
 
