@@ -398,6 +398,23 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |     Arduino      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627` |
 
+### 🛜 MQTT technologies
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1"> |     MQTT     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/07fc0773-b4dd-4407-9531-14b2593028c8"> |       EMQX       | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/07fc0773-b4dd-4407-9531-14b2593028c8` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f2bf0fb-eaf8-462d-89b6-139b33501c6f"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f2bf0fb-eaf8-462d-89b6-139b33501c6f` |
+
+
+
+
+
+
+
+
 # 🍼 How to use it?
 
 You can visit https://marwin1991.github.io/profile-technology-icons/ and generate code that after adding to your GitHub profile README.md will
