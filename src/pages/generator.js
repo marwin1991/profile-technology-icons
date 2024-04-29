@@ -76,7 +76,8 @@ class Generator extends Component {
 
     //1. Generate Tech blocks
     selectedTech = selectedTech.map((tech) => {
-      const techBlock = `<img width="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/>`;
+      console.log(tech);
+      const techBlock = `<a href = "${tech.doc}"><img width="${iconSize}" src="${tech.link}" alt="${tech.name}" title="${tech.name}"/></a>`;
       if (includeCode) return `<code>${techBlock}</code>`;
       return techBlock;
     });
@@ -120,7 +121,7 @@ class Generator extends Component {
 
   componentDidMount() {
     fetch(
-      "https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/README.md"
+      "https://raw.githubusercontent.com/shreyanshTechz/profile-technology-icons/desc-branch/README.md"
     )
       .then((response) => response.text())
       .then((text) =>
@@ -128,11 +129,14 @@ class Generator extends Component {
           .split("\n")
           .filter((t) => t.includes("<img"))
           .map((t) => {
+            console.log(t);
             let tech = t.split("|");
             if (Array.isArray(tech) && tech.length >= 3) {
+              
               return {
                 name: tech[2].trim(),
                 link: tech[3].replaceAll(" ", "").replaceAll("`", ""),
+                doc: tech[4].replaceAll(" ", "").replaceAll("`", ""),
                 checked: false,
               };
             } else {
