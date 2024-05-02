@@ -81,7 +81,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 ### 🧰 Version Control
 
-|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     | Documentation Links                                  |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> |       Git       | `https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png` | `https://developer.mozilla.org/en-US/docs/Web/HTTP` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> |     GitHub      | `https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png` |`https://docs.github.com/en`|
