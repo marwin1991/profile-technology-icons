@@ -90,7 +90,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 ### 🔨 Tools
 
-|                                                        Technology Icon                                                        |  Technology Name   | URL                                                                                                     |  | Documentation Links   
+|                                                        Technology Icon                                                        |  Technology Name   | URL                                                                                                     |  Documentation Links   |
 | :---------------------------------------------------------------------------------------------------------------------------: | :----------------: | ------------------------------------------------------------------------------------------------------- | ----------------------------------|
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> |        Vim         | `https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png` |`https://vimhelp.org/`
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> |      IntelliJ       | `https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png` |`https://www.jetbrains.com/idea/documentation/`|
