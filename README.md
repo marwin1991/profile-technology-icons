@@ -402,11 +402,13 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1"> |     MQTT     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/b3064b7a-2027-4b95-b1c8-0b4a99e0b0b1` |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/07fc0773-b4dd-4407-9531-14b2593028c8"> |       EMQX       | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/07fc0773-b4dd-4407-9531-14b2593028c8` |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/da88f2b3-e533-49f5-89a7-f266abf1e2fe` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f"> |     MQTT     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f"> |       EMQX       | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f2bf0fb-eaf8-462d-89b6-139b33501c6f"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f2bf0fb-eaf8-462d-89b6-139b33501c6f` |
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df` 
+|
+
 
 
 
