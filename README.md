@@ -345,7 +345,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | `https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png` |
-
+| <img height="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b">                       |  Digital Ocean  | `https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b` | 
 
 ### 🤖 AI
 
@@ -400,12 +400,15 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png"> |   Arch Linux    | `https://user-images.githubusercontent.com/25181517/186884156-e63da389-f3e1-4dca-a6c1-d76e886ba22a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png"> |   Linux Mint    | `https://user-images.githubusercontent.com/25181517/186884159-4b5e122b-95de-4a32-b10b-7f6fdffa4c5a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png"> |  elementary OS  | `https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683">                       |    Kali Linux   | `https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683` |
 
 ### :electric_plug: Microcontrollers 
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627"> |     Arduino      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627` |
+| <img height="50" src="https://github.com/user-attachments/assets/f296f3e7-d7b0-49f7-85f7-234b8dcffdeb">                              |     Coral.ai     | `https://github.com/user-attachments/assets/f296f3e7-d7b0-49f7-85f7-234b8dcffdeb` |
+| <img height="50" src="https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32">                              |   Raspberri Pi   | `https://github.com/user-attachments/assets/63d6cb39-63c6-44fc-bbb1-2adcb8458a32` |
 
 ### 🛜 MQTT technologies
 
