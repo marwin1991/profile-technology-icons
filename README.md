@@ -53,6 +53,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🧪 [Testing](#-testing)
   - ➡️ 🎮 [Game Development](#-game-development)
   - ➡️ 🖥️ [Operating system](#%EF%B8%8F-operating-system)
+  - ➡️ 🔗 [Blockchain](#blockchain)
 
 - ➡️ 🍼 [How to use this icons?](#-how-to-use-it)
 
@@ -421,6 +422,17 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df` 
+|
+
+### 🔗 Blockchain
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src=""> |     Solidity     | `` |
+| <img height="50" src=""> |       Solana       | `` |
+| <img height="50" src=""> |      Truffle      | `` |
+| <img height="50" src=""> |      Foundry       | `` |
+| <img height="50" src=""> |     Metamask     | `` 
 |
 
 
