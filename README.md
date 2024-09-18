@@ -122,6 +122,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png"> |   Browsersync   | `https://user-images.githubusercontent.com/25181517/187955001-20e6d7d2-d8ba-49aa-8fd7-2d8b1f49f556.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png"> |   WebAssembly   | `https://user-images.githubusercontent.com/25181517/188324036-d704ac9a-6e61-4722-b978-254b25b61bed.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"> |    Firebase     | `https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596"> |    Supabase     | `https://github.com/user-attachments/assets/e40fc76b-c8d8-47c3-bb53-c7795abaf596` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9"> |    Materialize     | `https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/265605607-dc393bd9-90b8-40d6-b396-dd9e547890c9.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603"> |    Bulma     | `https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/268487504-e5fe87f3-f2ee-419d-8299-14dc573f3603.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/0ed1571c-e3df-4f34-94df-102c0afbdb2b"> |    Strapi     | `https://github-production-user-asset-6210df.s3.amazonaws.com/54946572/281752331-0ed1571c-e3df-4f34-94df-102c0afbdb2b.png` |
@@ -428,12 +429,12 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src=""> |     Solidity     | `` |
-| <img height="50" src=""> |       Solana       | `` |
-| <img height="50" src=""> |      Truffle      | `` |
-| <img height="50" src=""> |      Foundry       | `` |
-| <img height="50" src=""> |     Metamask     | `` 
-|
+| <img height="50" src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762"> |     Solidity     | `https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762` |
+| <img height="50" src="https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04"> |       Solana       | `https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04` |
+| <img height="50" src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b"> |      Hardhat      | `https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b` |
+| <img height="50" src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397"> |      Foundry       | `https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397` |
+| <img height="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6"> |     Metamask     | `https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6` |
+| <img height="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979"> |     Ethereum     | `https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979)` |
 
 
 
