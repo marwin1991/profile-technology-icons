@@ -141,6 +141,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"> |   Ant Design    | `https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed"> |      Canva      | `https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png` |
 | <img height="50" src="https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d"> |      ShadCn UI      | `https://github.com/user-attachments/assets/e4bd419a-2a4a-459a-ba9a-d3324e693c4d` |
+| <img height="50" src="https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e"> |      Next UI      | `https://github.com/user-attachments/assets/9027732b-de8c-4c4b-a065-235e15e33e5e` |
 
 ### 📜 JavaScript
 
@@ -160,6 +161,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574"> |     Nest.js     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/519bfaf3-c242-431e-a269-876979f05574` |
 | <img height="50" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png"> |     Fastify     | `https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"> |      Redux      | `https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5"> |      React Query      | `https://github.com/user-attachments/assets/a3e40bf1-82d5-4907-b3bd-10d2eb4b00f5` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png"> |      Jest       | `https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"> |     webpack     | `https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed"> |      Gulp       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/c49c6dbd-992a-4f14-9cf4-ff40cb5344ed` |
@@ -422,8 +424,18 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f"> |       EMQX       | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f` |
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df` 
-|
+| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df` |
+
+### 🔗 Blockchain
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762"> |     Solidity     | `https://github.com/user-attachments/assets/094cc004-c6d6-47ff-800c-393e70bfa762` |
+| <img height="50" src="https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04"> |       Solana       | `https://github.com/user-attachments/assets/d8e14a10-6937-458d-b884-21ee40b0dd04` |
+| <img height="50" src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b"> |      Hardhat      | `https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b` |
+| <img height="50" src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397"> |      Foundry       | `https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397` |
+| <img height="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6"> |     Metamask     | `https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6` |
+| <img height="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979"> |     Ethereum     | `https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979` |
 
 ### 🔗 Blockchain
 
