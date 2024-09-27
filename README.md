@@ -243,6 +243,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f"> |     NumPy      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b"> |     Pandas      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928"> |     Pygame      | `https://github.com/marwin1991/profile-technology-icons/assets/76012086/cbaed680-d3a4-4693-9de6-23cdf5345928` |
+| <img height="50" src="https://github.com/user-attachments/assets/4406d412-27fc-4b2d-9d43-2ec6460082ec"> |     Odoo      | `https://github.com/user-attachments/assets/4406d412-27fc-4b2d-9d43-2ec6460082ec` |
+
 ### 🐘 php
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
