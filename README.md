@@ -180,6 +180,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc"> |      Astro      | `https://github.com/marwin1991/profile-technology-icons/assets/54946572/397c0300-2e47-464e-81eb-6e991c9255fc` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526"> |     NodeGui     | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/81e903be-5f38-419c-be01-f95e68698526` |
 | <img height="50" src="https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png"> |    Turborepo    | `https://user-images.githubusercontent.com/4060187/196936104-5797972c-ab10-4834-bd61-0d1e5f442c9c.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/ed2769f6-1dc8-4fe5-9d68-6a3d41df13a3"> |    Marionette    | `https://github.com/user-attachments/assets/ed2769f6-1dc8-4fe5-9d68-6a3d41df13a3` |
 
 ### ☕ Java
 
