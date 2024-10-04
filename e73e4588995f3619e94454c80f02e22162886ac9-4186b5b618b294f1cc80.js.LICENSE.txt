@@ -1,5 +1,5 @@
 /**
- * @mui/styled-engine v6.1.1
+ * @mui/styled-engine v6.1.2
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
