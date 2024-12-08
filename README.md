@@ -215,9 +215,6 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png"> |   Micrometer    | `https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573"> |   Hadoop    | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573` |
 
-![jboss-old](https://github.com/user-attachments/assets/425d43d4-d303-42ed-85b9-514dc8e96363)
-![wildfly](https://github.com/user-attachments/assets/9faa35d7-044d-4e9f-93e6-d2300d5e55b8)
-
 
 
 ### ©️ C/C++
