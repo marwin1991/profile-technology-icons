@@ -47,7 +47,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 📱 [Mobile Dev](#-mobile-dev)
   - ➡️ 💾 [Database](#-database)
   - ➡️ 🤿 [DevOps](#-devops)
-  - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud) 
+  - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud)
   - ➡️ 🤖 [AI](#-ai)
   - ➡️ 🔬 [Analytics](#-analytics)
   - ➡️ 🧪 [Testing](#-testing)
@@ -93,6 +93,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png"> |        Vim         | `https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"> |      IntelliJ      | `https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png"> |      WebStorm      | `https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25">                       |      PyCharm       | `https://github.com/user-attachments/assets/9f931c45-0585-4db0-86a7-25ce3f5bef25`                       |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png"> |   Android Studio   | `https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png"> |      AppCode       | `https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png"> |       Xcode        | `https://user-images.githubusercontent.com/25181517/186711578-bf30cb30-40b7-4b45-95a5-bdf837c372e7.png` |
@@ -361,7 +362,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png"> |       GCP       | `https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png"> | Microsoft Azure | `https://user-images.githubusercontent.com/25181517/183911544-95ad6ba7-09bf-4040-ac44-0adafedb9616.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png"> |    IBM Cloud    | `https://user-images.githubusercontent.com/25181517/183911551-5e9953db-e713-4130-9f17-e2fd25ec9767.png` |
-| <img height="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b">                       |  Digital Ocean  | `https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b` | 
+| <img height="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b">                       |  Digital Ocean  | `https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b` |
 
 ### 🤖 AI
 
@@ -418,7 +419,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png"> |  elementary OS  | `https://user-images.githubusercontent.com/25181517/187088187-5d81515b-58a1-4c55-9a5f-5f15e94145b1.png` |
 | <img height="50" src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683">                       |    Kali Linux   | `https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683` |
 
-### :electric_plug: Microcontrollers 
+### :electric_plug: Microcontrollers
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
