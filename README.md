@@ -73,7 +73,6 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png"> |     GraphQL     | `https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png"> |      REST       | `https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png"> |      SOAP       | `https://user-images.githubusercontent.com/25181517/192107860-9a9f0894-0e34-4ab3-964d-6297ee4c00e9.png` |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> |      kafka      | `https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/1275d076-f047-432b-9084-308f88f8c176"> |      tRPC      | `https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png` |
 
 
@@ -427,11 +426,13 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f"> |     MQTT     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f` |
+| <img height="50" src="https://github.com/user-attachments/assets/7dcf382f-c803-4050-9be9-b93864a69f87"> |     MQTT     | `https://github.com/user-attachments/assets/7dcf382f-c803-4050-9be9-b93864a69f87` |
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f"> |       EMQX       | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/8b4f0b9e-331e-4985-83eb-43907d13af8f` |
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f"> |      Mosquitto      | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/1f56e337-1ee3-4f8d-827f-0864fae9687f` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073"> |      RabbitMQ       | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073` |
+| <img height="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png"> |      kafka      | `https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png` |
 | <img height="50" src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df"> |     MQTT.js     | `https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/67693bf9-1c51-44b2-bc66-b5256cc4a7df` |
+
 
 ### 🔗 Blockchain
 
