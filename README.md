@@ -295,7 +295,9 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0"> |     Solr      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0` |
+| <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0"> |     Apache Solr      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/cc53c067-3f72-4e44-9922-d1e6c2fa14d0` |
+| <img height="50" src="https://github.com/user-attachments/assets/5368dba4-182b-4039-924b-188cc28377e3"> |     Apache Camel      | `https://github.com/user-attachments/assets/5368dba4-182b-4039-924b-188cc28377e3` |
+
 
 
 ### 📱 Mobile Dev
