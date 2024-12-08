@@ -27,7 +27,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-
 
-      - run: pnpm ci --legacy-peer-deps
+      - run: pnpm ci
       - run: pnpm run buildProd
 
       - name: Deploy
