@@ -342,11 +342,13 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png"> |   Prometheus    | `https://user-images.githubusercontent.com/25181517/182534182-c510199a-7a4d-4084-96e3-e3db2251bbce.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/190230371-9bedecb9-3a57-4178-80af-e4b57dfa4fa9.png"> |     Thanos      | `https://user-images.githubusercontent.com/25181517/190230371-9bedecb9-3a57-4178-80af-e4b57dfa4fa9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png"> |    Terraform    | `https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/235a9539-fd69-462c-9eb4-f1cbb00270d8"> |    Ansible    | `https://github.com/user-attachments/assets/235a9539-fd69-462c-9eb4-f1cbb00270d8` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png"> |      Vault      | `https://user-images.githubusercontent.com/25181517/183345124-0948a5e0-5326-495f-824f-b99d3aee5467.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png"> |      Nginx      | `https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png"> |     Consul      | `https://user-images.githubusercontent.com/25181517/187087692-1b80b31c-5cd6-4fd5-aa24-d07e38a6897f.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/fc5b4ec9-233f-430c-87cb-cce74febd507"> |     OpenResty      | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/fc5b4ec9-233f-430c-87cb-cce74febd507` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/bc1584ce-df5b-4bc1-939f-7b3c464602ce"> |     Puppet      | `https://github.com/marwin1991/profile-technology-icons/assets/25181517/bc1584ce-df5b-4bc1-939f-7b3c464602ce` |
+
 
 
 ### ☁️ Cloud
