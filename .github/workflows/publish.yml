@@ -27,7 +27,7 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pnpm-
 
-      - run: pnpm install --frozen-lockfile --legacy-peer-deps
+      - run: pnpm install --frozen-lockfile
       - run: pnpm run buildProd
 
       - name: Deploy
