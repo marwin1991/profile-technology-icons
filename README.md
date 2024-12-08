@@ -205,6 +205,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png"> |    Micronaut    | `https://user-images.githubusercontent.com/25181517/183015296-d406cb7c-e374-440d-8057-580f08121db9.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png"> |     Tomcat      | `https://user-images.githubusercontent.com/25181517/183894676-137319b5-1364-4b6a-ba4f-e9fc94ddc4aa.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png"> |      jetty      | `https://user-images.githubusercontent.com/25181517/183017080-bc1a1389-7286-4888-af7b-5aad88909995.png` |
+| <img height="50" src="https://github.com/user-attachments/assets/425d43d4-d303-42ed-85b9-514dc8e96363">                       |      JBoss      | `https://github.com/user-attachments/assets/425d43d4-d303-42ed-85b9-514dc8e96363` |
+| <img height="50" src="https://github.com/user-attachments/assets/9faa35d7-044d-4e9f-93e6-d2300d5e55b8">                       |      WildFly    | `https://github.com/user-attachments/assets/9faa35d7-044d-4e9f-93e6-d2300d5e55b8` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png"> |     GraalVM     | `https://user-images.githubusercontent.com/25181517/183017085-067f30b6-1032-4f89-adc4-ba917d6d0f3a.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png"> |      Scala      | `https://user-images.githubusercontent.com/25181517/185062806-7be3b0f6-3373-44a8-be19-21ddd2307a70.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png"> |       sbt       | `https://user-images.githubusercontent.com/25181517/185064519-3cffcd2f-198e-4d04-8643-ccdc809bf7ed.png` |
@@ -212,6 +214,11 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png"> |     Kotlin      | `https://user-images.githubusercontent.com/25181517/185062810-7ee0c3d2-17f2-4a98-9d8a-a9576947692b.png` |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png"> |   Micrometer    | `https://user-images.githubusercontent.com/25181517/185157723-1ca89950-665d-467c-b653-953559daa1c7.png` |
 | <img height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573"> |   Hadoop    | `https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573` |
+
+![jboss-old](https://github.com/user-attachments/assets/425d43d4-d303-42ed-85b9-514dc8e96363)
+![wildfly](https://github.com/user-attachments/assets/9faa35d7-044d-4e9f-93e6-d2300d5e55b8)
+
+
 
 ### ©️ C/C++
 
