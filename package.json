@@ -34,7 +34,7 @@
     "@mui/icons-material": "6.2.0",
     "@mui/material": "6.2.0",
     "@uiw/codemirror-theme-darcula": "4.23.6",
-    "@uiw/react-codemirror": "4.23.6",
+    "@uiw/react-codemirror": "4.23.7",
     "gatsby": "5.14.0",
     "gatsby-link": "5.14.0",
     "gatsby-plugin-manifest": "5.14.0",
