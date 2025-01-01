@@ -466,13 +466,40 @@ show others what technology you know and use.
 
 If you are willing to make the project better, you are free to contribute in one of those ways.
 
-### Adding new icons
+### Adding New Icons
 
-- Icon size must be 400x400px.
-- You can make fork and edit this file in browser by adding new icon and make Pull Request.
-- Just click "edit" sign or click [here](https://github.com/marwin1991/profile-technology-icons/edit/main/README.md).
-- To add a new icon, copy a boilerplate code from any other single icon, drag&drop the new icon right to the editor and change the path of the old icon to the new one.
-- Before commit changes, please, make sure that you changed both paths (in src-attribute and in the right column) and technology name.
+1. **Prepare the icon file**:
+  - The icon must be **400x400 px** (square).
+  - The file name should be in **lowercase**. Replace all **spaces**, **dots** (`.`), and **slashes** (`/`) with **underscores** (`_`).
+  - Example:
+    - Technology: `My Technology/2.0`
+    - File name: `my_technology_2_0.png`
+
+2. **Add the file to the `icons/` folder**:
+  - Place your new image file (e.g., `my_technology_2_0.png`) in the `icons` directory.
+  - You can do this using GitHub’s **“Add file”** \> **“Upload files”** option, or by adding it locally and committing the changes in your branch.
+
+3. **Add a new row to the table in `README.md`**:
+  - Locate the section with the table of existing icons in the `README.md`.
+  - Copy an existing table row as a template and paste it below (or wherever you want).
+  - Update:
+    1. The **technology name** in the middle column.
+    2. The **URL** in the `src` attribute and in the backtick section (the right column) so that it points to your newly uploaded file in the `icons` folder.
+    - The new icon’s URL should look like this (note that the file name must match exactly):
+      ```
+      https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png
+      ```
+  - For example:
+    ```
+    | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png"> | My Technology/2.0 | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png` |
+    ```
+
+4. **Open a Pull Request (PR)**:
+  - Commit your changes (including the new `.png` file and the updated `README.md`) to your **fork** and create a **Pull Request** to this repository.
+  - In the PR description, briefly mention which new icon you’ve added.
+
+
+Once your PR is merged, **your icon** will appear in the `icons/` folder and will be visible in the README table. If you have any questions or issues, feel free to open an **issue** or comment directly in the PR.
 
 ### Adding issues
 
