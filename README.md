@@ -452,11 +452,8 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397"> |      Foundry       | `https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397` |
 | <img height="50" src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6"> |     Metamask     | `https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6` |
 | <img height="50" src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979"> |     Ethereum     | `https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979` |
-| <img height="50" src="https://github.com/user-attachments/assets/bfb03e14-214d-497f-8d88-1592acf71922"> |     Chainlink     | `https://github.com/user-attachments/assets/bfb03e14-214d-497f-8d88-1592acf71922` |
-| <img height="50" src="https://github.com/user-attachments/assets/5ebbcdd5-5359-4107-8ef3-ea3799efc545"> |     Uniswap     | `https://github.com/user-attachments/assets/5ebbcdd5-5359-4107-8ef3-ea3799efc545` |
-
-
-
+| <img height="50" src="https://github.com/user-attachments/assets/721a12b9-fdfb-479b-85cb-3b879c1efdad"> |     Chainlink     | `https://github.com/user-attachments/assets/721a12b9-fdfb-479b-85cb-3b879c1efdad` |
+| <img height="50" src="https://github.com/user-attachments/assets/688e8af4-41c0-47ba-b1f7-12f998fa9430"> |     Uniswap     | `https://github.com/user-attachments/assets/688e8af4-41c0-47ba-b1f7-12f998fa9430` |
 
 
 
