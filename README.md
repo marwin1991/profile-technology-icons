@@ -489,15 +489,9 @@ If you are willing to make the project better, you are free to contribute in one
       ```
       https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png
       ```
-  - For example:
-    ```
-    | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png"> | My Technology/2.0 | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png` |
-    ```
 
 4. **Open a Pull Request (PR)**:
   - Commit your changes (including the new `.png` file and the updated `README.md`) to your **fork** and create a **Pull Request** to this repository.
-  - In the PR description, briefly mention which new icon you’ve added.
-
 
 Once your PR is merged, **your icon** will appear in the `icons/` folder and will be visible in the README table. If you have any questions or issues, feel free to open an **issue** or comment directly in the PR.
 
