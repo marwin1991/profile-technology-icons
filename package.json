@@ -47,7 +47,7 @@
     "styled-components": "6.1.13"
   },
   "devDependencies": {
-    "gh-pages": "6.2.0"
+    "gh-pages": "6.3.0"
   },
   "packageManager": "pnpm@9.15.2",
   "engineStrict": true,
