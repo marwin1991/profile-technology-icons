@@ -39,6 +39,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🐍 [Python](#-python)
   - ➡️ 🐘 [php](#-php)
   - ➡️ 💎 [Ruby](#-ruby)
+  - ➡️ 🦖 [Zig](#-zig)
   - ➡️ 🦾 [Rust](#-rust)
   - ➡️ 🧮 [Fortran](#-fortran)
   - ➡️ 🐿️ [Go](#-go)
@@ -266,6 +267,13 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png"> | Ruby | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png"> | Ruby on Rails | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rubygems.png"> | RubyGems | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rubygems.png` |
+
+### 🦖 Zig
+
+|                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
+| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png"> | Zig | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zero_the_ziguana.png"> | Zero the Ziguana (Mascot) | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zero_the_ziguana.png` |
 
 ### 🦾 Rust
 
