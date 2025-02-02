@@ -95,6 +95,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png"> | IntelliJ | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png"> | WebStorm | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png"> | PyCharm | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pycharm.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/phpstorm.png"> | PhpStorm | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/phpstorm.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png"> | Android Studio | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/appcode.png"> | AppCode | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/appcode.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png"> | Xcode | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/xcode.png` |
@@ -233,7 +234,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 
 |                                                        Technology Icon                                                        | Technology Name | URL                                                                                                     |
 | :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png"> | C# | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c#.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png"> | C# | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"> | .NET Core | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png` |
 
 ### 🌕 Lua
