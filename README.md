@@ -184,6 +184,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodegui.png"> | NodeGui | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nodegui.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png"> | Turborepo | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/turborepo.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/marionette.png"> | Marionette | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/marionette.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png"> | Electron | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/electron.png` |
 
 ### ☕ Java
 
