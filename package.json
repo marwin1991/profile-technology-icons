@@ -31,7 +31,7 @@
     "@dnd-kit/utilities": "3.2.2",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
-    "@mui/icons-material": "6.4.6",
+    "@mui/icons-material": "6.4.7",
     "@mui/material": "6.4.6",
     "@uiw/codemirror-theme-darcula": "4.23.8",
     "@uiw/react-codemirror": "4.23.9",
