@@ -25,7 +25,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
 
 ### 📋 List of Content:
 
-- ➡️ 🖨️ [Technologies Icons](#-technoogies-icons)
+- ➡️ 🖨️ [Technologies Icons](#%EF%B8%8F-technologies-icons)
 
   - ➡️ 🚍 [Communication](#-communication)
   - ➡️ 🧰 [Version Control](#-version-control)
@@ -42,7 +42,7 @@ If you prefer badge instead of icon checkout [Badges4-README.md-Profile](https:/
   - ➡️ 🦖 [Zig](#-zig)
   - ➡️ 🦾 [Rust](#-rust)
   - ➡️ 🧮 [Fortran](#-fortran)
-  - ➡️ 🐿️ [Go](#-go)
+  - ➡️ 🐿️ [Go](#%EF%B8%8F-go)
   - ➡️ ☎️ [Erlang/Elixir](#%EF%B8%8F-erlangelixir)
   - ➡️ 🧊 [Apache](#-apache)
   - ➡️ 📱 [Mobile Dev](#-mobile-dev)
@@ -129,6 +129,7 @@ _All product names, logos, and brandsare property of their respective owners. Al
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/materialize.png"> | Materialize | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/materialize.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png"> | Bulma | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png"> | Strapi | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/directus.png"> | Directus | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/directus.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"> | Auth0 | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png"> | styled-components | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png` |
 
