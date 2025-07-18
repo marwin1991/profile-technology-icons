@@ -144,6 +144,7 @@ endorsement._
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png">      |      Canva      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png`           |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png">    |    ShadCn UI    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png`       |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png">     |     Next UI     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png`         |
+|     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png">      |     Lucide      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png`         |
 
 ### 📜 JavaScript
 
