@@ -378,6 +378,7 @@ endorsement._
 |                                                          Technology Icon                                                           | Technology Name | URL                                                                                                          |
 |:----------------------------------------------------------------------------------------------------------------------------------:|:---------------:|--------------------------------------------------------------------------------------------------------------|
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"> |   TensorFlow    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"> |    LangChain    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png` |
 
 ### 🔬 Analytics
 
