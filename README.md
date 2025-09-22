@@ -444,7 +444,7 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png">   |   Kali Linux    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png`    |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png">     |      Nixos      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png`         |
 
-### :electric_plug: Microcontrollers
+### 🔌 Microcontrollers
 
 |                                                           Technology Icon                                                            | Technology Name | URL                                                                                                            |
 |:------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|----------------------------------------------------------------------------------------------------------------|
