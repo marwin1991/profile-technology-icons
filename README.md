@@ -26,34 +26,35 @@ checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-
 
 - ➡️ 🖨️ [Technologies Icons](#%EF%B8%8F-technologies-icons)
 
-    - ➡️ 🚍 [Communication](#-communication)
-    - ➡️ 🧰 [Version Control](#-version-control)
-    - ➡️ 🔨 [Tools](#-tools)
-    - ➡️ 🌐 [Web Dev](#-web-dev)
-    - ➡️ ✨ [UI/UX](#-uiux)
-    - ➡️ 📜 [JavaScript](#-javascript)
-    - ➡️ ☕ [Java](#-java)
-    - ➡️ ©️ [C/C++](#%EF%B8%8F-cc)
-    - ➡️ 🪒 [C#](#-c)
-    - ➡️ 🐍 [Python](#-python)
-    - ➡️ 🐘 [php](#-php)
-    - ➡️ 💎 [Ruby](#-ruby)
-    - ➡️ 🦖 [Zig](#-zig)
-    - ➡️ 🦾 [Rust](#-rust)
-    - ➡️ 🧮 [Fortran](#-fortran)
-    - ➡️ 🐿️ [Go](#%EF%B8%8F-go)
-    - ➡️ ☎️ [Erlang/Elixir](#%EF%B8%8F-erlangelixir)
-    - ➡️ 🧊 [Apache](#-apache)
-    - ➡️ 📱 [Mobile Dev](#-mobile-dev)
-    - ➡️ 💾 [Database](#-database)
-    - ➡️ 🤿 [DevOps](#-devops)
-    - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud)
-    - ➡️ 🤖 [AI](#-ai)
-    - ➡️ 🔬 [Analytics](#-analytics)
-    - ➡️ 🧪 [Testing](#-testing)
-    - ➡️ 🎮 [Game Development](#-game-development)
-    - ➡️ 🖥️ [Operating system](#%EF%B8%8F-operating-system)
-    - ➡️ 🔗 [Blockchain](#-blockchain)
+  - ➡️ 🚍 [Communication](#-communication)
+  - ➡️ 🧰 [Version Control](#-version-control)
+  - ➡️ 🔨 [Tools](#-tools)
+  - ➡️ 🌐 [Web Dev](#-web-dev)
+  - ➡️ ✨ [UI/UX](#-uiux)
+  - ➡️ 📜 [JavaScript](#-javascript)
+  - ➡️ ☕ [Java](#-java)
+  - ➡️ ©️ [C/C++](#%EF%B8%8F-cc)
+  - ➡️ 🪒 [C#](#-c)
+  - ➡️ 🐍 [Python](#-python)
+  - ➡️ 🐘 [php](#-php)
+  - ➡️ 💎 [Ruby](#-ruby)
+  - ➡️ 🦖 [Zig](#-zig)
+  - ➡️ 🦾 [Rust](#-rust)
+  - ➡️ 🧮 [Fortran](#-fortran)
+  - ➡️ 🐿️ [Go](#%EF%B8%8F-go)
+  - ➡️ ☎️ [Erlang/Elixir](#%EF%B8%8F-erlangelixir)
+  - ➡️ 🧊 [Apache](#-apache)
+  - ➡️ 📱 [Mobile Dev](#-mobile-dev)
+  - ➡️ 💾 [Database](#-database)
+  - ➡️ 🤿 [DevOps](#-devops)
+  - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud)
+  - ➡️ 🤖 [AI](#-ai)
+  - ➡️ 🔬 [Analytics](#-analytics)
+  - ➡️ 🧪 [Testing](#-testing)
+  - ➡️ 🎮 [Game Development](#-game-development)
+  - ➡️ 🖥️ [Operating system](#%EF%B8%8F-operating-system)
+  - ➡️ 🔗 [Blockchain](#-blockchain)
+  - ➡️ 🌎 [Geospatial](#-geospatial)
 
 - ➡️ 🍼 [How to use this icons?](#-how-to-use-it)
 
@@ -68,7 +69,7 @@ endorsement._
 ### 🚍 Communication
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">    |      HTTP       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png`      |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png"> |    websocket    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png` |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png">    |      gRPC       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grpc.png`      |
@@ -80,7 +81,7 @@ endorsement._
 ### 🧰 Version Control
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png">    |       Git       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png`       |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">   |     GitHub      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png`    |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png">   |     GitLab      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png`    |
@@ -89,7 +90,7 @@ endorsement._
 ### 🔨 Tools
 
 |                                                              Technology Icon                                                               |  Technology Name   | URL                                                                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|----------------------------------------------------------------------------------------------------------------------|
+| :----------------------------------------------------------------------------------------------------------------------------------------: | :----------------: | -------------------------------------------------------------------------------------------------------------------- |
 |        <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png">         |        Vim         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png`                |
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png">      |      IntelliJ      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png`           |
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png">      |      WebStorm      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png`           |
@@ -112,7 +113,7 @@ endorsement._
 ### 🌐 Web Dev
 
 |                                                              Technology Icon                                                              |  Technology Name  | URL                                                                                                                 |
-|:-----------------------------------------------------------------------------------------------------------------------------------------:|:-----------------:|---------------------------------------------------------------------------------------------------------------------|
+| :---------------------------------------------------------------------------------------------------------------------------------------: | :---------------: | ------------------------------------------------------------------------------------------------------------------- |
 |       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">        |       HTML        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png`              |
 |        <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">        |        CSS        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png`               |
 |       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png">        |       Sass        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png`              |
@@ -135,7 +136,7 @@ endorsement._
 ### ✨ UI/UX
 
 |                                                             Technology Icon                                                             | Technology Name | URL                                                                                                               |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------------- |
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">      |      Figma      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png`           |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png"> | Material Design | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_design.png` |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png">   |   Material UI   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png`     |
@@ -144,12 +145,12 @@ endorsement._
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png">      |      Canva      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png`           |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png">    |    ShadCn UI    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png`       |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png">     |     Next UI     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png`         |
-|     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png">      |     Lucide      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png`         |
+|     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png">      |     Lucide      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lucide.png`          |
 
 ### 📜 JavaScript
 
 |                                                           Technology Icon                                                           | Technology Name | URL                                                                                                           |
-|:-----------------------------------------------------------------------------------------------------------------------------------:|:---------------:|---------------------------------------------------------------------------------------------------------------|
+| :---------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">  |   JavaScript    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png`  |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png">   |     Angular     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png`     |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">    |      React      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png`       |
@@ -187,7 +188,7 @@ endorsement._
 ### ☕ Java
 
 |                                                            Technology Icon                                                             | Technology Name | URL                                                                                                              |
-|:--------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|------------------------------------------------------------------------------------------------------------------|
+| :------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ---------------------------------------------------------------------------------------------------------------- |
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">      |      Java       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png`           |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png">     |     Spring      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png`         |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">   |   Spring Boot   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png`    |
@@ -221,7 +222,7 @@ endorsement._
 ### ©️ C/C++
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png">     |        C        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png`         |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">    |       C++       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png`       |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png">     |       Qt        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qt.png`        |
@@ -230,7 +231,7 @@ endorsement._
 ### 🪒 C\#
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png">    |       C#        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png`      |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png"> |    .NET Core    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png` |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blazor.png">   |     Blazor      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/blazor.png`    |
@@ -238,13 +239,13 @@ endorsement._
 ### 🌕 Lua
 
 |                                                       Technology Icon                                                       | Technology Name | URL                                                                                                   |
-|:---------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"> |       Lua       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png` |
 
 ### 🐍 Python
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">   |     Python      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png`    |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">   |      Flask      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png`     |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png">   |     pytest      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png`    |
@@ -254,12 +255,12 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pygame.png">   |     Pygame      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pygame.png`    |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png">    |      Odoo       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png`      |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"> |    Streamlit    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png` |
-| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png"> |    FastAPI    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png` |
+|  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png">  |     FastAPI     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png`   |
 
 ### 🐘 php
 
 |                                                             Technology Icon                                                             | Technology Name | URL                                                                                                               |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------------- |
 |       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png">       |       php       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png`             |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png"> | php (elephpant) | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png` |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png">     |     Laravel     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png`         |
@@ -267,7 +268,7 @@ endorsement._
 ### 💎 Ruby
 
 |                                                            Technology Icon                                                            | Technology Name | URL                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------- |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png">      |      Ruby       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby.png`          |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png"> |  Ruby on Rails  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ruby_on_rails.png` |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rubygems.png">    |    RubyGems     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rubygems.png`      |
@@ -275,46 +276,46 @@ endorsement._
 ### 🦖 Zig
 
 |                                                             Technology Icon                                                              |      Technology Name      | URL                                                                                                                |
-|:----------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|--------------------------------------------------------------------------------------------------------------------|
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | ------------------------------------------------------------------------------------------------------------------ |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png">      |            Zig            | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ziglang.png`          |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zero_the_ziguana.png"> | Zero the Ziguana (Mascot) | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zero_the_ziguana.png` |
 
 ### 🦾 Rust
 
 |                                                       Technology Icon                                                        | Technology Name | URL                                                                                                    |
-|:----------------------------------------------------------------------------------------------------------------------------:|:---------------:|--------------------------------------------------------------------------------------------------------|
+| :--------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------ |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png"> |      Rust       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png` |
 
 ### 🧮 Fortran
 
 |                                                         Technology Icon                                                         | Technology Name | URL                                                                                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png"> |     Fortran     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fortran.png` |
 
 ### 🐿️ Go
 
 |                                                      Technology Icon                                                       | Technology Name | URL                                                                                                  |
-|:--------------------------------------------------------------------------------------------------------------------------:|:---------------:|------------------------------------------------------------------------------------------------------|
+| :------------------------------------------------------------------------------------------------------------------------: | :-------------: | ---------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png"> |       Go        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png` |
 
 ### ☎️ Erlang/Elixir
 
 |                                                        Technology Icon                                                         | Technology Name | URL                                                                                                      |
-|:------------------------------------------------------------------------------------------------------------------------------:|:---------------:|----------------------------------------------------------------------------------------------------------|
+| :----------------------------------------------------------------------------------------------------------------------------: | :-------------: | -------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/erlang.png"> |     Erlang      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/erlang.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elixir.png"> |     Elixir      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elixir.png` |
 
 ### 🧊 Apache
 
 |                                                           Technology Icon                                                            | Technology Name | URL                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|----------------------------------------------------------------------------------------------------------------|
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | -------------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_solr.png">  |   Apache Solr   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_solr.png`  |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_camel.png"> |  Apache Camel   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_camel.png` |
 
 ### 📱 Mobile Dev
 
 |                                                         Technology Icon                                                         | Technology Name | URL                                                                                                       |
-|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png"> |     Android     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png` |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png">   |       iOS       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png`     |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png">  |      Swift      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swift.png`   |
@@ -326,7 +327,7 @@ endorsement._
 ### 💾 Database
 
 |                                                           Technology Icon                                                           | Technology Name | URL                                                                                                           |
-|:-----------------------------------------------------------------------------------------------------------------------------------:|:---------------:|---------------------------------------------------------------------------------------------------------------|
+| :---------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">  |   PostgreSQL    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png`  |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png">    |     Oracle      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png`      |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">    |      MySQL      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png`       |
@@ -346,7 +347,7 @@ endorsement._
 ### 🤿 DevOps
 
 |                                                          Technology Icon                                                           | Technology Name | URL                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------:|--------------------------------------------------------------------------------------------------------------|
+| :--------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------ |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png">    |      bash       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png`       |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">   |     Docker      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png"> |   Kubernetes    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png` |
@@ -367,7 +368,7 @@ endorsement._
 ### ☁️ Cloud
 
 |                                                             Technology Icon                                                             | Technology Name | URL                                                                                                               |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------------- |
 |       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png">       |       AWS       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png`             |
 |       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png">       |       GCP       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png`             |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png"> | Microsoft Azure | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png` |
@@ -376,15 +377,15 @@ endorsement._
 
 ### 🤖 AI
 
-|                                                          Technology Icon                                                           | Technology Name | URL                                                                                                          |
-|:----------------------------------------------------------------------------------------------------------------------------------:|:---------------:|--------------------------------------------------------------------------------------------------------------|
-| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png"> |   TensorFlow    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png` |
+|                                                            Technology Icon                                                             | Technology Name | URL                                                                                                              |
+| :------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ---------------------------------------------------------------------------------------------------------------- |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png">   |   TensorFlow    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"> |    LangChain    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png` |
 
 ### 🔬 Analytics
 
 |                                                            Technology Icon                                                            | Technology Name | URL                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png"> |  Elasticsearch  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elasticsearch.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png">  |  Apache Spark   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png`  |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png">   |   Databricks    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/databricks.png`    |
@@ -393,7 +394,7 @@ endorsement._
 ### 🧪 Testing
 
 |                                                             Technology Icon                                                             | Technology Name | URL                                                                                                               |
-|:---------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------------- |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png">     |    Selenium     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png`        |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cucumber.png">     |    Cucumber     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cucumber.png`        |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png">     |     Cypress     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png`         |
@@ -406,7 +407,7 @@ endorsement._
 ### 🎮 Game Development
 
 |                                                            Technology Icon                                                            | Technology Name | URL                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------- |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png">     |      Unity      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unity.png`         |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png">     |      Godot      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/godot.png`         |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png"> |  Unreal Engine  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/unreal_engine.png` |
@@ -415,7 +416,7 @@ endorsement._
 ### 🖥️ Operating system
 
 |                                                            Technology Icon                                                            | Technology Name | URL                                                                                                             |
-|:-------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------------|
+| :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | --------------------------------------------------------------------------------------------------------------- |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png">    |     Windows     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png`       |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png">     |      macOS      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png`         |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png">     |      Linux      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png`         |
@@ -430,7 +431,7 @@ endorsement._
 ### :electric_plug: Microcontrollers
 
 |                                                           Technology Icon                                                            | Technology Name | URL                                                                                                            |
-|:------------------------------------------------------------------------------------------------------------------------------------:|:---------------:|----------------------------------------------------------------------------------------------------------------|
+| :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | -------------------------------------------------------------------------------------------------------------- |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">    |     Arduino     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png`      |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/coral_ai.png">   |    Coral.ai     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/coral_ai.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png"> |  Raspberri Pi   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png` |
@@ -438,7 +439,7 @@ endorsement._
 ### 🛜 MQTT technologies
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png">    |      MQTT       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png`      |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/emqx.png">    |      EMQX       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/emqx.png`      |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mosquitto.png"> |    Mosquitto    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mosquitto.png` |
@@ -450,7 +451,7 @@ endorsement._
 ### 🔗 Blockchain
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
-|:---------------------------------------------------------------------------------------------------------------------------------:|:---------------:|-------------------------------------------------------------------------------------------------------------|
+| :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png">  |    Solidity     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png`  |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png">   |     Solana      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solana.png`    |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hardhat.png">  |     Hardhat     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hardhat.png`   |
@@ -459,6 +460,19 @@ endorsement._
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png">  |    Ethereum     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png`  |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png"> |    Chainlink    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/chainlink.png` |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/uniswap.png">  |     Uniswap     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/uniswap.png`   |
+
+### 🌎 Geospatial
+
+|                                                               Technology Icon                                                               |   Technology Name   | URL                                                                                                                   |
+| :-----------------------------------------------------------------------------------------------------------------------------------------: | :-----------------: | --------------------------------------------------------------------------------------------------------------------- |
+|       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arcgis.png">        |       ArcGIS        | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arcgis.png`              |
+|        <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qgis.png">         |        QGIS         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/qgis.png`                |
+|       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/leaflet.png">       |       Leaflet       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/leaflet.png`             |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png"> | Google Earth Engine | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/google_earth_engine.png` |
+|      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geoserver.png">      |      GeoServer      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geoserver.png`           |
+|         <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fme.png">         |         FME         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fme.png`                 |
+|        <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gdal.png">         |        GDAL         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gdal.png`                |
+|      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geopandas.png">      |      GeoPandas      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geopandas.png`           |
 
 # 🍼 How to use it?
 
@@ -475,11 +489,11 @@ If you are willing to make the project better, you are free to contribute in one
 1. **Prepare the icon file**:
 
 - The icon must be **400x400 px** (square).
-- The file name should be in **lowercase**. Replace all **spaces**, **dots** (`.`), and **slashes** (`/`) with *
-  *underscores** (`_`).
+- The file name should be in **lowercase**. Replace all **spaces**, **dots** (`.`), and **slashes** (`/`) with \*
+  \*underscores\*\* (`_`).
 - Example:
-    - Technology: `My Technology/2.0`
-    - File name: `my_technology_2_0.png`
+  - Technology: `My Technology/2.0`
+  - File name: `my_technology_2_0.png`
 
 2. **Add the file to the `icons/` folder**:
 
@@ -492,14 +506,15 @@ If you are willing to make the project better, you are free to contribute in one
 - Locate the section with the table of existing icons in the `README.md`.
 - Copy an existing table row as a template and paste it below (or wherever you want).
 - Update:
-    1. The **technology name** in the middle column.
-    2. The **URL** in the `src` attribute and in the backtick section (the right column) so that it points to your newly
-       uploaded file in the `icons` folder.
 
-    - The new icon’s URL should look like this (note that the file name must match exactly):
-      ```
-      https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png
-      ```
+  1. The **technology name** in the middle column.
+  2. The **URL** in the `src` attribute and in the backtick section (the right column) so that it points to your newly
+     uploaded file in the `icons` folder.
+
+  - The new icon’s URL should look like this (note that the file name must match exactly):
+    ```
+    https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/my_technology_2_0.png
+    ```
 
 4. **Open a Pull Request (PR)**:
 
