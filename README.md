@@ -48,6 +48,7 @@ checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-
   - ➡️ 🧊 [Apache](#-apache)
   - ➡️ 📱 [Mobile Dev](#-mobile-dev)
   - ➡️ 💾 [Database](#-database)
+  - ➡️ 📚 [Bibliography managers](#-bibliography-managers)
   - ➡️ 🤿 [DevOps](#-devops)
   - ➡️ ☁️ [Cloud](#%EF%B8%8F-cloud)
   - ➡️ 🤖 [AI](#-ai)
@@ -55,6 +56,8 @@ checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-
   - ➡️ 🧪 [Testing](#-testing)
   - ➡️ 🎮 [Game Development](#-game-development)
   - ➡️ 🖥️ [Operating system](#%EF%B8%8F-operating-system)
+  - ➡️ ️🔌 [Microcontrollers](#-microcontrollers)
+  - ➡️ 🛜️ [MQTT technologies](#-mqtt-technologies)
   - ➡️ 🔗 [Blockchain](#-blockchain)
   - ➡️ 🌎 [Geospatial](#-geospatial)
 
