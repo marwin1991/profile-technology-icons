@@ -358,6 +358,7 @@ endorsement._
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cockroachdb.png"> |   CockroachDB   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cockroachdb.png` |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hive.png">     |      Hive       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hive.png`        |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png">    |      MSSQL      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png`       |
+|    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png">   |     Prisma      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png`      |
 
 ### 📚 Bibliography managers
 
