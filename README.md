@@ -452,6 +452,7 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png">   |   Kali Linux    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png`    |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png">     |      Nixos      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png`         |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/asahi_linux.png"> |   Asahi Linux   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/asahi_linux.png`   |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/freeBSD.png"> |   FreeBSD   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/freeBSD.png`   |
 
 ### 🔌 Microcontrollers
 
