@@ -36,7 +36,7 @@ checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-
   - ➡️ ©️ [C/C++](#%EF%B8%8F-cc)
   - ➡️ 🪒 [C#](#-c)
   - ➡️ 🌕 [Lua](#-lua)
-  - ➡️ 📄 [LaTeX](#-latex)
+  - ➡️ 📄 [Typesetting languages](#-typesetting-languages)
   - ➡️ 🐍 [Python](#-python)
   - ➡️ 🐘 [php](#-php)
   - ➡️ 💎 [Ruby](#-ruby)
@@ -249,11 +249,12 @@ endorsement._
 | :-------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png"> |       Lua       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/lua.png` |
 
-### 📄 LaTeX
+### 📄 Typesetting languages
 
 |                                                       Technology Icon                                                         | Technology Name | URL                                                                                                       |
 |:-----------------------------------------------------------------------------------------------------------------------------:|:---------------:|-----------------------------------------------------------------------------------------------------------|
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png"> |       LaTeX       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/latex.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typst.png"> |       Typst       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typst.png` |
 
 
 ### 🐍 Python
@@ -451,6 +452,7 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png">   |   Kali Linux    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png`    |
 |     <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png">     |      Nixos      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nixos.png`         |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/asahi_linux.png"> |   Asahi Linux   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/asahi_linux.png`   |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/freeBSD.png"> |   FreeBSD   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/freeBSD.png`   |
 
 ### 🔌 Microcontrollers
 
