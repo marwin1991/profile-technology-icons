@@ -55,7 +55,7 @@ importers:
         version: 1.2.0
       gatsby-plugin-styled-components:
         specifier: 6.16.0
-        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
+        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       react:
         specifier: 18.3.1
         version: 18.3.1
@@ -66,8 +66,8 @@ importers:
         specifier: 18.3.1
         version: 18.3.1(react@18.3.1)
       styled-components:
-        specifier: 6.3.9
-        version: 6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 6.3.11
+        version: 6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
     devDependencies:
       gh-pages:
         specifier: 6.3.0
@@ -4776,6 +4776,7 @@ packages:
   prebuild-install@7.1.2:
     resolution: {integrity: sha512-UnNke3IQb6sgarcZIDU3gbMeTp/9SSU1DAIkil7PrqG1vZlBtY5msYccSKSHDqa3hNg436IXK+SNImReuA1wEQ==}
     engines: {node: '>=10'}
+    deprecated: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
     hasBin: true
 
   prelude-ls@1.2.1:
@@ -5427,8 +5428,8 @@ packages:
   style-to-object@0.4.4:
     resolution: {integrity: sha512-HYNoHZa2GorYNyqiCaBgsxvcJIn7OHq6inEga+E6Ke3m5JkoqpQbnFssk4jwe+K7AhGa2fcha4wSOf1Kn01dMg==}
 
-  styled-components@6.3.9:
-    resolution: {integrity: sha512-J72R4ltw0UBVUlEjTzI0gg2STOqlI9JBhQOL4Dxt7aJOnnSesy0qJDn4PYfMCafk9cWOaVg129Pesl5o+DIh0Q==}
+  styled-components@6.3.11:
+    resolution: {integrity: sha512-opzgceGlQ5rdZdGwf9ddLW7EM2F4L7tgsgLn6fFzQ2JgE5EVQ4HZwNkcgB1p8WfOBx1GEZP3fa66ajJmtXhSrA==}
     engines: {node: '>= 16'}
     peerDependencies:
       react: '>= 16.8.0'
@@ -8408,14 +8409,14 @@ snapshots:
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2)
       gatsby-core-utils: 4.16.0
 
-  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)):
+  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)):
     dependencies:
       '@babel/helper-annotate-as-pure': 7.25.9
       '@babel/helper-module-imports': 7.25.9
       '@babel/plugin-syntax-jsx': 7.25.9(@babel/core@7.26.0)
       lodash: 4.17.21
       picomatch: 2.3.1
-      styled-components: 6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      styled-components: 6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
@@ -10109,14 +10110,14 @@ snapshots:
     dependencies:
       smoothscroll-polyfill: 0.4.4
 
-  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)):
+  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)):
     dependencies:
       '@babel/runtime': 7.28.4
-      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
+      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1))
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
-      styled-components: 6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      styled-components: 6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
 
   gatsby-plugin-typescript@5.16.0(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(type-fest@0.21.3)(typescript@5.7.2)):
     dependencies:
@@ -12536,7 +12537,7 @@ snapshots:
     dependencies:
       inline-style-parser: 0.1.1
 
-  styled-components@6.3.9(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  styled-components@6.3.11(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       '@emotion/is-prop-valid': 1.4.0
       '@emotion/unitless': 0.10.0
