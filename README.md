@@ -92,6 +92,7 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">   |     GitHub      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png`    |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png">   |     GitLab      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gitlab.png`    |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png"> |    Bitbucket    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bitbucket.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codeberg.png"> |    Codeberg    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codeberg.png` |
 
 ### 🔨 Tools
 
