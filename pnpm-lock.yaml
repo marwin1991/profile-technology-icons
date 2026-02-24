@@ -33,8 +33,8 @@ importers:
         specifier: 7.3.8
         version: 7.3.8(@emotion/react@11.14.0(@types/react@19.0.1)(react@18.3.1))(@emotion/styled@11.14.1(@emotion/react@11.14.0(@types/react@19.0.1)(react@18.3.1))(@types/react@19.0.1)(react@18.3.1))(@types/react@19.0.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@uiw/codemirror-theme-darcula':
-        specifier: 4.25.4
-        version: 4.25.4(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)
+        specifier: 4.25.5
+        version: 4.25.5(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)
       '@uiw/react-codemirror':
         specifier: 4.25.4
         version: 4.25.4(@babel/runtime@7.28.6)(@codemirror/autocomplete@6.18.3(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)(@lezer/common@1.2.3))(@codemirror/language@6.10.6)(@codemirror/lint@6.8.4)(@codemirror/search@6.5.8)(@codemirror/state@6.4.1)(@codemirror/theme-one-dark@6.1.2)(@codemirror/view@6.35.2)(codemirror@6.0.1(@lezer/common@1.2.3))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -1691,11 +1691,11 @@ packages:
       '@codemirror/state': '>=6.0.0'
       '@codemirror/view': '>=6.0.0'
 
-  '@uiw/codemirror-theme-darcula@4.25.4':
-    resolution: {integrity: sha512-ZXAdJ/QatWqOL690pLxvgMuvNDR1PGSSBxG6MdaycxHbxywFstjs88lU43/BIN5mvHArNm7j7quX/H4q15AfkQ==}
+  '@uiw/codemirror-theme-darcula@4.25.5':
+    resolution: {integrity: sha512-StEvIU2DV1a+SnVpLdD3voQ70FoIGwllYDnQH19WCO8STNEdS52P0+79Vpt0aPtl9sNSRhIh9AHyXie3Osp/nA==}
 
-  '@uiw/codemirror-themes@4.25.4':
-    resolution: {integrity: sha512-2SLktItgcZC4p0+PfFusEbAHwbuAWe3bOOntCevVgHtrWGtGZX3IPv2k8IKZMgOXtAHyGKpJvT9/nspPn/uCQg==}
+  '@uiw/codemirror-themes@4.25.5':
+    resolution: {integrity: sha512-mvNFy1eEkWTPSztL+N6cmOOZN26Wn9mGZUsFeIIRRkGqR4+Z9NBjzWF8JHqhZ73pEMOYe3UO+cRF/M9cxiTk9Q==}
     peerDependencies:
       '@codemirror/language': '>=6.0.0'
       '@codemirror/state': '>=6.0.0'
@@ -4776,6 +4776,7 @@ packages:
   prebuild-install@7.1.2:
     resolution: {integrity: sha512-UnNke3IQb6sgarcZIDU3gbMeTp/9SSU1DAIkil7PrqG1vZlBtY5msYccSKSHDqa3hNg436IXK+SNImReuA1wEQ==}
     engines: {node: '>=10'}
+    deprecated: No longer maintained. Please contact the author of the relevant native addon; alternatives are available.
     hasBin: true
 
   prelude-ls@1.2.1:
@@ -8010,15 +8011,15 @@ snapshots:
       '@codemirror/state': 6.4.1
       '@codemirror/view': 6.35.2
 
-  '@uiw/codemirror-theme-darcula@4.25.4(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)':
+  '@uiw/codemirror-theme-darcula@4.25.5(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)':
     dependencies:
-      '@uiw/codemirror-themes': 4.25.4(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)
+      '@uiw/codemirror-themes': 4.25.5(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)
     transitivePeerDependencies:
       - '@codemirror/language'
       - '@codemirror/state'
       - '@codemirror/view'
 
-  '@uiw/codemirror-themes@4.25.4(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)':
+  '@uiw/codemirror-themes@4.25.5(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)':
     dependencies:
       '@codemirror/language': 6.10.6
       '@codemirror/state': 6.4.1
