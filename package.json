@@ -49,9 +49,9 @@
   "devDependencies": {
     "gh-pages": "6.3.0"
   },
-  "packageManager": "pnpm@9.15.9",
+  "packageManager": "pnpm@10.30.3",
   "engineStrict": true,
   "engines": {
-    "pnpm": "9.15.9"
+    "pnpm": "10.30.3"
   }
 }
