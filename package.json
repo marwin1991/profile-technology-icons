@@ -41,9 +41,9 @@
     "gatsby-plugin-material-ui": "4.1.0",
     "gatsby-plugin-smoothscroll": "1.2.0",
     "gatsby-plugin-styled-components": "6.16.0",
-    "react": "18.3.1",
+    "react": "19.2.4",
     "react-copy-to-clipboard": "5.1.0",
-    "react-dom": "18.3.1",
+    "react-dom": "19.2.4",
     "styled-components": "6.3.9"
   },
   "devDependencies": {
