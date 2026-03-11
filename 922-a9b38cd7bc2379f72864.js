@@ -1,0 +1,1 @@
+(self.webpackChunkprofile_technology_icons=self.webpackChunkprofile_technology_icons||[]).push([[922],{9922:function(){}}]);
