@@ -55,7 +55,7 @@ importers:
         version: 1.2.0
       gatsby-plugin-styled-components:
         specifier: 6.16.0
-        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4))
+        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -66,8 +66,8 @@ importers:
         specifier: 19.2.4
         version: 19.2.4(react@19.2.4)
       styled-components:
-        specifier: 6.3.12
-        version: 6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+        specifier: 6.4.1
+        version: 6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
     devDependencies:
       gh-pages:
         specifier: 6.3.0
@@ -1513,6 +1513,7 @@ packages:
 
   '@sigmacomputing/babel-plugin-lodash@3.3.5':
     resolution: {integrity: sha512-VFhaHjlNzWyBtBm3YdqOwP8GbQHK7sWzXKpSUBTLjl2Zz6/9PwCK4qXZXI5CHpDjmvbouHUDbjrZP2KU5h6VQg==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   '@sindresorhus/is@4.6.0':
     resolution: {integrity: sha512-t09vSN3MdfsyCHoFcTRCH/iUtG7OJ0CsjzB8cjAmKc/va/kIgeDI/TxsigdncE/4be734m0cvIYwNaV4i2XqAw==}
@@ -1615,9 +1616,6 @@ packages:
 
   '@types/semver@7.5.8':
     resolution: {integrity: sha512-I8EUhyrgfLrcTkzV3TSsGyl1tSuPrEDzr0yd5m90UgNxQkyDXULk3b6MlQqTCpZpNtWe1K0hzclnZkTcLBe2UQ==}
-
-  '@types/stylis@4.2.7':
-    resolution: {integrity: sha512-VgDNokpBoKF+wrdvhAAfS55OMQpL6QRglwTwNC3kIgBrzZxA4WsFj+2eLfEA/uMUDzBcEhYmjSbwQakn/i3ajA==}
 
   '@types/yoga-layout@1.9.2':
     resolution: {integrity: sha512-S9q47ByT2pPvD65IvrWp7qppVMpk9WGMbVq9wbWZOHg6tnXSD4vyhao6nOSBwwfDdV2p3Kx9evA9vI+XWTfDvw==}
@@ -5175,9 +5173,6 @@ packages:
   shallow-compare@1.2.2:
     resolution: {integrity: sha512-LUMFi+RppPlrHzbqmFnINTrazo0lPNwhcgzuAXVVcfy/mqPDrQmHAyz5bvV0gDAuRFrk804V0HpQ6u9sZ0tBeg==}
 
-  shallowequal@1.1.0:
-    resolution: {integrity: sha512-y0m1JoUZSlPAjXVtPPW70aZWfIL/dSP7AFkRnniLCrK/8MDKog3TySTBmckD+RObVxH0v4Tox67+F14PdED2oQ==}
-
   sharp@0.32.6:
     resolution: {integrity: sha512-KyLTWwgcR9Oe4d9HwCwNM2l7+J0dUQwn/yf7S0EnTtb0eVS4RxO0eUSvxPtzT4F3SY+C4K6fqdv/DO27sJ/v/w==}
     engines: {node: '>=14.15.0'}
@@ -5428,14 +5423,20 @@ packages:
   style-to-object@0.4.4:
     resolution: {integrity: sha512-HYNoHZa2GorYNyqiCaBgsxvcJIn7OHq6inEga+E6Ke3m5JkoqpQbnFssk4jwe+K7AhGa2fcha4wSOf1Kn01dMg==}
 
-  styled-components@6.3.12:
-    resolution: {integrity: sha512-hFR6xsVkVYbsdcUlzPYFvFfoc6o2KlV0VvgRIQwSYMtdThM7SCxnjX9efh/cWce2kTq16I/Kl3xM98xiLptsXA==}
+  styled-components@6.4.1:
+    resolution: {integrity: sha512-ADu2dF53esUzzM4I0ewxhxFtsDd6v4V6dNkg3vG0iFKhnt06sJneTZnRvujAosZwW0XD58IKgGMQoqri4wHRqg==}
     engines: {node: '>= 16'}
     peerDependencies:
+      css-to-react-native: '>= 3.2.0'
       react: '>= 16.8.0'
       react-dom: '>= 16.8.0'
+      react-native: '>= 0.68.0'
     peerDependenciesMeta:
+      css-to-react-native:
+        optional: true
       react-dom:
+        optional: true
+      react-native:
         optional: true
 
   stylehacks@5.1.1:
@@ -5741,6 +5742,7 @@ packages:
 
   uuid@8.3.2:
     resolution: {integrity: sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==}
+    deprecated: uuid@10 and below is no longer supported.  For ESM codebases, update to uuid@latest.  For CommonJS codebases, use uuid@11 (but be aware this version will likely be deprecated in 2028).
     hasBin: true
 
   v8-compile-cache@2.4.0:
@@ -7913,8 +7915,6 @@ snapshots:
 
   '@types/semver@7.5.8': {}
 
-  '@types/stylis@4.2.7': {}
-
   '@types/yoga-layout@1.9.2': {}
 
   '@typescript-eslint/eslint-plugin@5.62.0(@typescript-eslint/parser@5.62.0(eslint@7.32.0)(typescript@5.7.2))(eslint@7.32.0)(typescript@5.7.2)':
@@ -8409,14 +8409,14 @@ snapshots:
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2)
       gatsby-core-utils: 4.16.0
 
-  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)):
+  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)):
     dependencies:
       '@babel/helper-annotate-as-pure': 7.25.9
       '@babel/helper-module-imports': 7.25.9
       '@babel/plugin-syntax-jsx': 7.25.9(@babel/core@7.26.0)
       lodash: 4.17.21
       picomatch: 2.3.1
-      styled-components: 6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      styled-components: 6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
@@ -8670,7 +8670,8 @@ snapshots:
 
   camelcase@6.3.0: {}
 
-  camelize@1.0.1: {}
+  camelize@1.0.1:
+    optional: true
 
   caniuse-api@3.0.0:
     dependencies:
@@ -8971,7 +8972,8 @@ snapshots:
 
   crypto-random-string@2.0.0: {}
 
-  css-color-keywords@1.0.0: {}
+  css-color-keywords@1.0.0:
+    optional: true
 
   css-declaration-sorter@6.4.1(postcss@8.4.49):
     dependencies:
@@ -9015,6 +9017,7 @@ snapshots:
       camelize: 1.0.1
       css-color-keywords: 1.0.0
       postcss-value-parser: 4.2.0
+    optional: true
 
   css-tree@1.1.3:
     dependencies:
@@ -10110,14 +10113,14 @@ snapshots:
     dependencies:
       smoothscroll-polyfill: 0.4.4
 
-  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)):
+  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)):
     dependencies:
       '@babel/runtime': 7.28.4
-      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4))
+      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2)
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
-      styled-components: 6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
+      styled-components: 6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
 
   gatsby-plugin-typescript@5.16.0(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(type-fest@0.21.3)(typescript@5.7.2)):
     dependencies:
@@ -12236,8 +12239,6 @@ snapshots:
 
   shallow-compare@1.2.2: {}
 
-  shallowequal@1.1.0: {}
-
   sharp@0.32.6:
     dependencies:
       color: 4.2.3
@@ -12532,19 +12533,14 @@ snapshots:
     dependencies:
       inline-style-parser: 0.1.1
 
-  styled-components@6.3.12(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
+  styled-components@6.4.1(css-to-react-native@3.2.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4):
     dependencies:
       '@emotion/is-prop-valid': 1.4.0
-      '@emotion/unitless': 0.10.0
-      '@types/stylis': 4.2.7
-      css-to-react-native: 3.2.0
       csstype: 3.2.3
-      postcss: 8.4.49
       react: 19.2.4
-      shallowequal: 1.1.0
       stylis: 4.3.6
-      tslib: 2.8.1
     optionalDependencies:
+      css-to-react-native: 3.2.0
       react-dom: 19.2.4(react@19.2.4)
 
   stylehacks@5.1.1(postcss@8.4.49):
