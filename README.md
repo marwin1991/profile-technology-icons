@@ -1,7 +1,7 @@
 # 👋 Welcome! profile-technology-icons for README.md
 
 A list of icons that can be used during GitHub profile creation to show what technology, languages are known.
-Fill free to contribute to this repository.
+Feel free to contribute to this repository.
 
 <div align="center">
   <a href="https://marwin1991.github.io/profile-technology-icons/">
