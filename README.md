@@ -265,7 +265,13 @@ endorsement._
 
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
+
+
+|<img height="50" src="https://raw.githubusercontent.com/Anand905536/profile-technology-icons/refs/heads/main/icons/pydantic.png">  |   pydantic   |
+
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">   |     Python      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png`    |
+
+
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">   |      Flask      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png`     |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png">   |     pytest      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png`    |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png">   |     Django      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png`    |
