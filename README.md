@@ -262,9 +262,9 @@ endorsement._
 
 
 ### 🐍 Python
-
 |                                                          Technology Icon                                                          | Technology Name | URL                                                                                                         |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ----------------------------------------------------------------------------------------------------------- |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png">  |    pydantic     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pydantic.png`  |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">   |     Python      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png`    |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">   |      Flask      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png`     |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png">   |     pytest      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png`    |
@@ -275,7 +275,6 @@ endorsement._
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png">    |      Odoo       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/odoo.png`      |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png"> |    Streamlit    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png` |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png">  |     FastAPI     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fastapi.png`   |
-
 ### 🐘 php
 
 |                                                             Technology Icon                                                             | Technology Name | URL                                                                                                               |
