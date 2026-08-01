@@ -525,8 +525,7 @@ If you are willing to make the project better, you are free to contribute in one
 1. **Prepare the icon file**:
 
 - The icon must be **400x400 px** (square).
-- The file name should be in **lowercase**. Replace all **spaces**, **dots** (`.`), and **slashes** (`/`) with \*
-  \*underscores\*\* (`_`).
+- The file name should be in **lowercase**. Replace all **spaces**, **dots** (`.`), and **slashes** (`/`) with **underscores** (`_`).
 - Example:
   - Technology: `My Technology/2.0`
   - File name: `my_technology_2_0.png`
