@@ -304,6 +304,7 @@ endorsement._
 |                                                       Technology Icon                                                        | Technology Name | URL                                                                                                    |
 | :--------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------ |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png"> |      Rust       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cargo.png"> |      Cargo       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cargo.png` |
 
 ### 🧮 Fortran
 
@@ -394,6 +395,7 @@ endorsement._
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/consul.png">   |     Consul      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/consul.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/openresty.png">  |    OpenResty    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/openresty.png`  |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png">   |     Puppet      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png`     |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/proxmox.png">   |     Proxmox      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/proxmox.png`     |
 
 ### ☁️ Cloud
 
@@ -456,6 +458,7 @@ endorsement._
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png">     |     Ubuntu      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png`        |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png">     |     Fedora      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png`        |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png">   |   Arch Linux    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arch_linux.png`    |
+|  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cachyos.png">   |   CachyOS    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cachyos.png`    |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png">   |   Linux Mint    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png`    |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elementary_os.png"> |  elementary OS  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/elementary_os.png` |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png">   |   Kali Linux    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png`    |
@@ -470,6 +473,7 @@ endorsement._
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">    |     Arduino     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png`      |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/coral_ai.png">   |    Coral.ai     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/coral_ai.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png"> |  Raspberri Pi   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stmicroelectronics.png"> |  STMicroelectronics   | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stmicroelectronics.png` |
 
 ### 🛜 MQTT technologies
 
