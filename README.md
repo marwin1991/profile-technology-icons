@@ -378,7 +378,9 @@ endorsement._
 
 |                                                          Technology Icon                                                           | Technology Name | URL                                                                                                          |
 | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------------ |
-|    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png">    |      bash       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png`       |
+|    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png">    |      Bash       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png`       |
+|    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fish.png">    |      Fish       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fish.png`       |
+|    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nushell.png">    |      Nushell       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nushell.png`       |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">   |     Docker      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png`     |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/podman.png">   |     Podman      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/podman.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png"> |   Kubernetes    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png` |
@@ -397,6 +399,7 @@ endorsement._
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/openresty.png">  |    OpenResty    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/openresty.png`  |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png">   |     Puppet      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/puppet.png`     |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/proxmox.png">   |     Proxmox      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/proxmox.png`     |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pihole.png">   |     Pi-Hole      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pihole.png`     |
 
 ### ☁️ Cloud
 
