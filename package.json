@@ -53,5 +53,10 @@
   "engineStrict": true,
   "engines": {
     "pnpm": "9.15.9"
+  },
+  "pnpm": {
+    "overrides": {
+      "shell-quote": "1.8.4"
+    }
   }
 }
