@@ -391,6 +391,8 @@ endorsement._
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png">   |     Grafana     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/grafana.png`    |
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png">    |      Loki       | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/loki.png`       |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png"> |   Prometheus    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prometheus.png` |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tempo.png">   |     Tempo      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tempo.png`     |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/opentelemetry.png">   |     OpenTelemetry      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/opentelemetry.png`     |
 |   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/thanos.png">   |     Thanos      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/thanos.png`     |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png">  |    Terraform    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png`  |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png">   |     Ansible     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ansible.png`    |
@@ -414,6 +416,8 @@ endorsement._
 |    <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ibm_cloud.png">    |    IBM Cloud    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ibm_cloud.png`       |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png">  |  Digital Ocean  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png`   |
 |  <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextcloud.png">  |  Nextcloud  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nextcloud.png`   |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cloudflare.png">   |     Cloudflare      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cloudflare.png`     |
+|   <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png">   |     Vercel      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png`     |
 
 ### 🤖 AI
 
