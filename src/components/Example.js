@@ -58,9 +58,9 @@ export default function Example(props) {
                 </CardContent>
             </CardActionArea>
             <CardActions>
-                <Box justifyContent="flex-end" width={"100%"}>
+                <Box sx={{justifyContent: "flex-end", width: "100%"}}>
                     <Button size="small" color="primary" onClick={editPage}>
-                        <Box fontWeight={600}>
+                        <Box sx={{fontWeight: 600}}>
                             Visit
                         </Box>
                     </Button>

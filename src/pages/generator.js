@@ -162,7 +162,7 @@ class Generator extends Component {
             marginBottom: 30,
           }}
         >
-          <Box fontWeight={600}>
+          <Box sx={{fontWeight: 600}}>
             <span role="img" aria-label="Magnifying Glass Tilted Right">
               🔎
             </span>{" "}
@@ -228,7 +228,7 @@ class Generator extends Component {
         <SortableList techs={data} update={this.updateTechs} />
 
         {this.state.data.some((x) => x.checked) && (
-          <Box fontSize={12} fontStyle="italic" style={{ marginTop: 10 }}>
+          <Box sx={{ fontSize: 12, fontStyle: "italic" }} style={{ marginTop: 10 }}>
             Drag to change the order
           </Box>
         )}
@@ -241,13 +241,15 @@ class Generator extends Component {
             onChange={(event) =>
               this.setState({ iconSize: event.target.value })
             }
-            InputProps={{
-              inputProps: {
+            slotProps={{
+              htmlInput: {
                 max: this.state.includeTable ? 50 : 1000,
                 min: 10,
                 // Max size set to 50px incase table is selected. Images tend to squish beyond that when used inside table.
               },
-              endAdornment: <InputAdornment position="end">px</InputAdornment>,
+              input: {
+                endAdornment: <InputAdornment position="end">px</InputAdornment>,
+              },
             }}
           />
 
@@ -343,7 +345,7 @@ class Generator extends Component {
               }}
               onClick={this.copyToClipboard}
             >
-              <Box fontWeight={600}>Copy</Box>
+              <Box sx={{fontWeight: 600}}>Copy</Box>
             </Button>
           </CopyToClipboard>
           <Button
@@ -355,7 +357,7 @@ class Generator extends Component {
             }}
             onClick={this.generate}
           >
-            <Box fontWeight={600}>Generate</Box>
+            <Box sx={{fontWeight: 600}}>Generate</Box>
           </Button>
         </FormGroup>
 
