@@ -428,6 +428,10 @@ endorsement._
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png"> |    LangChain    | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/langchain_icon.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png">        |     PyTorch     | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytorch.png` |
 | <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png">    |   Hugging Face  | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/huggingface.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/claude_code.png"> | Claude Code | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/claude_code.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codex.png"> | Codex | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/codex.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cursor.png"> | Cursor | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cursor.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/antigravity.png"> | Antigravity | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/antigravity.png` |
 
 ### 🔬 Analytics
 
