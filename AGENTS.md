@@ -8,6 +8,8 @@
 
 There are no tests or lint for icons (CI only publishes the site). Verify with `file icons/<name>.png` (must report `400 x 400, 8-bit/color RGBA`) and by looking at the image.
 
+Look at the icon on both a white and a dark (`#0d1117`, GitHub dark mode) background. A dark or black logo on a transparent background disappears in dark mode: put it on a white rounded tile (400x400, corner radius 83, logo scaled to 320 px and centred), as `rust.png` or `next_js.png` do.
+
 ## Where to get logos
 
 - Prefer the vendor's official brand assets.
