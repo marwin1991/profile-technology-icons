@@ -60,6 +60,7 @@ checkout [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-
   - ➡️ 🛜️ [MQTT technologies](#-mqtt-technologies)
   - ➡️ 🔗 [Blockchain](#-blockchain)
   - ➡️ 🌎 [Geospatial](#-geospatial)
+  - ➡️ 📣 [Social Media](#-social-media)
 
 - ➡️ 🍼 [How to use this icons?](#-how-to-use-it)
 
@@ -531,6 +532,29 @@ endorsement._
 |         <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fme.png">         |         FME         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fme.png`                 |
 |        <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gdal.png">         |        GDAL         | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gdal.png`                |
 |      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geopandas.png">      |      GeoPandas      | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/geopandas.png`           |
+
+### 📣 Social Media
+
+| Technology Icon | Technology Name | URL |
+| :---: | :---: | --- |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/facebook.png"> | Facebook | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/facebook.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png"> | LinkedIn | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linkedin.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png"> | X | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/x.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png"> | Instagram | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/instagram.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/youtube.png"> | YouTube | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/youtube.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tiktok.png"> | TikTok | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tiktok.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/threads.png"> | Threads | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/threads.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bluesky.png"> | Bluesky | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bluesky.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mastodon.png"> | Mastodon | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mastodon.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/reddit.png"> | Reddit | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/reddit.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/discord.png"> | Discord | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/discord.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/telegram.png"> | Telegram | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/telegram.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/whatsapp.png"> | WhatsApp | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/whatsapp.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png"> | Twitch | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/twitch.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hashnode.png"> | Hashnode | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hashnode.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dev_to.png"> | dev.to | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dev_to.png` |
+| <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stack_overflow.png"> | Stack Overflow | `https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/stack_overflow.png` |
+
 
 # 🍼 How to use it?
 
