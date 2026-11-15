@@ -43,8 +43,8 @@ const IndexPage = () => {
             <ThemeProvider theme={theme}>
                 <ElevateAppBar/>
                 <div style={titleContainerStyle}>
-                    <Typography variant="h3" fontWeight={600} gutterBottom style={{maxWidth: 850, margin: "auto"}}>
-                        <Box fontWeight={600}>
+                    <Typography variant="h3" gutterBottom sx={{fontWeight: 600}} style={{maxWidth: 850, margin: "auto"}}>
+                        <Box sx={{fontWeight: 600}}>
                             Make your GitHub Profile awesome!
                             Show what technologies you know.
                         </Box>
