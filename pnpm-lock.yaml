@@ -55,7 +55,7 @@ importers:
         version: 1.2.0
       gatsby-plugin-styled-components:
         specifier: 6.16.0
-        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1))
+        version: 6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1))
       react:
         specifier: 19.3.1
         version: 19.3.1
@@ -66,8 +66,8 @@ importers:
         specifier: 19.3.1
         version: 19.3.1(react@19.3.1)
       styled-components:
-        specifier: 6.6.0
-        version: 6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
+        specifier: 6.7.0
+        version: 6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
     devDependencies:
       gh-pages:
         specifier: 6.3.0
@@ -5563,8 +5563,8 @@ packages:
   style-to-object@0.4.4:
     resolution: {integrity: sha512-HYNoHZa2GorYNyqiCaBgsxvcJIn7OHq6inEga+E6Ke3m5JkoqpQbnFssk4jwe+K7AhGa2fcha4wSOf1Kn01dMg==}
 
-  styled-components@6.6.0:
-    resolution: {integrity: sha512-drKKsqvDBxVRn4ySU67iQ5nQBuo/1xyYeBfdhDde112PkqrS3+95KPnpDs5hFRcmrW+q6+gbyywYYYR14oWFtw==}
+  styled-components@6.7.0:
+    resolution: {integrity: sha512-bXQPHHWVSyNtLfCd8GM4yg4i5Cq+y7pDuj5gs/hm5+3vQ3G4QieAQ9QybKl4p1THR3qqEiDa/w4kqVDjZ/sO5Q==}
     engines: {node: '>= 16'}
     peerDependencies:
       css-to-react-native: '>= 3.2.0'
@@ -7017,6 +7017,13 @@ snapshots:
       '@codemirror/view': 6.35.2
       '@lezer/common': 1.2.3
 
+  '@codemirror/autocomplete@6.18.3(@codemirror/language@6.10.6)(@codemirror/state@6.7.6)(@codemirror/view@6.35.2)(@lezer/common@1.2.3)':
+    dependencies:
+      '@codemirror/language': 6.10.6
+      '@codemirror/state': 6.7.6
+      '@codemirror/view': 6.35.2
+      '@lezer/common': 1.2.3
+
   '@codemirror/commands@6.11.1':
     dependencies:
       '@codemirror/language': 6.10.6
@@ -7080,7 +7087,7 @@ snapshots:
 
   '@codemirror/search@6.5.8':
     dependencies:
-      '@codemirror/state': 6.4.1
+      '@codemirror/state': 6.7.6
       '@codemirror/view': 6.35.2
       crelt: 1.0.7
 
@@ -7093,7 +7100,7 @@ snapshots:
   '@codemirror/theme-one-dark@6.1.2':
     dependencies:
       '@codemirror/language': 6.10.6
-      '@codemirror/state': 6.4.1
+      '@codemirror/state': 6.7.6
       '@codemirror/view': 6.35.2
       '@lezer/highlight': 1.2.5
 
@@ -8653,14 +8660,14 @@ snapshots:
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2)
       gatsby-core-utils: 4.16.0
 
-  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)):
+  babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)):
     dependencies:
       '@babel/helper-annotate-as-pure': 7.29.7
       '@babel/helper-module-imports': 7.29.7
       '@babel/plugin-syntax-jsx': 7.29.7(@babel/core@7.26.0)
       lodash: 4.18.1
       picomatch: 2.3.2
-      styled-components: 6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
+      styled-components: 6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
     transitivePeerDependencies:
       - '@babel/core'
       - supports-color
@@ -9040,12 +9047,12 @@ snapshots:
 
   codemirror@6.0.1(@lezer/common@1.2.3):
     dependencies:
-      '@codemirror/autocomplete': 6.18.3(@codemirror/language@6.10.6)(@codemirror/state@6.4.1)(@codemirror/view@6.35.2)(@lezer/common@1.2.3)
+      '@codemirror/autocomplete': 6.18.3(@codemirror/language@6.10.6)(@codemirror/state@6.7.6)(@codemirror/view@6.35.2)(@lezer/common@1.2.3)
       '@codemirror/commands': 6.11.1
       '@codemirror/language': 6.10.6
       '@codemirror/lint': 6.8.4
       '@codemirror/search': 6.5.8
-      '@codemirror/state': 6.4.1
+      '@codemirror/state': 6.7.6
       '@codemirror/view': 6.35.2
     transitivePeerDependencies:
       - '@lezer/common'
@@ -10361,14 +10368,14 @@ snapshots:
     dependencies:
       smoothscroll-polyfill: 0.4.4
 
-  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)):
+  gatsby-plugin-styled-components@6.16.0(babel-plugin-styled-components@2.1.4(@babel/core@7.26.0)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)))(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)):
     dependencies:
       '@babel/runtime': 7.28.4
-      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1))
+      babel-plugin-styled-components: 2.1.4(@babel/core@7.26.0)(styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1))
       gatsby: 5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2)
       react: 19.3.1
       react-dom: 19.3.1(react@19.3.1)
-      styled-components: 6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
+      styled-components: 6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1)
 
   gatsby-plugin-typescript@5.16.0(gatsby@5.16.1(babel-eslint@10.1.0(eslint@7.32.0))(react-dom@19.3.1(react@19.3.1))(react@19.3.1)(type-fest@0.21.3)(typescript@5.7.2)):
     dependencies:
@@ -12828,7 +12835,7 @@ snapshots:
     dependencies:
       inline-style-parser: 0.1.1
 
-  styled-components@6.6.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1):
+  styled-components@6.7.0(css-to-react-native@3.2.0)(react-dom@19.3.1(react@19.3.1))(react@19.3.1):
     dependencies:
       '@emotion/is-prop-valid': 1.4.0
       '@types/stylis': 4.2.7
